@@ -88,4 +88,26 @@ nlu:
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
-    - am I talking to a human?
+
+- intent: ask_prakriti
+  examples: |
+    - what is my prakriti?
+    - can I know to which prakriti I belong?
+    - which prakriti I belong to?
+
+- intent: physical_character
+  examples: |
+    - I'm fat
+    - I'm thin
+    - I'm fit
+    - I'm tall
+    - I'm short
+
+- intent: mental_character
+  examples: |
+    - I'm quick [responsive](intiation_capabilities)
+    - I'm [slow](intiation_capabilities)
+    - I'm talkative
+    - I'm Authoritative
+    - I'm calm and quiet
+

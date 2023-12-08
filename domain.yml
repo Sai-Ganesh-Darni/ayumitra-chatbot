@@ -8,6 +8,9 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - ask_prakriti
+  - physical_character
+  - mental_character
 
 responses:
   utter_greet:
@@ -28,6 +31,28 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+  
+  utter_askbodyBuilt:
+  - text: "Tell me about your body built"
+
+  utter_askJoints:
+  - text: "Tell me about your bone joints"
+
+  utter_askSkin:
+  - text: "Tell me about your skin"
+
+  utter_askHair:
+  - text: "Tell me about your hair"
+
+  utter_askInitiation:
+  - text: "How about your initiation?"
+
+  utter_askSpeech:
+  - text: "How's your speaking abilities?"
+
+  utter_askMemory:
+  - text: ""
+  
 
 session_config:
   session_expiration_time: 60
