@@ -7,22 +7,22 @@ nlu:
     - hello
     - hi
     - hello there
-    - good morning
-    - good evening
-    - moin
+    - good [morning](time)
+    - good [evening](time)
+    - [moin](time)
     - hey there
     - let's go
     - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - [goodmorning](time)
+    - [goodevening](time)
+    - good [afternoon](time)
 
 - intent: goodbye
   examples: |
     - cu
     - good by
     - cee you later
-    - good night
+    - good (night)[time]
     - bye
     - goodbye
     - have a nice day
@@ -88,6 +88,9 @@ nlu:
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
+    - what is your name?
+    - tell me your name?
+    - who are you?
 
 - intent: ask_prakriti
   examples: |
@@ -95,13 +98,128 @@ nlu:
     - can I know to which prakriti I belong?
     - which prakriti I belong to?
 
+
 - intent: physical_character
   examples: |
-    - I'm fat
-    - I'm thin
+    - I'm [fat](bodyBuilt)
+    - I'm [thin](bodyBuilt)
     - I'm fit
     - I'm tall
-    - I'm short
+    - I'm [short]()
+    - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
+    - My [skin](skin) is dry and rough.
+    - I have [thin](hair) hair.
+
+
+    - I have a [well-formed](bodyBuilt) body with a majestic gait.
+    - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with stable movement.
+    - I'm [thin](bodyBuilt) and have a [slender](bodyBuilt) body.
+    - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
+    - I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body.
+    - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
+#I have a [well-formed](bodyBuilt) body with a majestic gait.
+    - I possess a [sculpted](bodyBuilt) body.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [fit](bodyBuilt) physique.
+    - I feature a [athletic](bodyBuilt) build.
+    - I maintain a [strong](bodyBuilt) physique.
+    - I display a [healthy](bodyBuilt) body.
+    - I boast a [chiseled](bodyBuilt) physique.
+    - I present a [muscular](bodyBuilt) build.
+    - I hold a [trim](bodyBuilt) physique.
+    - I carry a [well-proportioned](bodyBuilt) body.
+    - I reveal a [robust](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I express a [defined](bodyBuilt) body.
+    - I parade a [sturdy](bodyBuilt) physique.
+    - I highlight a [toned](bodyBuilt) physique.
+    - I demonstrate a [fit](bodyBuilt) build.
+    - I feature a [athletic](bodyBuilt) physique.
+    - I possess a [sculpted](bodyBuilt) figure.
+    - I maintain a [strong](bodyBuilt) build.
+    - I display a [healthy](bodyBuilt) physique.
+    - I boast a [chiseled](bodyBuilt) body.
+    - I present a [muscular](bodyBuilt) physique.
+    - I hold a [trim](bodyBuilt) figure.
+    - I carry a [well-proportioned](bodyBuilt) body.
+    - I showcase a [toned](bodyBuilt) build.
+    - I exhibit a [fit](bodyBuilt) physique.
+    - I feature a [athletic](bodyBuilt) figure.
+    - I maintain a [strong](bodyBuilt) body.
+    - I reveal a [robust](bodyBuilt) physique.
+    - I express a [defined](bodyBuilt) build.
+    - I flaunt a [powerful](bodyBuilt) physique.
+    - I demonstrate a [toned](bodyBuilt) figure.
+    - I highlight a [sculpted](bodyBuilt) body.
+    - I possess a [fit](bodyBuilt) physique.
+    - I display a [healthy](bodyBuilt) build.
+    - I boast a [chiseled](bodyBuilt) physique.
+    - I hold a [well-proportioned](bodyBuilt) body.
+    - I present a [muscular](bodyBuilt) build.
+    - I carry a [trim](bodyBuilt) physique.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [athletic](bodyBuilt) physique.
+    - I feature a [strong](bodyBuilt) build.
+    - I maintain a [fit](bodyBuilt) physique.
+    - I reveal a [robust](bodyBuilt) body.
+    - I express a [defined](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I demonstrate a [toned](bodyBuilt) physique.
+    - I highlight a [sculpted](bodyBuilt) figure.
+    - I possess a [fit](bodyBuilt) body.
+    - I display a [healthy](bodyBuilt) physique.
+    - I boast a [chiseled](bodyBuilt) build.
+    - I present a [muscular](bodyBuilt) physique.
+    - I carry a [trim](bodyBuilt) body.
+    - I showcase a [toned](bodyBuilt) physique.
+    - I exhibit a [athletic](bodyBuilt) build.
+    - I feature a [strong](bodyBuilt) physique.
+    - I maintain a [fit](bodyBuilt) figure.
+    - I reveal a [robust](bodyBuilt) body.
+    - I express a [defined](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I demonstrate a [toned](bodyBuilt) body.
+    - I highlight a [sculpted](bodyBuilt) physique.
+    - I possess a [fit](bodyBuilt) build.
+    - I display a [healthy](bodyBuilt) physique.
+    - I boast a [chiseled](bodyBuilt) body.
+    - I present a [muscular](bodyBuilt) build.
+    - I carry a [trim](bodyBuilt) physique.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [athletic](bodyBuilt) physique.
+    - I feature a [strong](bodyBuilt) build.
+    - I maintain a [fit](bodyBuilt) physique.
+    - I reveal a [robust](bodyBuilt) body.
+    - I express a [defined](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I demonstrate a [toned](bodyBuilt) body.
+    - I highlight a [sculpted](bodyBuilt) physique.
+    - I possess a [fit](bodyBuilt) figure.
+    - I display a [healthy](bodyBuilt) body.
+    - I boast a [chiseled](bodyBuilt) physique.
+    - I present a [muscular](bodyBuilt) build.
+    - I carry a [trim](bodyBuilt) physique.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [athletic](bodyBuilt) physique.
+    - I feature a [strong](bodyBuilt) build.
+    - I maintain a [fit](bodyBuilt) physique.
+    - I reveal a [robust](bodyBuilt) body.
+    - I express a [defined](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I demonstrate a [toned](bodyBuilt) body.
+    - I highlight a [sculpted](bodyBuilt) physique.
+    - I possess a [fit](bodyBuilt) build.
+    - I display a [healthy](bodyBuilt) physique.
+    - I boast a [chiseled](bodyBuilt) body.
+    - I present a [muscular](bodyBuilt) build.
+    - I carry a [trim](bodyBuilt) physique.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [athletic](bodyBuilt) physique.
+    - I feature a [strong](bodyBuilt) build.
+    - I maintain a [fit](bodyBuilt) physique.
+    - I reveal a [robust](bodyBuilt) body.
+
+
 
 - intent: mental_character
   examples: |
