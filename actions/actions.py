@@ -42,7 +42,7 @@ class ActionDeterminePrakriti(Action):
         kapha_score = 0
         info = {
                 'vata': {
-                    bodyBuilt: ['Thin', 'lean', 'slender', 'under developed', 'long','short', 'disproportionate', 'lustre less'],
+                    bodyBuilt: ["thin", "slender", "athletic", "lean", "muscular", "fit", "curvy", "shapely", "robust", "sturdy", "voluptuous", "full", "petite", "dainty", "strong", "muscular", "healthy", "well-proportioned", "slim", "graceful", "underdeveloped", "prominent veins", "curvy", "prominent veins", "athletic", "visible muscles", "well-proportioned", "distinct features", "defined", "visible contours", "muscular", "prominent veins", "toned", "striking features", "healthy", "noticeable lines", "slim", "visible contours"],
                     joints: ['Unstable', 'stiff joints'],
                     bodyOrgans: ['short', 'less','thin','cracked', 'stiff', 'dry', 'rough'],
                     skin: ['Dry', 'rough','cracked', 'cold','dark', 'brownish', 'black', 'grey','dusky'],
@@ -57,7 +57,20 @@ class ActionDeterminePrakriti(Action):
                     diseaseSuseptibility: ["Lower"]
                 },
                 'pitta': {
-                    bodyBuilt: ['Good looking','delicately shaped'],
+                    bodyBuilt: [
+    "good-looking", "delicately shaped", "well-proportioned", "gracefully contoured",
+    "handsome", "elegantly sculpted", "attractive", "finely crafted",
+    "pleasing", "beautifully structured", "captivating", "tastefully designed",
+    "alluring", "artistically shaped", "charming", "skillfully molded",
+    "delightfully contoured", "handsome", "elegantly crafted", "captivating",
+    "captivatingly shaped", "pleasing", "delicately outlined", "attractive",
+    "tastefully designed", "charming", "skillfully molded", "graceful",
+    "exquisitely formed", "compact", "good-looking", "well-proportioned",
+    "visually appealing", "trim", "handsome", "neatly shaped", "attractive",
+    "efficiently designed", "pleasing to the eye", "tidily structured", "charming",
+    "concisely built", "aesthetically pleasing", "well-arranged", "good-looking"
+]
+,
                     joints: ['soft, loose'],
                     bodyOrgans: ["coppery"],
                     skin: ['Warm', 'soft', 'delicate','sensitive','freckles','moles', 'wrinkled','fair','reddish','yellowish','pinkish'],
@@ -72,7 +85,7 @@ class ActionDeterminePrakriti(Action):
                     diseaseSuseptibility: ["Moderate"]
                 },
                 'kapha': {
-                    bodyBuilt: ['Well formed', 'Proportionate', 'Compact', 'Glossy body', 'Stable movement', 'Majestic gait'],
+                    bodyBuilt: ["well-formed", "majestic gait", "sculpted", "toned", "fit", "athletic", "strong", "healthy", "chiseled", "muscular", "trim", "well-proportioned", "robust", "powerful", "defined", "sturdy", "proportionate", "glossy", "stable movement", "defined", "radiant", "athletic", "smooth", "toned", "lustrous", "fit", "polished", "sculpted", "gleaming", "healthy", "sleek", "muscular", "shimmering", "strong", "lustrous", "robust", "glowing", "trim", "shimmering", "powerful", "polished", "well-proportioned", "radiant", "defined", "smooth", "athletic", "shiny", "toned", "lustrous", "fit", "polished", "sculpted", "gleaming", "healthy", "sleek", "muscular", "shimmering", "strong", "lustrous", "robust", "glowing", "trim", "shimmering", "powerful", "polished", "well-proportioned", "radiant", "defined", "smooth", "athletic", "shiny", "toned", "lustrous", "fit", "polished", "sculpted", "gleaming", "healthy", "sleek", "muscular", "shimmering", "strong", "lustrous", "robust", "glowing", "trim", "shimmering", "powerful", "polished", "well-proportioned", "radiant", "defined", "smooth", "athletic", "shiny", "toned", "lustrous", "fit", "polished", "sculpted", "gleaming", "healthy", "sleek", "muscular", "shimmering", "strong", "lustrous", "robust", "glowing", "trim", "shimmering", "powerful", "polished", "well-proportioned", "radiant"],
                     joints: ['Strong', 'Well hidden'],
                     bodyOrgans:['Compact', 'Firm', 'Full grown', 'Long arms', 'Big chest', 'Elevated chest', 'Wide forehead'],
                     skin: ['Smooth', 'Moist', 'Cold', 'Non-wrinkled', 'Glossy', 'Oily', 'Light complexion', 'Clear complexion', 'Whitish complexion'],
