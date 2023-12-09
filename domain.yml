@@ -30,7 +30,7 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am a Ayumitra Chatbot developed by Ayumitra Team"
   
   utter_askbodyBuilt:
   - text: "Tell me about your body built"
@@ -50,9 +50,16 @@ responses:
   utter_askSpeech:
   - text: "How's your speaking abilities?"
 
+  utter_determinePrakriti:
+  - text: "Your prakriti is Vata"
+
   utter_askMemory:
   - text: ""
-  
+
+
+
+actions:
+ - action_determinePrakriti
 
 session_config:
   session_expiration_time: 60

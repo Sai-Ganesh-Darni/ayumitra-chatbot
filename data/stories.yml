@@ -26,3 +26,26 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: ayumitra path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_prakriti
+  - action: utter_askbodyBuilt
+  - intent: physical_character
+  - action: utter_askJoints
+  - intent: physical_character
+  - action: utter_askSkin
+  - intent: physical_character
+  - action: utter_askHair
+  - intent: physical_character
+  - action: utter_askInitiation
+  - intent: mental_character
+  - action: utter_askSpeech
+  - intent: mental_character
+  - action: utter_askMemory
+  - intent: mental_character
+  - action: "action_determinePrakriti"
+  - intent: deny
+  - action: utter_goodbye

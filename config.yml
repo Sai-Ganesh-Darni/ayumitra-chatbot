@@ -5,6 +5,7 @@ recipe: default.v1
 # The assistant project unique identifier
 # This default value must be replaced with a unique assistant name within your deployment
 assistant_id: 20231209-111315-andante-quartz
+assistant_id: 20231208-193433-unary-wine
 
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
