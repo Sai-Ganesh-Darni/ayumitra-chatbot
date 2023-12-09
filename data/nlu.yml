@@ -105,17 +105,18 @@ nlu:
     - I'm [thin](bodyBuilt)
     - I'm fit
     - I'm tall
-    - I'm [short]()
+    - I'm [short](bodyBuilt)
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
-    - My [skin](skin) is dry and rough.
-    - I have [thin](hair) hair.
-
     - I have a [well-formed](bodyBuilt) body with a majestic gait.
     - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with stable movement.
     - I'm [thin](bodyBuilt) and have a [slender](bodyBuilt) body.
     - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
     - I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body.
     - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
+
+
+    - My [skin](skin) is dry and rough.
+    - I have [thin](hair) hair.
 
 #I have a [well-formed](bodyBuilt) body with a majestic gait.
     - I possess a [sculpted](bodyBuilt) body.
@@ -692,11 +693,6 @@ nlu:
 
 
     
-
-  
-
-
-
 
 - intent: mental_character
   examples: |

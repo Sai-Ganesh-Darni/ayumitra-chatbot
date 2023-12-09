@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-intiation_capabilities",
+      "2": "I-intiation_capabilities",
+      "3": "L-intiation_capabilities",
+      "4": "U-intiation_capabilities",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-intiation_capabilities": 1,
+      "I-intiation_capabilities": 2,
+      "L-intiation_capabilities": 3,
+      "U-intiation_capabilities": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]
