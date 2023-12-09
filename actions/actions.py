@@ -58,19 +58,18 @@ class ActionDeterminePrakriti(Action):
                 },
                 'pitta': {
                     bodyBuilt: [
-    "good-looking", "delicately shaped", "well-proportioned", "gracefully contoured",
-    "handsome", "elegantly sculpted", "attractive", "finely crafted",
-    "pleasing", "beautifully structured", "captivating", "tastefully designed",
-    "alluring", "artistically shaped", "charming", "skillfully molded",
-    "delightfully contoured", "handsome", "elegantly crafted", "captivating",
-    "captivatingly shaped", "pleasing", "delicately outlined", "attractive",
-    "tastefully designed", "charming", "skillfully molded", "graceful",
-    "exquisitely formed", "compact", "good-looking", "well-proportioned",
-    "visually appealing", "trim", "handsome", "neatly shaped", "attractive",
-    "efficiently designed", "pleasing to the eye", "tidily structured", "charming",
-    "concisely built", "aesthetically pleasing", "well-arranged", "good-looking"
-]
-,
+                                "good-looking", "delicately shaped", "well-proportioned", "gracefully contoured",
+                                "handsome", "elegantly sculpted", "attractive", "finely crafted",
+                                "pleasing", "beautifully structured", "captivating", "tastefully designed",
+                                "alluring", "artistically shaped", "charming", "skillfully molded",
+                                "delightfully contoured", "handsome", "elegantly crafted", "captivating",
+                                "captivatingly shaped", "pleasing", "delicately outlined", "attractive",
+                                "tastefully designed", "charming", "skillfully molded", "graceful",
+                                "exquisitely formed", "compact", "good-looking", "well-proportioned",
+                                "visually appealing", "trim", "handsome", "neatly shaped", "attractive",
+                                "efficiently designed", "pleasing to the eye", "tidily structured", "charming",
+                                "concisely built", "aesthetically pleasing", "well-arranged", "good-looking"
+                            ],
                     joints: ['soft, loose'],
                     bodyOrgans: ["coppery"],
                     skin: ['Warm', 'soft', 'delicate','sensitive','freckles','moles', 'wrinkled','fair','reddish','yellowish','pinkish'],
