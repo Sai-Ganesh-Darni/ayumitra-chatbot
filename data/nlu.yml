@@ -243,6 +243,146 @@ nlu:
     - My body is [tidily structured](bodyBuilt) and [charming](bodyBuilt).
     - My body is [concisely built](bodyBuilt) and [aesthetically pleasing](bodyBuilt).
     - My body is [well-arranged](bodyBuilt) and [good-looking](bodyBuilt).
+  
+  #I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds. - VATA
+    - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
+    - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
+    - I have [insecure](Joints) and [tense](Joints) joints with crackling sounds.
+    - I have [wobbly](Joints) and [hard](Joints) joints with crackling sounds.
+    - I have [shaky](Joints) and [inflexible](Joints) joints with crackling sounds.
+    - I have [unbalanced](Joints) and [stiff](Joints) joints with crackling sounds.
+    - I have [volatile](Joints) and [firm](Joints) joints with crackling sounds.
+    - I have [unsettled](Joints) and [solid](Joints) joints with crackling sounds.
+    - I have [unanchored](Joints) and [taut](Joints) joints with crackling sounds.
+  
+  #My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).- PITA
+    - My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).
+    - I experience [softness](Joints) and [looseness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [supple](Joints) and [flexible](Joints).
+    - I experience [flexibility](Joints) and [suppleness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliable](Joints) and [limber](Joints).
+    - I experience [limberness](Joints) and [pliability](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliant](Joints) and [malleable](Joints).
+    - I experience [malleability](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [yielding](Joints) and [elastic](Joints).
+    - I experience [elasticity](Joints) and [yield](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](Joints) and [pliable](Joints).
+    - I experience [resilience](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [limber](Joints) and [supple](Joints).
+    - I experience [suppleness](Joints) and [limberness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [elastic](Joints) and [flexible](Joints).
+    - I experience [flexibility](Joints) and [elasticity](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [malleable](Joints) and [yielding](Joints).
+    - I experience [yield](Joints) and [malleability](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](Joints) and [pliant](Joints).
+    - I experience [pliancy](Joints) and [resilience](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [bendable](Joints) and [loosened](Joints).
+    - I experience [bendability](Joints) and [loosening](Joints) in my joints, muscles, and limbs.
+
+  #I have [strong](Joints) and [well-hidden](Joints) joints. -KAPHA
+    - I have [strong](Joints) and [well-hidden](Joints) joints.
+    - My joints are [well-protected](Joints) and [strong](Joints).
+    - I have [robust](Joints) and [concealed](Joints) joints.
+    - My joints are [secure](Joints) and [sturdy](Joints).
+    - I have [powerful](Joints) and [disguised](Joints) joints.
+    - My joints are [well-defended](Joints) and [resilient](Joints).
+    - I have [vigorous](Joints) and [camouflaged](Joints) joints.
+    - My joints are [guarded](Joints) and [mighty](Joints).
+    - I have [stalwart](Joints) and [veiled](Joints) joints.
+    - My joints are [well-shielded](Joints) and [forceful](Joints).
+    - I have [potent](Joints) and [covert](Joints) joints.
+    - My joints are [well-armored](Joints) and [tenacious](Joints).
+    - I have [stout](Joints) and [hidden](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
+    - I have [firm](Joints) and [concealed](Joints) joints.
+    - My joints are [well-secured](Joints) and [muscular](Joints).
+    - I have [resistant](Joints) and [disguised](Joints) joints.
+    - My joints are [well-fortified](Joints) and [forceful](Joints).
+    - I have [tenacious](Joints) and [camouflaged](Joints) joints.
+    - My joints are [well-guarded](Joints) and [sturdy](Joints).
+    - I have [enduring](Joints) and [veiled](Joints) joints.
+    - My joints are [well-protected](Joints) and [powerful](Joints).
+    - I have [solid](Joints) and [covert](Joints) joints.
+    - My joints are [well-defended](Joints) and [mighty](Joints).
+    - I have [hidden](Joints) and [resilient](Joints) joints.
+    - My joints are [well-shielded](Joints) and [sturdy](Joints).
+    - I have [powerful](Joints) and [veiled](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
+    - I have [muscular](Joints) and [disguised](Joints) joints.
+    - My joints are [well-secured](Joints) and [firm](Joints).
+    - I have [forceful](Joints) and [hidden](Joints) joints.
+    - My joints are [well-fortified](Joints) and [resistant](Joints).
+    - I have [camouflaged](Joints) and [covert](Joints) joints.
+    - My joints are [well-guarded](Joints) and [solid](Joints).
+    - I have [veiled](Joints) and [mighty](Joints) joints.
+    - My joints are [well-protected](Joints) and [tenacious](Joints).
+    - I have [resilient](Joints) and [concealed](Joints) joints.
+    - My joints are [well-armored](Joints) and [powerful](Joints).
+    - I have [hardy](Joints) and [veiled](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hidden](Joints).
+    - I have [disguised](Joints) and [firm](Joints) joints.
+    - My joints are [well-secured](Joints) and [sturdy](Joints).
+    - I have [forceful](Joints) and [camouflaged](Joints) joints.
+    - My joints are [well-fortified](Joints) and [resilient](Joints).
+    - I have [tenacious](Joints) and [hidden](Joints) joints.
+    - My joints are [well-guarded](Joints) and [powerful](Joints).
+    - I have [enduring](Joints) and [veiled](Joints) joints.
+    - My joints are [well-protected](Joints) and [mighty](Joints).
+    - I have [solid](Joints) and [covert](Joints) joints.
+    - My joints are [well-defended](Joints) and [hardy](Joints).
+
+  #My organs are [short](bodyOrgans) and [cracked](bodyOrgans).- VATA
+    - My organs are [short](bodyOrgans) and [cracked](bodyOrgans).
+    - I have [thin](bodyOrgans) and [stiff](bodyOrgans) organs.
+    - My organs are [brief](bodyOrgans) and [damaged](bodyOrgans).
+    - I have [slim](bodyOrgans) and [rigid](bodyOrgans) organs.
+    - My organs are [small](bodyOrgans) and [broken](bodyOrgans).
+    - I have [narrow](bodyOrgans) and [firm](bodyOrgans) organs.
+    - My organs are [limited](bodyOrgans) and [fractured](bodyOrgans).
+    - I have [lean](bodyOrgans) and [unyielding](bodyOrgans) organs.
+    - My organs are [abbreviated](bodyOrgans) and [impaired](bodyOrgans).
+    - I have [slender](bodyOrgans) and [inflexible](bodyOrgans) organs.
+    - My organs are [diminished](bodyOrgans) and [broken](bodyOrgans).
+    - I have [shrunken](bodyOrgans) and [sturdy](bodyOrgans) organs.
+    - My organs are [scarce](bodyOrgans) and [frail](bodyOrgans).
+    - I have [stiff](bodyOrgans) organs.
+    - My organs are [scant](bodyOrgans) and [ruptured](bodyOrgans).
+    - I have [tense](bodyOrgans) organs.
+    - My organs are [compressed](bodyOrgans) and [cracked](bodyOrgans).
+    - I have [slight](bodyOrgans) and [unyielding](bodyOrgans) organs.
+    - My organs are [thin](bodyOrgans) and [firm](bodyOrgans).
+
+  #My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans). - pitta
+    - My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans).
+    - I have a [coppery palate](bodyOrgans) and [coppery lips](bodyOrgans).
+    - My nails are [bronze](bodyOrgans) and my eyes are [bronze](bodyOrgans).
+    - I have a [rusty](bodyOrgans) palate and [rusty](bodyOrgans) lips.
+    - My nails are [copper-toned](bodyOrgans) and my eyes are [copper-toned](bodyOrgans).
+    - I have [reddish-brown](bodyOrgans) nails, [reddish-brown](bodyOrgans) eyes, a [reddish-brown](bodyOrgans) palate, and [reddish-brown](bodyOrgans) lips.
+    - My nails are [earthy](bodyOrgans) and my eyes are [earthy](bodyOrgans).
+    - I have a [metallic](bodyOrgans) palate and [metallic](bodyOrgans) lips.
+    - My nails are [brownish-red](bodyOrgans) and my eyes are [brownish-red](bodyOrgans).
+    - I have a [tawny](bodyOrgans) palate and [tawny](bodyOrgans) lips
+
+  #I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.- KAPHA
+    - I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.
+    - My chest is [big](bodyOrgans) and [elevated](bodyOrgans), and I have [long arms](bodyOrgans).
+    - I possess [efficiently structured](bodyOrgans) and [solid](bodyOrgans) organs.
+    - My chest is [substantial](bodyOrgans) and [raised](bodyOrgans), and I have [extended arms](bodyOrgans).
+    - I have [well-organized](bodyOrgans) and [sturdy](bodyOrgans) organs.
+    - My chest is [spacious](bodyOrgans) and [uplifted](bodyOrgans), and I have [elongated arms](bodyOrgans).
+    - My body features [neatly arranged](bodyOrgans) and [resilient](bodyOrgans) organs.
+    - The chest area is [expansive](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthy arms](bodyOrgans).
+    - I am endowed with [well-compact](bodyOrgans) and [stalwart](bodyOrgans) organs.
+    - The chest region is [generous](bodyOrgans) and [heightened](bodyOrgans), and I boast [extended arms](bodyOrgans).
+    - My body houses [compactly organized](bodyOrgans) and [robust](bodyOrgans) organs.
+    - I showcase a [sizeable](bodyOrgans) and [upraised](bodyOrgans) chest, along with [long arms](bodyOrgans).
+    - I possess [toned](bodyOrgans) and [efficiently structured](bodyOrgans) organs.
+    - My chest is [ample](bodyOrgans) and [lifted](bodyOrgans), and I have [lengthy arms](bodyOrgans).
+    - The chest area is [spacious](bodyOrgans) and [elevated](bodyOrgans), and I showcase [elongated arms](bodyOrgans).
+    - I possess a [roomy](bodyOrgans) and [uplifted](bodyOrgans) chest, along with [extended arms](bodyOrgans).
+    - The chest region is [substantial](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthened arms](bodyOrgans).
+    - I showcase a [sizeable](bodyOrgans) and [heightened](bodyOrgans) chest, along with [extended arms](bodyOrgans).
 
 
 

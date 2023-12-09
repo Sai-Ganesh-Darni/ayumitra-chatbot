@@ -39,7 +39,7 @@ class ActionDeterminePrakriti(Action):
         props = ['bodyBuilt', 'joints', 'bodyOrgans', 'skin', 'hair', 'eyes', 'lips', 'teeth', 'initiation_capabilities', 'speech', 'memory', 'diseaseTendency', 'diseaseSuseptibility']
         vatta_score=0
         pitta_score=0
-        kapha_score = 0
+        kapha_score =0
         info = {
                 'vata': {
                     bodyBuilt: ["thin", "slender", "athletic", "lean", "muscular", "fit", "curvy", "shapely", "robust", "sturdy", "voluptuous", "full", "petite", "dainty", "strong", "muscular", "healthy", "well-proportioned", "slim", "graceful", "underdeveloped", "prominent veins", "curvy", "prominent veins", "athletic", "visible muscles", "well-proportioned", "distinct features", "defined", "visible contours", "muscular", "prominent veins", "toned", "striking features", "healthy", "noticeable lines", "slim", "visible contours"],
