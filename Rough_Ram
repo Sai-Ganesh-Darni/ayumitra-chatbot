@@ -1,0 +1,394 @@
+#I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds. - VATA
+    - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
+    - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
+    - I have [insecure](Joints) and [tense](Joints) joints with crackling sounds.
+    - I have [wobbly](Joints) and [hard](Joints) joints with crackling sounds.
+    - I have [shaky](Joints) and [inflexible](Joints) joints with crackling sounds.
+    - I have [unbalanced](Joints) and [stiff](Joints) joints with crackling sounds.
+    - I have [volatile](Joints) and [firm](Joints) joints with crackling sounds.
+    - I have [unsettled](Joints) and [solid](Joints) joints with crackling sounds.
+    - I have [unanchored](Joints) and [taut](Joints) joints with crackling sounds.
+Joints_words_vata = [
+    "unstable", "stiff",
+    "unsteady", "rigid",
+    "insecure", "tense",
+    "wobbly", "hard",
+    "shaky", "inflexible",
+    "unbalanced", "stiff",
+    "volatile", "firm",
+    "unsettled", "solid",
+    "unanchored", "taut"
+]
+
+
+#My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).- PITA
+    - My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).
+    - I experience [softness](Joints) and [looseness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [supple](Joints) and [flexible](Joints).
+    - I experience [flexibility](Joints) and [suppleness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliable](Joints) and [limber](Joints).
+    - I experience [limberness](Joints) and [pliability](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliant](Joints) and [malleable](Joints).
+    - I experience [malleability](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [yielding](Joints) and [elastic](Joints).
+    - I experience [elasticity](Joints) and [yield](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](Joints) and [pliable](Joints).
+    - I experience [resilience](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [limber](Joints) and [supple](Joints).
+    - I experience [suppleness](Joints) and [limberness](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [elastic](Joints) and [flexible](Joints).
+    - I experience [flexibility](Joints) and [elasticity](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [malleable](Joints) and [yielding](Joints).
+    - I experience [yield](Joints) and [malleability](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](Joints) and [pliant](Joints).
+    - I experience [pliancy](Joints) and [resilience](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [bendable](Joints) and [loosened](Joints).
+    - I experience [bendability](Joints) and [loosening](Joints) in my joints, muscles, and limbs.
+Joints_words_pita = [
+    "soft", "loose",
+    "softness", "looseness",
+    "supple", "flexible",
+    "flexibility", "suppleness",
+    "pliable", "limber",
+    "limberness", "pliability",
+    "pliant", "malleable",
+    "malleability", "pliancy",
+    "yielding", "elastic",
+    "elasticity", "yield",
+    "resilient", "pliable",
+    "resilience", "pliancy",
+    "limber", "supple",
+    "suppleness", "limberness",
+    "elastic", "flexible",
+    "flexibility", "elasticity",
+    "malleable", "yielding",
+    "yield", "malleability",
+    "resilient", "pliant",
+    "pliancy", "resilience",
+    "bendable", "loosened",
+    "bendability", "loosening"
+]
+
+
+#I have [strong](Joints) and [well-hidden](Joints) joints. -KAPHA
+    - I have [strong](Joints) and [well-hidden](Joints) joints.
+    - My joints are [well-protected](Joints) and [strong](Joints).
+    - I have [robust](Joints) and [concealed](Joints) joints.
+    - My joints are [secure](Joints) and [sturdy](Joints).
+    - I have [powerful](Joints) and [disguised](Joints) joints.
+    - My joints are [well-defended](Joints) and [resilient](Joints).
+    - I have [vigorous](Joints) and [camouflaged](Joints) joints.
+    - My joints are [guarded](Joints) and [mighty](Joints).
+    - I have [stalwart](Joints) and [veiled](Joints) joints.
+    - My joints are [well-shielded](Joints) and [forceful](Joints).
+    - I have [potent](Joints) and [covert](Joints) joints.
+    - My joints are [well-armored](Joints) and [tenacious](Joints).
+    - I have [stout](Joints) and [hidden](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
+    - I have [firm](Joints) and [concealed](Joints) joints.
+    - My joints are [well-secured](Joints) and [muscular](Joints).
+    - I have [resistant](Joints) and [disguised](Joints) joints.
+    - My joints are [well-fortified](Joints) and [forceful](Joints).
+    - I have [tenacious](Joints) and [camouflaged](Joints) joints.
+    - My joints are [well-guarded](Joints) and [sturdy](Joints).
+    - I have [enduring](Joints) and [veiled](Joints) joints.
+    - My joints are [well-protected](Joints) and [powerful](Joints).
+    - I have [solid](Joints) and [covert](Joints) joints.
+    - My joints are [well-defended](Joints) and [mighty](Joints).
+    - I have [hidden](Joints) and [resilient](Joints) joints.
+    - My joints are [well-shielded](Joints) and [sturdy](Joints).
+    - I have [powerful](Joints) and [veiled](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
+    - I have [muscular](Joints) and [disguised](Joints) joints.
+    - My joints are [well-secured](Joints) and [firm](Joints).
+    - I have [forceful](Joints) and [hidden](Joints) joints.
+    - My joints are [well-fortified](Joints) and [resistant](Joints).
+    - I have [camouflaged](Joints) and [covert](Joints) joints.
+    - My joints are [well-guarded](Joints) and [solid](Joints).
+    - I have [veiled](Joints) and [mighty](Joints) joints.
+    - My joints are [well-protected](Joints) and [tenacious](Joints).
+    - I have [resilient](Joints) and [concealed](Joints) joints.
+    - My joints are [well-armored](Joints) and [powerful](Joints).
+    - I have [hardy](Joints) and [veiled](Joints) joints.
+    - My joints are [well-safeguarded](Joints) and [hidden](Joints).
+    - I have [disguised](Joints) and [firm](Joints) joints.
+    - My joints are [well-secured](Joints) and [sturdy](Joints).
+    - I have [forceful](Joints) and [camouflaged](Joints) joints.
+    - My joints are [well-fortified](Joints) and [resilient](Joints).
+    - I have [tenacious](Joints) and [hidden](Joints) joints.
+    - My joints are [well-guarded](Joints) and [powerful](Joints).
+    - I have [enduring](Joints) and [veiled](Joints) joints.
+    - My joints are [well-protected](Joints) and [mighty](Joints).
+    - I have [solid](Joints) and [covert](Joints) joints.
+    - My joints are [well-defended](Joints) and [hardy](Joints).
+Joints_words_kapha = [
+    "strong", "well-hidden",
+    "well-protected", "strong",
+    "robust", "concealed",
+    "secure", "sturdy",
+    "powerful", "disguised",
+    "well-defended", "resilient",
+    "vigorous", "camouflaged",
+    "guarded", "mighty",
+    "stalwart", "veiled",
+    "well-shielded", "forceful",
+    "potent", "covert",
+    "well-armored", "tenacious",
+    "stout", "hidden",
+    "well-safeguarded", "hardy",
+    "firm", "concealed",
+    "well-secured", "muscular",
+    "resistant", "disguised",
+    "well-fortified", "forceful",
+    "tenacious", "camouflaged",
+    "well-guarded", "sturdy",
+    "enduring", "veiled",
+    "well-protected", "powerful",
+    "solid", "covert",
+    "well-defended", "mighty",
+    "hidden", "resilient",
+    "well-shielded", "sturdy",
+    "powerful", "veiled",
+    "well-safeguarded", "hardy",
+    "muscular", "disguised",
+    "well-secured", "firm",
+    "forceful", "hidden",
+    "well-fortified", "resistant",
+    "camouflaged", "covert",
+    "well-guarded", "solid",
+    "veiled", "mighty",
+    "well-protected", "tenacious",
+    "resilient", "concealed",
+    "well-armored", "powerful",
+    "hardy", "veiled",
+    "well-safeguarded", "hidden",
+    "disguised", "firm",
+    "well-secured", "sturdy",
+    "forceful", "camouflaged",
+    "well-fortified", "resilient",
+    "tenacious", "hidden",
+    "well-guarded", "powerful",
+    "enduring", "veiled",
+    "well-protected", "mighty",
+    "solid", "covert",
+    "well-defended", "hardy"
+]
+
+
+Certainly! Here are the sentences with (teeth) added between [] and teeth:
+
+1. I have [small](teeth) teeth.
+2. I have [moderately-sized](teeth) teeth.
+3. I have [crooked] and [small](teeth) teeth.
+4. I have [large](teeth) teeth.
+5. I have [straight](teeth) teeth.
+6. I have [perfectly aligned](teeth) teeth.
+7. I have [uniform](teeth) teeth.
+8. I have [well-spaced](teeth) teeth.
+9. I have [white](teeth) teeth.
+10. I have [shapely](teeth) teeth.
+11. I have [pearly](teeth) white teeth.
+12. I have [flawless](teeth) teeth.
+13. I have [sparkling](teeth) teeth.
+14. I have [well-maintained](teeth) teeth.
+15. I have [well-cared-for](teeth) teeth.
+16. I have [pleasingly arranged](teeth) teeth.
+17. I have [gleaming](teeth) teeth.
+18. I have [beautifully proportioned](teeth) teeth.
+19. I have [sparkling white](teeth) teeth.
+20. I have [neatly aligned](teeth) teeth.
+21. I have [radiant](teeth) teeth.
+22. I have [meticulously cared for](teeth) teeth.
+23. I have [healthy](teeth) teeth.
+24. I have [symmetrical](teeth) teeth.
+25. I have [spotless](teeth) teeth.
+26. I have [proportionate](teeth) teeth.
+27. I have [clean](teeth) teeth.
+28. I have [immaculate](teeth) teeth.
+29. I have [well-aligned](teeth) teeth.
+30. I have [gleaming white](teeth) teeth.
+31. I have [perfectly symmetrical](teeth) teeth.
+32. I have [pristine](teeth) teeth.
+33. I have [well-cared-for](teeth) teeth.
+34. I have [well-maintained](teeth) teeth.
+35. I have [beautifully aligned](teeth) teeth.
+36. I have [bright](teeth) teeth.
+37. I have [flawlessly arranged](teeth) teeth.
+38. I have [polished](teeth) teeth.
+39. I have [neatly aligned](teeth) teeth.
+40. I have [perfectly maintained](teeth) teeth.
+41. I have [clean](teeth) teeth.
+42. I have [well-kept](teeth) teeth.
+43. I have [immaculately arranged](teeth) teeth.
+44. I have [radiant](teeth) teeth.
+45. I have [well-cared-for](teeth) teeth.
+46. I have [proportionate](teeth) teeth.
+47. I have [perfectly aligned](teeth) teeth.
+48. I have [bright](teeth) teeth.
+49. I have [gleaming white](teeth) teeth.
+50. I have [perfectly symmetrical](teeth) teeth.
+51. I have [pristine](teeth) teeth.
+52. I have [well-cared-for](teeth) teeth.
+53. I have [well-maintained](teeth) teeth.
+54. I have [beautifully aligned](teeth) teeth.
+55. I have [bright](teeth) teeth.
+56. I have [flawlessly arranged](teeth) teeth.
+57. I have [polished](teeth) teeth.
+58. I have [spotless](teeth) teeth.
+59. I have [gleaming](teeth) teeth.
+60. I have [neatly aligned](teeth) teeth.
+61. I have [perfectly maintained](teeth) teeth.
+62. I have [clean](teeth) teeth.
+63. I have [well-kept](teeth) teeth.
+64. I have [immaculately arranged](teeth) teeth.
+65. I have [radiant](teeth) teeth.
+66. I have [well-cared-for](teeth) teeth.
+67. I have [proportionate](teeth) teeth.
+68. I have [perfectly aligned](teeth) teeth.
+69. I have [bright](teeth) teeth.
+70. I have [gleaming white](teeth) teeth.
+71. I have [perfectly symmetrical](teeth) teeth.
+72. I have [pristine](teeth) teeth.
+73. I have [well-cared-for](teeth) teeth.
+74. I have [well-maintained](teeth) teeth.
+75. I have [beautifully aligned](teeth) teeth.
+76. I have [bright](teeth) teeth.
+77. I have [flawlessly arranged](teeth) teeth.
+78. I have [polished](teeth) teeth.
+79. I have [spotless](teeth) teeth.
+80. I have [gleaming](teeth) teeth.
+81. I have [neatly aligned](teeth) teeth.
+82. I have [perfectly maintained](teeth) teeth.
+83. I have [clean](teeth) teeth.
+84. I have [well-kept](teeth) teeth.
+85. I have [immaculately arranged](teeth) teeth.
+86. I have [radiant](teeth) teeth.
+87. I have [well-cared-for](teeth) teeth.
+88. I have [proportionate](teeth) teeth.
+89. I have [perfectly aligned](teeth) teeth.
+90. I have [bright](teeth) teeth.
+91. I have [gleaming white](teeth) teeth.
+92. I have [perfectly symmetrical](teeth) teeth.
+93. I have [pristine](teeth) teeth.
+94. I have [well-cared-for](teeth) teeth.
+95. I have [well-maintained](teeth) teeth.
+96. I have [beautifully aligned](teeth) teeth.
+97. I have [bright](teeth) teeth.
+98. I have [flawlessly arranged](teeth) teeth.
+99. I have [polished](teeth) teeth.
+100. I have [neatly aligned](teeth) teeth.
+
+#My organs are [short](bodyOrgans) and [cracked](bodyOrgans).- VATA
+    - My organs are [short](bodyOrgans) and [cracked](bodyOrgans).
+    - I have [thin](bodyOrgans) and [stiff](bodyOrgans) organs.
+    - My organs are [brief](bodyOrgans) and [damaged](bodyOrgans).
+    - I have [slim](bodyOrgans) and [rigid](bodyOrgans) organs.
+    - My organs are [small](bodyOrgans) and [broken](bodyOrgans).
+    - I have [narrow](bodyOrgans) and [firm](bodyOrgans) organs.
+    - My organs are [limited](bodyOrgans) and [fractured](bodyOrgans).
+    - I have [lean](bodyOrgans) and [unyielding](bodyOrgans) organs.
+    - My organs are [abbreviated](bodyOrgans) and [impaired](bodyOrgans).
+    - I have [slender](bodyOrgans) and [inflexible](bodyOrgans) organs.
+    - My organs are [diminished](bodyOrgans) and [broken](bodyOrgans).
+    - I have [shrunken](bodyOrgans) and [sturdy](bodyOrgans) organs.
+    - My organs are [scarce](bodyOrgans) and [frail](bodyOrgans).
+    - I have [stiff](bodyOrgans) organs.
+    - My organs are [scant](bodyOrgans) and [ruptured](bodyOrgans).
+    - I have [tense](bodyOrgans) organs.
+    - My organs are [compressed](bodyOrgans) and [cracked](bodyOrgans).
+    - I have [slight](bodyOrgans) and [unyielding](bodyOrgans) organs.
+    - My organs are [thin](bodyOrgans) and [firm](bodyOrgans).
+bodyOrgans_words_vata = [
+    "short", "cracked",
+    "thin", "stiff",
+    "brief", "damaged",
+    "slim", "rigid",
+    "small", "broken",
+    "narrow", "firm",
+    "limited", "fractured",
+    "lean", "unyielding",
+    "abbreviated", "impaired",
+    "slender", "inflexible",
+    "diminished", "shrunken",
+    "sturdy", "scarce",
+    "frail", "scant",
+    "ruptured", "tense",
+    "compressed", "slight"
+]
+
+#My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans). - pitta
+    - My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans).
+    - I have a [coppery palate](bodyOrgans) and [coppery lips](bodyOrgans).
+    - My nails are [bronze](bodyOrgans) and my eyes are [bronze](bodyOrgans).
+    - I have a [rusty](bodyOrgans) palate and [rusty](bodyOrgans) lips.
+    - My nails are [copper-toned](bodyOrgans) and my eyes are [copper-toned](bodyOrgans).
+    - I have [reddish-brown](bodyOrgans) nails, [reddish-brown](bodyOrgans) eyes, a [reddish-brown](bodyOrgans) palate, and [reddish-brown](bodyOrgans) lips.
+    - My nails are [earthy](bodyOrgans) and my eyes are [earthy](bodyOrgans).
+    - I have a [metallic](bodyOrgans) palate and [metallic](bodyOrgans) lips.
+    - My nails are [brownish-red](bodyOrgans) and my eyes are [brownish-red](bodyOrgans).
+    - I have a [tawny](bodyOrgans) palate and [tawny](bodyOrgans) lips.
+bodyOrgans_colors_pitta = [
+    "coppery",
+    "bronze",
+    "rusty",
+    "copper-toned",
+    "reddish-brown",
+    "earthy",
+    "metallic",
+    "brownish-red",
+    "tawny"
+]
+
+#I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.- KAPHA
+    - I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.
+    - My chest is [big](bodyOrgans) and [elevated](bodyOrgans), and I have [long arms](bodyOrgans).
+    - I possess [efficiently structured](bodyOrgans) and [solid](bodyOrgans) organs.
+    - My chest is [substantial](bodyOrgans) and [raised](bodyOrgans), and I have [extended arms](bodyOrgans).
+    - I have [well-organized](bodyOrgans) and [sturdy](bodyOrgans) organs.
+    - My chest is [spacious](bodyOrgans) and [uplifted](bodyOrgans), and I have [elongated arms](bodyOrgans).
+    - My body features [neatly arranged](bodyOrgans) and [resilient](bodyOrgans) organs.
+    - The chest area is [expansive](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthy arms](bodyOrgans).
+    - I am endowed with [well-compact](bodyOrgans) and [stalwart](bodyOrgans) organs.
+    - The chest region is [generous](bodyOrgans) and [heightened](bodyOrgans), and I boast [extended arms](bodyOrgans).
+    - My body houses [compactly organized](bodyOrgans) and [robust](bodyOrgans) organs.
+    - I showcase a [sizeable](bodyOrgans) and [upraised](bodyOrgans) chest, along with [long arms](bodyOrgans).
+    - I possess [toned](bodyOrgans) and [efficiently structured](bodyOrgans) organs.
+    - My chest is [ample](bodyOrgans) and [lifted](bodyOrgans), and I have [lengthy arms](bodyOrgans).
+    - The chest area is [spacious](bodyOrgans) and [elevated](bodyOrgans), and I showcase [elongated arms](bodyOrgans).
+    - I possess a [roomy](bodyOrgans) and [uplifted](bodyOrgans) chest, along with [extended arms](bodyOrgans).
+    - The chest region is [substantial](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthened arms](bodyOrgans).
+    - I showcase a [sizeable](bodyOrgans) and [heightened](bodyOrgans) chest, along with [extended arms](bodyOrgans).
+
+bodyOrgans_descriptions_kapha = [
+    "compact",
+    "firm",
+    "big",
+    "elevated",
+    "long arms",
+    "efficiently structured",
+    "solid",
+    "substantial",
+    "raised",
+    "extended arms",
+    "well-organized",
+    "sturdy",
+    "spacious",
+    "uplifted",
+    "elongated arms",
+    "neatly arranged",
+    "resilient",
+    "expansive",
+    "lifted",
+    "lengthy arms",
+    "well-compact",
+    "stalwart",
+    "generous",
+    "heightened",
+    "toned",
+    "ample",
+    "roomy",
+    "lengthened arms",
+    "sizeable",
+    "substantial",
+    "elongated arms",
+]
