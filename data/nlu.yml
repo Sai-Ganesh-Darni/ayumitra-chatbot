@@ -105,7 +105,7 @@ nlu:
     - I'm [thin](bodyBuilt)
     - I'm fit
     - I'm tall
-    - I'm [short]()
+    - I'm [short](bodyBuilt)
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
     - My [skin](skin) is dry and rough.
     - I have [thin](hair) hair.
@@ -119,7 +119,11 @@ nlu:
     - I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body.
     - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
 
-  # I have a [well-formed](bodyBuilt) body with a [majestic gait](bodyBuilt) - kapha.
+
+    - My [skin](skin) is dry and rough.
+    - I have [thin](hair) hair.
+
+#I have a [well-formed](bodyBuilt) body with a majestic gait.
     - I possess a [sculpted](bodyBuilt) body.
     - I showcase a [toned](bodyBuilt) body.
     - I exhibit a [fit](bodyBuilt) physique.
@@ -226,25 +230,196 @@ nlu:
     - I have a [captivating](bodyBuilt) and [tastefully designed](bodyBuilt) body.
     - I have an [alluring](bodyBuilt) and [artistically shaped](bodyBuilt) physique.
     - I have a [charming](bodyBuilt) and [skillfully molded](bodyBuilt) body.
-    - I have a [delightfully contoured](bodyBuilt) and [handsome](bodyBuilt) physique.
-    - I have an [elegantly crafted](bodyBuilt) and [captivating](bodyBuilt) physique.
-    - I have a [captivatingly shaped](bodyBuilt) and [pleasing](bodyBuilt) physique.
-    - I have a [delicately outlined](bodyBuilt) and [attractive](bodyBuilt) body.
-    - I have a [tastefully designed](bodyBuilt) and [charming](bodyBuilt) physique.
-    - I have a [skillfully molded](bodyBuilt) and [graceful](bodyBuilt) body.
-    - I have a [exquisitely formed](bodyBuilt) and [well-proportioned](bodyBuilt) body.
+    - I have a [good-looking](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [handsome](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [graceful](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [graceful](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [charming](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
+    - I have a [attractive](bodyBuilt) and [delicately outlined](bodyBuilt) body.
+    - I have a [charming](bodyBuilt) and [tastefully designed](bodyBuilt) physique.
+    - I have a [graceful](bodyBuilt) and [skillfully molded](bodyBuilt) body.
+    - I have a [handsome](bodyBuilt) and [delightfully contoured](bodyBuilt) physique.
+    - I have a [well-proportioned](bodyBuilt) and [exquisitely formed](bodyBuilt) body.
+    - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
+    - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
+    - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
 
-  # My body is [compact](bodyBuilt) and [good-looking](bodyBuilt) - pitta.
-    - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [visually appealing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [handsome](bodyBuilt).
-    - My body is [neatly shaped](bodyBuilt) and [attractive](bodyBuilt).
-    - My body is [efficiently designed](bodyBuilt) and [pleasing to the eye](bodyBuilt).
-    - My body is [tidily structured](bodyBuilt) and [charming](bodyBuilt).
-    - My body is [concisely built](bodyBuilt) and [aesthetically pleasing](bodyBuilt).
-    - My body is [well-arranged](bodyBuilt) and [good-looking](bodyBuilt).
+#My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
+    - My body is [well-proportioned] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+    - My body is [neatly shaped] (bodyBuilt) and [attractive] (bodyBuilt).
+    - My body is [efficiently designed] (bodyBuilt) and [pleasing to the eye] (bodyBuilt).
+    - My body is [tidily structured] (bodyBuilt) and [charming] (bodyBuilt).
+    - My body is [concisely built] (bodyBuilt) and [aesthetically pleasing] (bodyBuilt).
+    - My body is [well-arranged] (bodyBuilt) and [good-looking] (bodyBuilt).
+    - My body is [compact] (bodyBuilt) and [visually appealing] (bodyBuilt).
+    - My body is [trim] (bodyBuilt) and [handsome] (bodyBuilt).
+
   
-  #I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds. - VATA
+      #I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds. - VATA
     - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
     - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
     - I have [insecure](Joints) and [tense](Joints) joints with crackling sounds.
