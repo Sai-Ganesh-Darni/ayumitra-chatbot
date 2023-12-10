@@ -46,6 +46,6 @@ stories:
   - intent: mental_character
   - action: utter_askMemory
   - intent: mental_character
-  - action: "action_determinePrakriti"
+  - action: action_determinePrakriti
   - intent: deny
   - action: utter_goodbye

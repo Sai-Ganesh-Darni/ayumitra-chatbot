@@ -50,9 +50,6 @@ responses:
   utter_askSpeech:
   - text: "How's your speaking abilities?"
 
-  utter_determinePrakriti:
-  - text: "Your prakriti is Vata"
-
   utter_askMemory:
   - text: ""
 
