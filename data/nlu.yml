@@ -102,106 +102,28 @@ nlu:
 - intent: physical_character
   examples: |
     - I'm [fat](bodyBuilt)
-    - I'm [thin](bodyBuilt)
     - I'm fit
     - I'm tall
+    - My [skin](skin) is dry and rough.
+    - I have [thin](hair) hair.
+    - My [skin](skin) is dry and rough.
+    - I have [thin](hair) hair.
+
+#------------------------BODY BUILT--------------------    
+
+  # [ VATA ]
+
     - I'm [short](bodyBuilt)
+    - I'm [thin](bodyBuilt)
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
-    - My [skin](skin) is dry and rough.
-    - I have [thin](hair) hair.
-
-    - I have a [well-formed](bodyBuilt) body with a [majestic gait](bodyBuilt).
-    - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with [stable movement](bodyBuilt).
-
-    - I'm [thin](bodyBuilt) and have a [slender](bodyBuilt) body.
-    - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
-    
-    - I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body.
-    - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
-
-
-    - My [skin](skin) is dry and rough.
-    - I have [thin](hair) hair.
-
-#I have a [well-formed](bodyBuilt) body with a majestic gait.
-    - I possess a [sculpted](bodyBuilt) body.
-    - I showcase a [toned](bodyBuilt) body.
-    - I exhibit a [fit](bodyBuilt) physique.
-    - I feature an [athletic](bodyBuilt) build.
-    - I maintain a [strong](bodyBuilt) physique.
-    - I display a [healthy](bodyBuilt) body.
-    - I boast a [chiseled](bodyBuilt) physique.
-    - I present a [muscular](bodyBuilt) build.
-    - I hold a [trim](bodyBuilt) physique.
-    - I carry a [well-proportioned](bodyBuilt) body.
-    - I reveal a [robust](bodyBuilt) physique.
-    - I flaunt a [powerful](bodyBuilt) build.
-    - I express a [defined](bodyBuilt) body.
-    - I parade a [sturdy](bodyBuilt) physique.
-
-  # My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with [stable movement](bodyBuilt)- kapha.
-    - My body is [defined](bodyBuilt) and [radiant](bodyBuilt).
-    - My body is [athletic](bodyBuilt) and [smooth](bodyBuilt).
-    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
-    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
-    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
-    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
-    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
-    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
-    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
-    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
-    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
-    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
-    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
-    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
-    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
-    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
-    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
-    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
-    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
-    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
-    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
-    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
-    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
-    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
-    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
-    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
-    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
-    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
-
-  # I'm [thin](bodyBuilt) and have a [slender](bodyBuilt) body- vata.
+    - My body is [curvy](bodyBuilt) with [prominent veins](bodyBuilt).
+    - My body is [athletic](bodyBuilt) with [visible muscles](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) with [distinct features](bodyBuilt).
+    - My body is [defined](bodyBuilt) with [visible contours](bodyBuilt).
+    - My body is [muscular](bodyBuilt) with [prominent veins](bodyBuilt).
+    - My body is [toned](bodyBuilt) with [striking features](bodyBuilt).
+    - My body is [healthy](bodyBuilt) with [noticeable lines](bodyBuilt).
+    - My body is [slim](bodyBuilt) with [visible contours](bodyBuilt).
     - I'm [athletic](bodyBuilt) and have a [lean](bodyBuilt) body.
     - I'm [muscular](bodyBuilt) and have a [fit](bodyBuilt) body.
     - I'm [curvy](bodyBuilt) and have a [shapely](bodyBuilt) body.
@@ -211,18 +133,12 @@ nlu:
     - I'm [strong](bodyBuilt) and have a [muscular](bodyBuilt) body.
     - I'm [healthy](bodyBuilt) and have a [well-proportioned](bodyBuilt) body.
     - I'm [slim](bodyBuilt) and have a [graceful](bodyBuilt) body.
+    - I'm [thin](bodyBuilt) and have a [slender](bodyBuilt) body.
+    - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
+    
 
-  # My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons- vata.
-    - My body is [curvy](bodyBuilt) with [prominent veins](bodyBuilt).
-    - My body is [athletic](bodyBuilt) with [visible muscles](bodyBuilt).
-    - My body is [well-proportioned](bodyBuilt) with [distinct features](bodyBuilt).
-    - My body is [defined](bodyBuilt) with [visible contours](bodyBuilt).
-    - My body is [muscular](bodyBuilt) with [prominent veins](bodyBuilt).
-    - My body is [toned](bodyBuilt) with [striking features](bodyBuilt).
-    - My body is [healthy](bodyBuilt) with [noticeable lines](bodyBuilt).
-    - My body is [slim](bodyBuilt) with [visible contours](bodyBuilt).
+  # [ PITA ]
 
-  # I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body - pitta.
     - I have a [well-proportioned](bodyBuilt) and [gracefully contoured](bodyBuilt) body.
     - I have a [handsome](bodyBuilt) and [elegantly sculpted](bodyBuilt) physique.
     - I have an [attractive](bodyBuilt) and [finely crafted](bodyBuilt) body.
@@ -315,8 +231,8 @@ nlu:
     - I have a [captivating](bodyBuilt) and [elegantly crafted](bodyBuilt) physique.
     - I have a [appealing](bodyBuilt) and [beautifully structured](bodyBuilt) body.
     - I have a [pleasing](bodyBuilt) and [captivatingly shaped](bodyBuilt) physique.
-
-#My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
+    - I have a [good-looking](bodyBuilt) and [delicately shaped](bodyBuilt) body.
+    - My body is [compact](bodyBuilt) and [good-looking](bodyBuilt).
     - My body is [well-proportioned](bodyBuilt) and [visually appealing](bodyBuilt).
     - My body is [trim](bodyBuilt) and [handsome](bodyBuilt).
     - My body is [neatly shaped](bodyBuilt) and [attractive](bodyBuilt).
@@ -417,11 +333,92 @@ nlu:
     - My body is [well-arranged](bodyBuilt) and [good-looking](bodyBuilt).
     - My body is [compact](bodyBuilt) and [visually appealing](bodyBuilt).
     - My body is [trim](bodyBuilt) and [handsome](bodyBuilt).
+    
+  # [ KAPHA ]
+
+    - My body is [defined](bodyBuilt) and [radiant](bodyBuilt).
+    - My body is [athletic](bodyBuilt) and [smooth](bodyBuilt).
+    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
+    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
+    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
+    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
+    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
+    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
+    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
+    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
+    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
+    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
+    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
+    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
+    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
+    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
+    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
+    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
+    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
+    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
+    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
+    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
+    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
+    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
+    - My body is [defined](bodyBuilt) and [smooth](bodyBuilt).
+    - My body is [athletic](bodyBuilt) and [shiny](bodyBuilt).
+    - My body is [toned](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [fit](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [sculpted](bodyBuilt) and [gleaming](bodyBuilt).
+    - My body is [healthy](bodyBuilt) and [sleek](bodyBuilt).
+    - My body is [muscular](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [strong](bodyBuilt) and [lustrous](bodyBuilt).
+    - My body is [robust](bodyBuilt) and [glowing](bodyBuilt).
+    - My body is [trim](bodyBuilt) and [shimmering](bodyBuilt).
+    - My body is [powerful](bodyBuilt) and [polished](bodyBuilt).
+    - My body is [well-proportioned](bodyBuilt) and [radiant](bodyBuilt).
+    - I possess a [sculpted](bodyBuilt) body.
+    - I showcase a [toned](bodyBuilt) body.
+    - I exhibit a [fit](bodyBuilt) physique.
+    - I feature an [athletic](bodyBuilt) build.
+    - I maintain a [strong](bodyBuilt) physique.
+    - I display a [healthy](bodyBuilt) body.
+    - I boast a [chiseled](bodyBuilt) physique.
+    - I present a [muscular](bodyBuilt) build.
+    - I hold a [trim](bodyBuilt) physique.
+    - I carry a [well-proportioned](bodyBuilt) body.
+    - I reveal a [robust](bodyBuilt) physique.
+    - I flaunt a [powerful](bodyBuilt) build.
+    - I express a [defined](bodyBuilt) body.
+    - I parade a [sturdy](bodyBuilt) physique.
+    - I have a [well-formed](bodyBuilt) body with a [majestic gait](bodyBuilt).
+    - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with [stable movement](bodyBuilt).
+
 
 # -------------------------- JOINTS ------------------------
 
   # [  VATA ]
 
+    - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
     - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
     - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
     - I have [insecure](Joints) and [tense](Joints) joints with crackling sounds.
@@ -533,7 +530,7 @@ nlu:
     - My organs are [thin](bodyOrgans) and [firm](bodyOrgans).
 
   # [ PITA ]
-  
+
     - My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans).
     - I have a [coppery palate](bodyOrgans) and [coppery lips](bodyOrgans).
     - My nails are [bronze](bodyOrgans) and my eyes are [bronze](bodyOrgans).
@@ -874,9 +871,296 @@ nlu:
 
 # [ VATA ]
 
- # [ PITA ]
+   - My eyes feel [dry](eyes) and look [unsteady](eyes).
+   - I have [moisturized](eyes) but they still seem [dry](eyes).
+   - The eyes appear [unsteady](eyes) and keep [blinking](eyes).
+   - I possess [tired](eyes) that often become [dry](eyes).
+   - My eyes are [unsteady](eyes) and constantly [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   - I have [teary](eyes) that become [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and prone to [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are frequently [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I have [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+   - The eyes seem [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [itchy](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit frequent [blinking](eyes).
+   - The eyes feel [dry](eyes) and seem slightly [unsteady](eyes).
+   - I possess [moisturized](eyes) that occasionally turn [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+   - The eyes seem [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I have [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes seem [dry](eyes) and display a [unsteady](eyes) gaze.
+   - I possess [itchy](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   - I have [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I have [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I possess [irritated](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   - I have [itchy](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I possess [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [irritated](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
+   - The eyes feel [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I have [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I possess [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+   - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [itchy](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I possess [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I have [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I possess [itchy](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   - I have [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I possess [watery](eyes) that occasionally become [dry](eyes).
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+   - I have [moist](eyes) that occasionally turn [dry](eyes).
+   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+   - I possess [irritated](eyes) that can be [dry](eyes) at times.
+   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+   - I have [itchy](eyes) that can become [dry](eyes).
+   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+   -  I possess [watery](eyes) that occasionally become [dry](eyes).
+
+# [ PITA ]
+
+    - My eyes are [sharp](eyes) and [penetrating](eyes), framed by [blonde](eyes) lashes.
+    - I possess [intense](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
+    - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) - effect.
+    - I have [copper-toned](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
+    - My eyes, with [blonde](eyes) lashes, give off a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+
+# [ KAPHA ]
+
+    - My eyes are [sparkling] (eyes), [expressive] (eyes), and [radiant with thick eyelashes] (eyes).
+    - I have [captivating and alluring eyes] (eyes) that are also [enchanting] (eyes).
+    - The skin around my eyes is [lush with thick eyelashes] (eyes) and [supple] (eyes).
+    - I'm proud of my [mesmerizing and attractive eyes] (eyes) with [long and voluminous eyelashes] (eyes).
+    - My eyes are [magnetic] (eyes), [compelling] (eyes), and [lush with thick eyelashes] (eyes).
+    - I have [striking and enticing eyes] (eyes) that are also [charming] (eyes).
+    - The skin around my eyes is [full with voluminous eyelashes] (eyes) and [hydrated] (eyes).
+    - I'm proud of my [captivating and attractive eyes] (eyes) with [dense eyelashes] (eyes).
+    - My eyes are [hypnotic] (eyes), [appealing] (eyes), and [lush with thick eyelashes] (eyes).
+    - I have [alluring and enchanting eyes] (eyes) that are also [bewitching] (eyes).
+
  
- 
+# ---------------------------- TEETH----------------------
+
+# [ VATA ]
+
+    - My teeth are [small] (teeth), [straight] (teeth), and [resilient] (teeth).
+    - I have [crooked] (teeth) but [charming] (teeth) nonetheless.
+    - The enamel on my teeth is [easily cracked] (teeth), but I maintain good oral hygiene.
+    - I'm proud of my [small and neat] (teeth) with [slightly crooked] (teeth) alignment.
+    - My teeth are [tiny] (teeth), [misaligned] (teeth), and [susceptible to cracking] (teeth).
+    - Despite their [small] (teeth) size, my teeth are [straight] (teeth) and [resistant to cracks] (teeth).
+    - The alignment of my teeth is [crooked] (teeth), but they are [sturdy] (teeth) and not easily cracked.
+    - I'm proud of my [compact] (teeth) that are [slightly crooked] (teeth) and [resilient] (teeth).
+    - My teeth are [small] (teeth), [misshapen] (teeth), and [prone to cracking] (teeth).
+    - I have [crooked] (teeth) that are [small] (teeth) yet [strong] (teeth) and not easily cracked.
+    - The size of my teeth is [small] (teeth), their alignment is [crooked] (teeth), and they are [susceptible to cracking] (teeth).
+    - I have [dainty] (teeth) that are [slightly crooked] (teeth) and [prone to being easily cracked] (teeth).
+    - Despite being [small] (teeth) and [crooked] (teeth), my teeth are surprisingly [resistant to cracking] (teeth).
+    - The appearance of my teeth is [compact] (teeth), [misaligned] (teeth), and [easily cracked] (teeth).
+    - I'm proud of my [tiny and unique] (teeth) that are both [crooked] (teeth) and [resilient] (teeth).
+    - My teeth, though [small] (teeth) and [crooked] (teeth), are not [easily cracked] (teeth) thanks to good dental care.
+    - The size and alignment of my teeth may be [small] (teeth) and [crooked] (teeth), but they are [hardy] (teeth) and not easily cracked.
+    - I have [compact] (teeth) that are [slightly crooked] (teeth) and [susceptible to cracking] (teeth).
+    - Despite being [small] (teeth) and [crooked] (teeth), my teeth remain [resistant to cracking] (teeth).
+    - I'm proud of my [delicate] (teeth) that are [crooked] (teeth) and [prone to being easily cracked] (teeth).
+
+  # [ PITA ]
+
+    - My teeth are of [moderate size] (teeth), [pearly white] (teeth), but slightly [yellowish] (teeth).
+    - I have a set of [moderately sized] (teeth), [healthy] (teeth), and [subtly yellowish] (teeth) enamel.
+    - The enamel on my [moderately sized] (teeth) is [naturally yellowish] (teeth) but in overall good health.
+    - I'm proud of my [teeth of moderate size] (teeth) that are [lightly yellowish] (teeth) yet robust.
+    - My teeth are [neither too small nor too large] (teeth) and have a [subtle yellowish tint] (teeth).
+    - Despite their [moderate size] (teeth), my teeth have a [natural yellowish hue] (teeth) that adds character.
+    - The alignment of my [moderately sized] (teeth) is [straight], and they have a [soft yellowish glow] (teeth).
+    - I have [naturally yellowish] (teeth) of [moderate size] (teeth) that are [well-maintained] (teeth).
+    - My [moderate-sized] (teeth) are [yellowish], giving my smile a [warm] (teeth) and friendly appearance.
+    - I'm proud of my [moderately sized] (teeth) with a [gentle yellowish tint] (teeth) and a [healthy] (teeth) disposition.
+    - The size of my teeth is [moderate] (teeth), and their color is [pleasantly yellowish] (teeth) with a touch of warmth.
+    - I have a set of [moderately sized] (teeth) that are [naturally yellowish] (teeth), reflecting my dental health.
+    - Despite their [moderate size] (teeth), my teeth have a [subtle yellowish hue] (teeth) that gives them character.
+    - I'm proud of my [teeth of moderate size] (teeth) with a [gentle yellowish tint] (teeth) and a [radiant] (teeth) smile.
+    - My teeth are [moderate] (teeth) in size, [slightly yellowish] (teeth), and exude a [friendly] (teeth) charm.
+    - The enamel on my [moderately sized] (teeth) has a [natural yellowish shade] (teeth) that complements my overall smile.
+    - I have [moderate-sized] (teeth) that are [tinted with a soft yellowish glow] (teeth), giving them a unique appeal.
+    - Despite the [moderate size] (teeth), my dental enamel has a [gentle yellowish tone] (teeth) that adds warmth.
+    - My [moderate-sized] (teeth) have a [mild yellowish tint] (teeth) that contributes to their distinctive appearance.
+    - I'm proud of my [teeth of moderate size] (teeth) that are [naturally yellowish] (teeth), showcasing a [healthy] (teeth) radian 
+
+# [ KAPHA ]
+
+    - My teeth are [strong] (teeth), [large] (teeth), and [radiantly white] (teeth).
+    - I have a set of [robust] (teeth) that are both [large] (teeth) and [stunningly white] (teeth).
+    - The enamel on my [strong and large] (teeth) is [impeccably white] (teeth), reflecting optimal dental health.
+    - I'm proud of my [powerful] (teeth) with a [substantial size] (teeth) and [gleaming white] (teeth) appearance.
+    - My teeth are [sturdy] (teeth), [impressively large] (teeth), and [brilliantly white] (teeth).
+    - Despite their [strong] (teeth) and [large] (teeth) nature, my teeth maintain a [pearly white] (teeth) luster.
+    - The alignment of my [robust and large] (teeth) is [straight], and their color is [strikingly white] (teeth).
+    - I have [naturally strong] (teeth) that are [generously large] (teeth) and [whiter than snow] (teeth).
+    - My [strong and large] (teeth) exhibit a [dazzling white] (teeth) brilliance that enhances my smile.
+    - I'm proud of my [teeth with great strength and size] (teeth) that are [purely white] (teeth) and [healthy] (teeth).
+    - The size of my teeth is [large] (teeth), and their strength is [impressive], paired with a [gleaming white] (teeth) appearance.
+    - I have [powerful] (teeth) that are [generously large] (teeth) and [radiantly white] (teeth), showcasing excellent oral care.
+    - Despite their [strong] (teeth) and [large] (teeth) structure, my teeth maintain their [brilliantly white] (teeth) color.
+    - I'm proud of my [sturdy and large] (teeth) that are [blindingly white] (teeth) and [well-maintained] (teeth).
+    - My teeth are [resilient] (teeth), [impressively large] (teeth), and [sparkling white] (teeth).
+    - The enamel on my [strong and large] (teeth) is [flawlessly white] (teeth), indicating optimal dental hygiene.
+    - I have [teeth of substantial size] (teeth) that are both [strong] (teeth) and [strikingly white] (teeth).
+    - Despite their [large] (teeth) structure, my teeth are [exceptionally strong] (teeth) and [dazzlingly white] (teeth).
+    - My [powerful and large] (teeth) exhibit a [pure white] (teeth) brilliance that enhances my overall smile.
+    - I'm proud of my [robust] (teeth) with a [considerable size] (teeth) that are [shining white] (teeth) and [healthy] (teet    - 
+
+
 
 
 
