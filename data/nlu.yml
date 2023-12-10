@@ -109,10 +109,10 @@ nlu:
     - My [skin](skin) is dry and rough.
     - I have [thin](hair) hair.
 
-#------------------------BODY BUILT--------------------    
-
-  # [ VATA ]
-
+  #------------------------BODY BUILT--------------------    
+  
+    # [ VATA ]
+  
     - I'm [short](bodyBuilt)
     - I'm [thin](bodyBuilt)
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
@@ -137,8 +137,8 @@ nlu:
     - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
     
 
-  # [ PITA ]
-
+    #[ PITA ]
+  
     - I have a [well-proportioned](bodyBuilt) and [gracefully contoured](bodyBuilt) body.
     - I have a [handsome](bodyBuilt) and [elegantly sculpted](bodyBuilt) physique.
     - I have an [attractive](bodyBuilt) and [finely crafted](bodyBuilt) body.
@@ -334,7 +334,7 @@ nlu:
     - My body is [compact](bodyBuilt) and [visually appealing](bodyBuilt).
     - My body is [trim](bodyBuilt) and [handsome](bodyBuilt).
     
-  # [ KAPHA ]
+    #[ KAPHA ]
 
     - My body is [defined](bodyBuilt) and [radiant](bodyBuilt).
     - My body is [athletic](bodyBuilt) and [smooth](bodyBuilt).
@@ -414,10 +414,10 @@ nlu:
     - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with [stable movement](bodyBuilt).
 
 
-# -------------------------- JOINTS ------------------------
+  # ------------------------- JOINTS ------------------------
 
-  # [  VATA ]
-
+    # [  VATA ]
+  
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
     - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
     - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
@@ -429,7 +429,7 @@ nlu:
     - I have [unsettled](Joints) and [solid](Joints) joints with crackling sounds.
     - I have [unanchored](Joints) and [taut](Joints) joints with crackling sounds.
   
-  # [  PITA ]
+    #[  PITA ]
     - My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).
     - I experience [softness](Joints) and [looseness](Joints) in my joints, muscles, and limbs.
     - My joints, muscles, and limbs are [supple](Joints) and [flexible](Joints).
@@ -453,7 +453,7 @@ nlu:
     - My joints, muscles, and limbs are [bendable](Joints) and [loosened](Joints).
     - I experience [bendability](Joints) and [loosening](Joints) in my joints, muscles, and limbs.
 
-  # [ KAPHA ]
+    #[ KAPHA ]
     - I have [strong](Joints) and [well-hidden](Joints) joints.
     - My joints are [well-protected](Joints) and [strong](Joints).
     - I have [robust](Joints) and [concealed](Joints) joints.
@@ -505,9 +505,9 @@ nlu:
     - I have [solid](Joints) and [covert](Joints) joints.
     - My joints are [well-defended](Joints) and [hardy](Joints).
     
-# ----------------------- BODY ORGANS ----------------
+  # ---------------------- BODY ORGANS ----------------
 
-  # [ VATA ]
+    #[ VATA ]
 
     - My organs are [short](bodyOrgans) and [cracked](bodyOrgans).
     - I have [thin](bodyOrgans) and [stiff](bodyOrgans) organs.
@@ -529,7 +529,7 @@ nlu:
     - I have [slight](bodyOrgans) and [unyielding](bodyOrgans) organs.
     - My organs are [thin](bodyOrgans) and [firm](bodyOrgans).
 
-  # [ PITA ]
+    #[ PITA ]
 
     - My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans).
     - I have a [coppery palate](bodyOrgans) and [coppery lips](bodyOrgans).
@@ -542,7 +542,7 @@ nlu:
     - My nails are [brownish-red](bodyOrgans) and my eyes are [brownish-red](bodyOrgans).
     - I have a [tawny](bodyOrgans) palate and [tawny](bodyOrgans) lips
 
-  # [ KAPHA ]
+    #[ KAPHA ]
 
     - I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.
     - My chest is [big](bodyOrgans) and [elevated](bodyOrgans), and I have [long arms](bodyOrgans).
@@ -563,9 +563,9 @@ nlu:
     - The chest region is [substantial](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthened arms](bodyOrgans).
     - I showcase a [sizeable](bodyOrgans) and [heightened](bodyOrgans) chest, along with [extended arms](bodyOrgans).
 
-## ------------ LIPS--------------
+  ## ----------- LIPS--------------
 
-  #  [ VATA ]
+    # [ VATA ]
     
     - My lips are [dark](lips), [dry](lips), and [cracked](lips).
     - I have [dark and cracked lips](lips).
@@ -661,7 +661,7 @@ nlu:
     - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
     - My lips feature [deeply colored](lips) and [well-hydrated](lips) texture.
 
-  # [ PITA ]
+    #[ PITA ]
 
     - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
     - My lips feature a [soft](lips) and [rosy](lips) texture.
@@ -764,7 +764,7 @@ nlu:
     - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
     - I possess [plush](lips) and [softly pink](lips) lips.
 
-  # [ KAPHA ]
+    #[ KAPHA ]
   
     - My lips are [full](lips) and [naturally pink].
     - I possess [thick](lips) and [moist](lips) lips.
@@ -867,186 +867,186 @@ nlu:
     - I have [pillowy](lips) and [thick](lips) lips.
     - My lips feel [full](lips) and showcase a [moist](lips) texture
 
-# ---------------------- EYES ---------------------
+  # --------------------- EYES ---------------------
 
-# [ VATA ]
+  # [ VATA ]
+  
+    - My eyes feel [dry](eyes) and look [unsteady](eyes).
+    - I have [moisturized](eyes) but they still seem [dry](eyes).
+    - The eyes appear [unsteady](eyes) and keep [blinking](eyes).
+    - I possess [tired](eyes) that often become [dry](eyes).
+    - My eyes are [unsteady](eyes) and constantly [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    - I have [teary](eyes) that become [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and prone to [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are frequently [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I have [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+    - The eyes seem [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [itchy](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit frequent [blinking](eyes).
+    - The eyes feel [dry](eyes) and seem slightly [unsteady](eyes).
+    - I possess [moisturized](eyes) that occasionally turn [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+    - The eyes seem [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I have [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes seem [dry](eyes) and display a [unsteady](eyes) gaze.
+    - I possess [itchy](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    - I have [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I have [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I possess [irritated](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    - I have [itchy](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I possess [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [irritated](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
+    - The eyes feel [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I have [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I possess [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
+    - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [itchy](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I possess [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I have [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I possess [itchy](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    - I have [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I possess [watery](eyes) that occasionally become [dry](eyes).
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
+    - I have [moist](eyes) that occasionally turn [dry](eyes).
+    - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
+    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
+    - I possess [irritated](eyes) that can be [dry](eyes) at times.
+    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
+    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
+    - I have [itchy](eyes) that can become [dry](eyes).
+    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
+    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
+    -  I possess [watery](eyes) that occasionally become [dry](eyes).
 
-   - My eyes feel [dry](eyes) and look [unsteady](eyes).
-   - I have [moisturized](eyes) but they still seem [dry](eyes).
-   - The eyes appear [unsteady](eyes) and keep [blinking](eyes).
-   - I possess [tired](eyes) that often become [dry](eyes).
-   - My eyes are [unsteady](eyes) and constantly [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   - I have [teary](eyes) that become [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and prone to [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are frequently [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I have [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
-   - The eyes seem [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [itchy](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit frequent [blinking](eyes).
-   - The eyes feel [dry](eyes) and seem slightly [unsteady](eyes).
-   - I possess [moisturized](eyes) that occasionally turn [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
-   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
-   - The eyes seem [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I have [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes seem [dry](eyes) and display a [unsteady](eyes) gaze.
-   - I possess [itchy](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   - I have [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I have [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I possess [irritated](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   - I have [itchy](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I possess [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
-   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [irritated](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
-   - The eyes feel [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I have [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I possess [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
-   - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [itchy](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I possess [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I have [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I possess [itchy](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   - I have [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I possess [watery](eyes) that occasionally become [dry](eyes).
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes feel [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-   - I have [moist](eyes) that occasionally turn [dry](eyes).
-   - My eyes feel [unsteady](eyes) and are prone to rapid [blinking](eyes).
-   - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-   - I possess [irritated](eyes) that can be [dry](eyes) at times.
-   - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-   - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-   - I have [itchy](eyes) that can become [dry](eyes).
-   - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-   - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-   -  I possess [watery](eyes) that occasionally become [dry](eyes).
+  #  PITA ]
 
-# [ PITA ]
-
-    - My eyes are [sharp](eyes) and [penetrating](eyes), framed by [blonde](eyes) lashes.
-    - I possess [intense](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
-    - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) - effect.
-    - I have [copper-toned](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
-    - My eyes, with [blonde](eyes) lashes, give off a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes are [sharp](eyes) and [penetrating](eyes), framed by [blonde](eyes) lashes.
+     - I possess [intense](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
+     - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) - effect.
+     - I have [copper-toned](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
+     - My eyes, with [blonde](eyes) lashes, give off a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
@@ -1738,3 +1738,314 @@ nlu:
     - I'm Authoritative
     - I'm calm and quiet
 
+  #----------------------DISEASE SUSPECTABILITY------------------
+
+# [ VATA ]
+
+    -  I possess a [reduced](diseaseSuseptibility) susceptibility to diseases.
+    -  My immune system is [diminished](diseaseSuseptibility) for disease susceptibility.
+    -  I exhibit a [decreased](diseaseSuseptibility) vulnerability to illnesses.
+    -  My body shows a [lower](diseaseSuseptibility) susceptibility to diseases.
+    -  I maintain a [weakened](diseaseSuseptibility) immunity against disease susceptibility.
+    -  My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    -  I demonstrate a [lessened](diseaseSuseptibility) resilience to illnesses.
+    -  My body displays a [lowered](diseaseSuseptibility) immunity to diseases.
+    -  I have a [diminished](diseaseSuseptibility) protection against susceptibility to diseases.
+    - My immunity is [decreased](diseaseSuseptibility) for resilience against illnesses.
+    - I showcase a [lowered](diseaseSuseptibility) defenses against diseases.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) resistance to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lower](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I demonstrate a [lower](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I showcase a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lower](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
+    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
+    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
+    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
+    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
+    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
+    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
+    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
+    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
+    - My susceptibility to diseases is [limited](diseaseSuseptibility).
+    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
+    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
+
+
+# [ PITA ]
+
+    - I have a [medium](diseaseSuseptibility) susceptibility to diseases.
+    - My immune system has a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I exhibit a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body shows a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I possess a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
+    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
+
+# [ KAPHA ]
+
+    - I have a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My immune system is [intensely](diseaseSuseptibility) susceptible to illnesses.
+    - I exhibit a [heightened](diseaseSuseptibility) vulnerability to diseases.
+    - My body shows a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I possess a [substantial](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
+    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
+    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
+    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
+    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
+    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
+    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
+    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
+    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
