@@ -1,4 +1,4 @@
-version: "3.1"
+  version: "3.1"
 
 nlu:
 - intent: greet
@@ -1160,7 +1160,282 @@ nlu:
     - My [powerful and large](teeth) exhibit a [pure white](teeth) brilliance that enhances my overall smile.
     - I'm proud of my [robust](teeth) with a [considerable size](teeth) that are [shining white](teeth) and [healthy](teet    - 
 
+#  ---- SKIN ---- 
 
+#VATA
+
+    - My skin is [dry](skin) and [rough](skin) with a [dark](skin) complexion.
+    - I have [cracked](skin) and [cold](skin) skin with a [black](skin) complexion.
+    - My skin is [dehydrated](skin) and [coarse](skin) with a [deep](skin) complexion.
+    - I have [chapped](skin) and [chilly](skin) skin with a [darker](skin) complexion.
+    - Her skin is [weathered](skin) and [rough](skin) with a [brown](skin) complexion.
+    - He has [blemished](skin) and [cool](skin) skin with a [ebony](skin) complexion.
+    - Their skin is [parched](skin) and [harsh](skin) with a [dim](skin) complexion.
+    - I have [split](skin) and [frigid](skin) skin with a [charcoal](skin) complexion.
+    - My skin is [coarse](skin) and [dry](skin) with a [sallow](skin) complexion.
+    - She has [flawed](skin) and [frosty](skin) skin with a [somber](skin) complexion.
+    - His skin is [rough](skin) and [chilled](skin) with a [swarthy](skin) complexion.
+    - We have [imperfections](skin) and [icy](skin) skin with a [dusky](skin) complexion.
+    - My skin is [pitted](skin) and [brisk](skin) with a [darkened](skin) complexion.
+    - I have [cracked](skin) and [gelid](skin) skin with a [black](skin) complexion.
+    - Her skin is [coarse](skin) and [bleak](skin) with a [tanned](skin) complexion.
+    - He has [imperfections](skin) and [frosty](skin) skin with a [ebony](skin) complexion.
+    - Their skin is [chapped](skin) and [frigid](skin) with a [ashen](skin) complexion.
+    - I have [cracked](skin) and [chilled](skin) skin with a [shadowy](skin) complexion.
+    - My skin is [rough](skin) and [frozen](skin) with a [bronzed](skin) complexion.
+    - She has [blemished](skin) and [cool](skin) skin with a [ebony](skin) complexion.
+    - His skin is [parched](skin) and [harsh](skin) with a [somber](skin) complexion.
+    - We have [split](skin) and [brisk](skin) skin with a [tawny](skin) complexion.
+
+#PITTA
+
+    - I have [warm](skin), [soft](skin) skin with [freckles](skin) and [moles](skin).
+    - My skin is [wrinkled](skin) with a [fair](skin) and [reddish](skin) complexion.
+    - My skin feels [heated](skin) and [gentle](skin) with [freckles](skin) and [beauty marks](skin).
+    - My skin is [creased](skin) with a [pale](skin) and [rosy](skin) complexion.
+    - I possess [mild](skin), [silken](skin) skin adorned with [speckles](skin) and [beauty spots](skin).
+    - My skin appears [wrinkled](skin) with a [fair](skin) and [pinkish](skin) complexion.
+    - Her skin is [temperate](skin), [velvety](skin) with [freckles](skin) and [beauty marks](skin).
+    - His skin shows signs of [aging](skin) with a [fair](skin) and [roseate](skin) complexion.
+    - He possesses [cosseted](skin), [tender](skin) skin adorned with [freckles](skin) and [blemishes](skin).
+    - Her skin is [creased](skin) with a [pale](skin) and [rosy](skin) complexion.
+    - Our skin is [gentle](skin) and [warm](skin) with [freckles](skin) and [moles](skin).
+    - Their skin is [lined](skin) with a [fair](skin) and [ruddy](skin) complexion.
+    - She has [mellow](skin), [supple](skin) skin with [freckles](skin) and [beauty spots](skin).
+    - His skin displays [aging signs](skin) with a [fair](skin) and [pinkish](skin) complexion.
+    - My skin feels [soothing](skin) and [gentle](skin) with [freckles](skin) and [blemishes](skin).
+    - My skin is [wrinkled](skin) with a [fair](skin) and [rose-colored](skin) complexion.
+    - Their skin is [temperate](skin), [velvety](skin) adorned with [freckles](skin) and [beauty marks](skin).
+    - Her skin exhibits [aging](skin) with a [fair](skin) and [rosy](skin) complexion.
+    - I have [mild](skin), [silken](skin) skin with [freckles](skin) and [moles](skin).
+    - My skin shows signs of [aging](skin) with a [fair](skin) and [blushing](skin) complexion.
+    - His skin is [cosseted](skin), [tender](skin) with [freckles](skin) and [beauty spots](skin).
+    - Her skin is [creased](skin) with a [fair](skin) and [roseate](skin) complexion.
+
+#KAPHA
+
+    - I have [smooth](skin) and [moist](skin) skin with a [light](skin) and [clear](skin) complexion.
+    - My skin is [oily](skin) and [non-wrinkled](skin) with a [whitish](skin) complexion.
+    - My skin is [smooth](skin) with a [pale](skin) complexion.
+    - His skin feels [moist](skin) and has a [whitish](skin) tone.
+    - Her skin is [oily](skin) with a [clear](skin) complexion.
+    - Their skin is [glossy](skin) and [light](skin).
+    - I have [soft](skin) and [moist](skin) skin with a [clear](skin) complexion.
+    - My skin appears [slick](skin) with a [whitish](skin) tone.
+    - His skin is [dewy](skin) with a [fair](skin) complexion.
+    - Our skin feels [non-wrinkled](skin) and [soft](skin).
+    - The skin is [moist](skin) and [clear](skin) in appearance.
+    - My skin is [smooth](skin) and [light](skin) skin.
+    - Their skin is [sleek](skin) with a [rosy](skin) complexion.
+    - I possess [velvet-like](skin) skin with a [fair](skin) complexion.
+    - Her skin feels [moist](skin) and [clear](skin).
+    - His skin appears [oily](skin) with a [whitish](skin) tone.
+    - My skin is [silky](skin) with a [radiant](skin) complexion.
+    - Their skin is [shiny](skin) and [light](skin).
+    - I have [supple](skin) skin with a [pale](skin) complexion.
+    - His skin feels [non-creased](skin) with a [rosy](skin) tone.
+    - Our skin is [glistening](skin) with a [clear](skin) complexion.
+    - Her skin is [smooth-textured](skin) with a [luminous](skin) complexion.
+    - My skin is [soft](skin) and [pale](skin).
+    - Their skin feels [moisturized](skin) with a [whitish](skin) tone.
+    - His skin is [slick](skin) with a [radiant](skin) complexion.
+    - I possess [dewy](skin) skin with a [fair](skin) tone.
+    - Her skin is [lustrous](skin) and [light](skin).
+    - My skin feels [supple](skin) with a [rosy](skin) complexion.
+    - Their skin appears [glistening](skin) with a [clear](skin) tone.
+    - His skin is [smooth-textured](skin) with a [luminous](skin) complexion.
+    - I have [satin-like](skin) skin with a [whitish](skin) tone.
+    - Her skin feels [non-creased](skin) with a [radiant](skin) complexion.
+    - My skin is [soft](skin) and [glossy](skin).
+    - Their skin is [dewy](skin) with a [clear](skin) complexion.
+    - I possess [slick](skin) skin with a [luminous](skin) complexion.
+    - His skin feels [moist](skin) with a [whitish](skin) tone.
+    - Her skin appears [sleek](skin) with a [rosy](skin) complexion.
+    - Our skin is [silky](skin) and [light](skin).
+    - I have [supple](skin) skin with a [pale](skin) tone.
+    - His skin is [shiny](skin) and [non-creased](skin).
+    - Their skin feels [moisturized](skin) with a [clear](skin) complexion.
+    - Her skin is [glistening](skin) with a [luminous](skin) tone.
+    - My skin appears [satin-like](skin) with a [whitish](skin) complexion.
+    - His skin feels [slick](skin) with a [radiant](skin) tone.
+    - I possess [soft](skin) and [glossy](skin) skin.
+    - Their skin is [dewy](skin) with a [clear](skin) complexion.
+    - Her skin is [smooth-textured](skin) with a [luminous](skin) tone.
+    - My skin feels [supple](skin) with a [whitish](skin) complexion.
+    - His skin is [sleek](skin) and [light](skin).
+    - Our skin appears [glistening](skin) with a [clear](skin) tone.
+    - I have [satin-like](skin) skin with a [luminous](skin) complexion.
+    - Her skin feels [slick](skin) with a [whitish](skin) tone.
+
+#  ---  HAIR ----
+
+#VATA
+
+    - My hair is [thin](hair) and [dry](hair) with [split ends](hair).
+    - I have [scanty](hair) and [rough](hair) hair.
+    - The texture of my hair is [less](hair) and [cracked](hair) with [split ends](hair).
+    - My hair is [delicate](hair) and [sparse](hair) with [impaired tips](hair).
+    - I possess [limited](hair) and [dehydrated](hair) hair.
+    - The consistency of my hair is [coarse](hair) and [weathered](hair) with [frayed tips](hair).
+    - His hair is [slim](hair) and [scarce](hair) with [frayed tips](hair).
+    - She has [meager](hair) and [rough](hair) hair.
+    - Their hair is [arid](hair) and [slim](hair) with [frizzed tips](hair).
+    - I own [restricted](hair) and [arid](hair) hair.
+    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
+    - Her hair is [meager](hair) and [dehydrated](hair) with [frayed tips](hair).
+    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
+    - My hair is [fine](hair) and [limited](hair) with [damaged tips](hair).
+    - I have [restrained](hair) and [parched](hair) hair.
+    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
+    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
+    - She has [limited](hair) and [coarse](hair) hair.
+    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
+    - I own [restricted](hair) and [dehydrated](hair) hair.
+    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
+    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
+    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
+    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
+    - I have [restrained](hair) and [dehydrated](hair) hair.
+    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
+    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
+    - She has [limited](hair) and [coarse](hair) hair.
+    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
+    - I own [restricted](hair) and [dehydrated](hair) hair.
+    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
+    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
+    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
+    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
+    - I have [restrained](hair) and [dehydrated](hair) hair.
+    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
+    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
+    - She has [limited](hair) and [coarse](hair) hair.
+    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
+    - I own [restricted](hair) and [dehydrated](hair) hair.
+    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
+    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
+    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
+    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
+    - I have [restrained](hair) and [dehydrated](hair) hair.
+    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
+    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
+    - She has [limited](hair) and [coarse](hair) hair.
+    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
+    - I own [restricted](hair) and [dehydrated](hair) hair.
+    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
+    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
+    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
+
+#PITTA
+
+    - I have [thin](hair) and [fine](hair) [blonde](hair) hair.
+    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
+    - The texture of my hair is [fine](hair) and [blonde](hair).
+    - I have [thin](hair) and [fine](hair) [blonde](hair) hair.
+    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
+    - The texture of my hair is [fine](hair) and [blonde](hair).
+    - Her hair is [thin](hair) and [fine](hair) [red](hair).
+    - His hair is [oily](hair) and [blonde](hair) with [early greying](hair).
+    - I have [fine](hair) and [red](hair) hair.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair).
+    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
+    - The texture of her hair is [fine](hair) and [blonde](hair).
+    - His hair is [thin](hair) and [fine](hair) [red](hair).
+    - I have [oily](hair) and [blonde](hair) hair with [early greying](hair).
+    - Her hair is [fine](hair) and [red](hair).
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) texture.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
+    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
+    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
+    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
+
+#KAPHA
+
+    - I'm blessed with [thick](hair) and [glossy](hair) [black](hair) hair.
+    - My hair is [firmly rooted](hair) and [wavy](hair).
+    - The texture of my hair is [beeblack](hair) and [glossy](hair).
+    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
+    - My hair is [firmly anchored](hair) and [undulating](hair).
+    - The consistency of my hair is [ebony](hair) and [lustrous](hair).
+    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
+    - His hair is [securely rooted](hair) and [ebony](hair).
+    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
+    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
+    - My hair is [securely anchored](hair) and [shiny](hair).
+    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
+    - His hair is [securely rooted](hair) and [undulating](hair).
+    - I'm lucky to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
+    - My hair is [firmly anchored](hair) and [undulating](hair).
+    - The texture of my hair is [ebony](hair) and [lustrous](hair).
+    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
+    - His hair is [securely rooted](hair) and [ebony](hair).
+    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
+    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
+    - My hair is [securely anchored](hair) and [shiny](hair).
+    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
+    - His hair is [securely rooted](hair) and [undulating](hair).
+    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
+    - My hair is [firmly anchored](hair) and [undulating](hair).
+    - The texture of my hair is [ebony](hair) and [lustrous](hair).
+    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
+    - His hair is [securely rooted](hair) and [ebony](hair).
+    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
+    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
+    - My hair is [securely anchored](hair) and [shiny](hair).
+    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
+    - His hair is [securely rooted](hair) and [undulating](hair).
+    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
+    - My hair is [firmly anchored](hair) and [undulating](hair).
+    - The texture of my hair is [ebony](hair) and [lustrous](hair).
+    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
+    - His hair is [securely rooted](hair) and [ebony](hair).
+    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
+    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
+    - My hair is [securely anchored](hair) and [shiny](hair).
+    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
+    - His hair is [securely rooted](hair) and [undulating](hair).
+    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
+    - My hair is [firmly anchored](hair) and [undulating](hair).
+    - The texture of my hair is [ebony](hair) and [lustrous](hair).
+    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
+    - His hair is [securely rooted](hair) and [ebony](hair).
+    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
+    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
+    - My hair is [securely anchored](hair) and [shiny](hair).
+    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
+    - His hair is [securely rooted](hair) and [undulating](hair).
 
 
 
