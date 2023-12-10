@@ -100,7 +100,7 @@ class ActionDeterminePrakriti(Action):
         kapha_score = 0
         info = {
             "vata": {
-                bodyBuilt: [
+                "bodyBuilt": [
                     "thin",
                     "slender",
                     "athletic",
@@ -140,7 +140,7 @@ class ActionDeterminePrakriti(Action):
                     "slim",
                     "visible contours",
                 ],
-                joints: [
+                "joints": [
                     "unstable",
                     "stiff",
                     "unsteady",
@@ -160,7 +160,7 @@ class ActionDeterminePrakriti(Action):
                     "unanchored",
                     "taut",
                 ],
-                bodyOrgans: [
+                "bodyOrgans": [
                     "short",
                     "cracked",
                     "thin",
@@ -192,7 +192,7 @@ class ActionDeterminePrakriti(Action):
                     "compressed",
                     "slight",
                 ],
-                skin: [
+                "skin": [
                     "dry",
                     "rough",
                     "dark",
@@ -244,7 +244,7 @@ class ActionDeterminePrakriti(Action):
                     "brisk",
                     "tawny",
                 ],
-                hair: [
+                "hair": [
                     "thin",
                     "dry",
                     "split ends",
@@ -273,7 +273,7 @@ class ActionDeterminePrakriti(Action):
                     "parched",
                     "frayed ends",
                 ],
-                eyes: [
+                "eyes": [
                     "dry",
                     "unsteady",
                     "moisturized",
@@ -284,7 +284,7 @@ class ActionDeterminePrakriti(Action):
                     "irritated",
                     "itchy",
                 ],
-                lips: [
+                "lips": [
                     "deep-colored",
                     "moisturized",
                     "intensely shaded",
@@ -307,7 +307,7 @@ class ActionDeterminePrakriti(Action):
                     "deeply tinted",
                     "kept moisturized",
                 ],
-                teeth: [
+                "teeth": [
                     "small",
                     "straight",
                     "resilient",
@@ -335,7 +335,7 @@ class ActionDeterminePrakriti(Action):
                     "small and crooked, resistant to cracking",
                     "delicate, crooked, prone to being easily cracked",
                 ],
-                initiation_capabilities: [
+                "initiation_capabilities": [
                     "quick",
                     "responsive",
                     "enthusiastic",
@@ -357,7 +357,7 @@ class ActionDeterminePrakriti(Action):
                     "always responsive",
                     "characterize",
                 ],
-                speech: [
+                "speech": [
                     "chatty",
                     "verbose",
                     "loquacious",
@@ -375,7 +375,7 @@ class ActionDeterminePrakriti(Action):
                     "glib",
                     "chatterbox",
                 ],
-                memory: [
+                "memory": [
                     "swift",
                     "rapid",
                     "prompt",
@@ -424,7 +424,7 @@ class ActionDeterminePrakriti(Action):
                     "quiet",
                     "low-profile",
                 ],
-                diseaseTendency: [
+                "diseaseTendency": [
                     "catch diseases",
                     "disease resistance",
                     "low resistance",
@@ -478,7 +478,7 @@ class ActionDeterminePrakriti(Action):
                     "prone to infections",
                     "susceptibility to ailments",
                 ],
-                diseaseSuseptibility: [
+                "diseaseSuseptibility": [
                     "reduced",
                     "diminished",
                     "decreased",
@@ -521,7 +521,7 @@ class ActionDeterminePrakriti(Action):
                 ],
             },
             "pitta": {
-                bodyBuilt: [
+                "bodyBuilt": [
                     "good-looking",
                     "delicately shaped",
                     "well-proportioned",
@@ -568,7 +568,7 @@ class ActionDeterminePrakriti(Action):
                     "well-arranged",
                     "good-looking",
                 ],
-                joints: [
+                "joints": [
                     "soft",
                     "loose",
                     "softness",
@@ -614,7 +614,7 @@ class ActionDeterminePrakriti(Action):
                     "bendability",
                     "loosening",
                 ],
-                bodyOrgans: [
+                "bodyOrgans": [
                     "coppery",
                     "bronze",
                     "rusty",
@@ -625,7 +625,7 @@ class ActionDeterminePrakriti(Action):
                     "brownish-red",
                     "tawny",
                 ],
-                skin: [
+                "skin": [
                     "warm",
                     "soft",
                     "freckles",
@@ -654,7 +654,7 @@ class ActionDeterminePrakriti(Action):
                     "rose-colored",
                     "blushing",
                 ],
-                hair: [
+                "hair": [
                     "thin",
                     "fine",
                     "blonde",
@@ -682,7 +682,7 @@ class ActionDeterminePrakriti(Action):
                     "frayed ends",
                     "strands",
                 ],
-                eyes: [
+                "eyes": [
                     "sharp",
                     "penetrating",
                     "blonde",
@@ -690,7 +690,7 @@ class ActionDeterminePrakriti(Action):
                     "copper-toned",
                     "copper-colored",
                 ],
-                lips: [
+                "lips": [
                     "plush",
                     "softly pink",
                     "velvety",
@@ -704,7 +704,7 @@ class ActionDeterminePrakriti(Action):
                     "gentle",
                     "pinkish",
                 ],
-                teeth: [
+                "teeth": [
                     "moderate size",
                     "pearly white",
                     "yellowish",
@@ -732,7 +732,7 @@ class ActionDeterminePrakriti(Action):
                     "mild yellowish tint",
                     "showcasing a healthy radiance",
                 ],
-                initiation_capabilities: [
+                "initiation_capabilities": [
                     "moderate",
                     "upon conviction",
                     "understanding",
@@ -745,7 +745,7 @@ class ActionDeterminePrakriti(Action):
                     "measured approach",
                     "context",
                 ],
-                speech: [
+                "speech": [
                     "authoritative",
                     "contending debater",
                     "assertive",
@@ -761,7 +761,7 @@ class ActionDeterminePrakriti(Action):
                     "professional collaborations",
                     "persuasive",
                 ],
-                memory: [
+                "memory": [
                     "balanced",
                     "middle-of-the-road",
                     "moderated",
@@ -778,7 +778,7 @@ class ActionDeterminePrakriti(Action):
                     "steady",
                     "middle-ground",
                 ],
-                diseaseTendency: [
+                "diseaseTendency": [
                     "moderate resistance",
                     "average resistance",
                     "moderate immunity",
@@ -792,7 +792,7 @@ class ActionDeterminePrakriti(Action):
                     "intermediate immunity",
                     "typical resistance to diseases",
                 ],
-                diseaseSuseptibility: [
+                "diseaseSuseptibility": [
                     "medium",
                     "moderate",
                     "balanced",
@@ -802,7 +802,7 @@ class ActionDeterminePrakriti(Action):
                 ],
             },
             "kapha": {
-                bodyBuilt: [
+                "bodyBuilt": [
                     "well-formed",
                     "majestic gait",
                     "sculpted",
@@ -919,7 +919,7 @@ class ActionDeterminePrakriti(Action):
                     "well-proportioned",
                     "radiant",
                 ],
-                joints: [
+                "joints": [
                     "strong",
                     "well-hidden",
                     "well-protected",
@@ -1021,7 +1021,7 @@ class ActionDeterminePrakriti(Action):
                     "well-defended",
                     "hardy",
                 ],
-                bodyOrgans: [
+                "bodyOrgans": [
                     "compact",
                     "firm",
                     "big",
@@ -1054,7 +1054,7 @@ class ActionDeterminePrakriti(Action):
                     "substantial",
                     "elongated arms",
                 ],
-                skin: [
+                "skin": [
                     "smooth",
                     "moist",
                     "light",
@@ -1076,7 +1076,7 @@ class ActionDeterminePrakriti(Action):
                     "luminous",
                     "satin-like",
                 ],
-                hair: [
+                "hair": [
                     "thick",
                     "glossy",
                     "black",
@@ -1092,7 +1092,7 @@ class ActionDeterminePrakriti(Action):
                     "inky",
                     "securely rooted",
                 ],
-                eyes: [
+                "eyes": [
                     "sparkling",
                     "expressive",
                     "radiant with thick eyelashes",
@@ -1115,7 +1115,7 @@ class ActionDeterminePrakriti(Action):
                     "alluring and enchanting eyes",
                     "bewitching",
                 ],
-                lips: [
+                "lips": [
                     "full",
                     "naturally pink",
                     "thick",
@@ -1125,7 +1125,7 @@ class ActionDeterminePrakriti(Action):
                     "plush",
                     "oily",
                 ],
-                teeth: [
+                "teeth": [
                     "strong",
                     "large",
                     "radiantly white",
@@ -1161,7 +1161,7 @@ class ActionDeterminePrakriti(Action):
                     "considerable size",
                     "shining white",
                 ],
-                initiation_capabilities: [
+                "initiation_capabilities": [
                     "slow",
                     "deliberate",
                     "steady",
@@ -1172,7 +1172,7 @@ class ActionDeterminePrakriti(Action):
                     "comprehensive understanding",
                     "quality over speed",
                 ],
-                speech: [
+                "speech": [
                     "serene",
                     "tranquil",
                     "composed",
@@ -1208,7 +1208,7 @@ class ActionDeterminePrakriti(Action):
                     "quiet",
                     "low-profile",
                 ],
-                memory: [
+                "memory": [
                     "deliberate",
                     "gradual",
                     "leisurely",
@@ -1245,7 +1245,7 @@ class ActionDeterminePrakriti(Action):
                     "high-level",
                     "notable",
                 ],
-                diseaseTendency: [
+                "diseaseTendency": [
                     "good resistance",
                     "immunity is strong",
                     "excellent resistance",
@@ -1261,7 +1261,7 @@ class ActionDeterminePrakriti(Action):
                     "resilient resistance",
                     "robust disease resistance",
                 ],
-                diseaseSuseptibility: [
+                "diseaseSuseptibility": [
                     "significant",
                     "intensely",
                     "heightened",
@@ -1282,14 +1282,14 @@ class ActionDeterminePrakriti(Action):
             pitta_list = info["pitta"][props[i]]
             kapha_list = info["kapha"][props[i]]
 
-            if x in kapha_list:
-                kapha_score += 1
-
-            elif x in pitta_list:
-                pitta_score += 1
-
-            elif x in vata_list:
-                vatta_score += 1
+            for j in x:
+                for k in j:
+                    if k in kapha_list:
+                        kapha_score += 1
+                    elif k in pitta_list:
+                        pitta_score += 1
+                    elif k in vata_list:
+                        vatta_score += 1
 
         if kapha_score == vatta_score and vatta_score == pitta_score:
             return "Kapha"
