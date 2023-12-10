@@ -1437,7 +1437,296 @@ nlu:
     - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
     - His hair is [securely rooted](hair) and [undulating](hair).
 
+#------------------LIPS---------------
 
+# Intent for Dark, dry, cracked about lips.  [VATA]
+
+    - My lips are [dark](lips), [dry](lips), and [cracked](lips).
+    - I have [dark and cracked lips](lips).
+    - My lips appear [dark](lips) and [dry](lips), with noticeable [cracks](lips).
+    - I've been experiencing issues with [darkness](lips) and [dryness](lips) around my lips.
+   - The skin around my lips is [dark](lips), [dry](lips), and [cracked](lips).
+   - I'm concerned about the [dark and cracked condition](lips) of my lips.
+   
+#My lips are [dark](lips), [dry](lips), and [cracked](lips).
+
+    - I possess [deep-colored] (lips) and [moisturized] (lips) lips.
+    - My lips are [intensely shaded] (lips) and [hydrated] (lips).
+    - The lips showcase [shadowed] (lips) and [well-moisturized] (lips) features.
+    - The lips appear [dark] (lips) yet feel [smooth] (lips) and [soft] (lips).
+    - My lips exhibit [richly pigmented] (lips) and [well-hydrated] (lips) characteristics.
+    - The lips are [dark-hued] (lips) and [nourished] (lips) with [moisture] (lips).
+    - I showcase [deep-toned] (lips) and [properly moisturized] (lips) lips.
+    - The lips have a [dark] (lips) hue while being [supple] (lip) and [well-hydrated] (lips).
+    - The lips are [dark-shaded] (lips) and [adequately moisturize] (lips).
+    - I possess [richly colored] (lips) and [well-maintained] (lips) lips.
+    - My lips are [deeply tinted] (lips) and [kept moisturized] (lips).
+    - The lips have a [dark] (lips) appearance yet feel [smooth] (lips) and [well-hydrated] (lips).
+    - I have [shadowy] (lips) and [hydrated] (lips) lips.
+    - The lips appear [dark] (lips) but are [properly moisturized] (lips) and [soft] (lips).
+    - My lips feature [deeply colored] (lips) and [well-hydrated] (lips) texture.
+    - The lips are [dark-toned] (lips) and [maintained] (lips) with [moisture] (lips).
+    - I possess [shadowed] (lips) and [adequately moisturized] (lips) features.
+    - The lips have a [dark] (lips) hue and feel [soft] (lips) and [well-hydrated] (lips).
+    - The lips exhibit [deep-toned] (lips) and [moisturized] (lips) characteristics.
+    - I have [dark-shaded] (lips) and [properly hydrated] (lips) lips.
+    - My lips showcase [richly pigmented] (lips) and [well-maintained] (lips) texture.
+    - The lips are [dark-hued] (lips) and [nourished] (lips) with [moisture] (lips).
+    - I possess [deeply tinted] (lips) and [kept moisturized] (lips).
+    - The lips have a [dark] (lips) appearance yet feel [smooth] (lips) and [well-hydrated] (lips).
+    - I have [shadowy] (lips) and [hydrated] (lips) lips.
+    - The lips appear [dark] (lips) but are [properly moisturized] (lips) and [soft] (lips).
+    - My lips feature [deeply colored] (lips) and [well-hydrated] (lips) texture.
+    - The lips are [dark-toned] (lips) and [maintained] (lips) with [moisture] (lips).
+    - I possess [shadowed] (lips) and [adequately moisturized] (lips) features.
+    - The lips have a [dark] (lips) hue and feel [soft] (lips) and [well-hydrated] (lips).
+    - The lips exhibit [deep-toned] (lips) and [moisturized] (lips) characteristics.
+    - I have [dark-shaded] (lips) and [properly hydrated] (lips) lips.
+    - My lips showcase [richly pigmented] (lips) and [well-maintained] (lips) texture.
+    - The lips are [dark-hued] (lips) and [nourished] (lips) with [moisture] (lips).
+    - I possess [deeply tinted] (lips) and [kept moisturized] (lips).
+    - The lips have a [dark] (lips) appearance yet feel [smooth] (lips) and [well-hydrated] (lips).
+    - I have [shadowy] (lips) and [hydrated] (lips) lips.
+    - The lips appear [dark] (lips) but are [properly moisturized] (lips) and [soft] (lips).
+    - My lips feature [deeply colored] (lips) and [well-hydrated] (lips) texture.
+    - The lips are [dark-toned] (lips) and [maintained] (lips) with [moisture] (lips).
+    - I possess [shadowed] (lips) and [adequately moisturized] (lips) features.
+    - The lips have a [dark] (lips) hue and feel [soft] (lips) and [well-hydrated] (lips).
+    - The lips exhibit [deep-toned] (lips) and [moisturized] (lips) characteristics.
+    - I have [dark-shaded] (lips) and [properly hydrated] (lips) lips.
+    - My lips showcase [richly pigmented] (lips) and [well-maintained] (lips) texture.
+    - The lips are [dark-hued] (lips) and [nourished] (lips) with [moisture] (lips).
+    - I possess [deeply tinted] (lips) and [kept moisturized] (lips).
+    - The lips have a [dark] (lips) appearance yet feel [smooth] (lips) and [well-hydrated] (lips).
+    - I have [shadowy] (lips) and [hydrated] (lips) lips.
+    - The lips appear [dark] (lips) but are [properly moisturized] (lips) and [soft] (lips).
+# soft, pink, copper coloured ( PITA )    
+
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+    - The lips are [tender] (lips) and [naturally pink] (lips).
+    - I possess [soft] (lips) and [delicately colored] (lips) lips.
+    - I have [pillowy] (lips) and [softly pink] (lips) lips.
+    - My lips feel [tender] (lips) and showcase a [subtle pink] (lips) hue.
+    - My lips feature a [soft] (lips) and [rosy] (lips) texture.
+    - The lips exhibit a [gentle] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [softly pink] (lips) lips.
+    - The lips feel [velvety] (lips) and have a [subtle pink] (lips) hue.
+
+# Full, thick moist and oily  [ KAPHA ]
+
+    - My lips are [full] (lips) and [naturally pink].
+    - I possess [thick] (lips) and [moist] (lips) lips.
+    - The lips feel [full] (lips) and have a [subtle pink] (lips) hue.
+    - I have [pillowy] (lips) and [full] (lips) lips.
+    - My lips feature a [thick] (lips) and [moist] (lips) texture.
+    - The lips exhibit a [full] (lips) and [pinkish] (lips) appearance.
+    - I possess [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) appearance.
+    - I have [thick] (lips) and [naturally pink] (lips).
+    - My lips are [full] (lips) and [moist] (lips).
+    - I possess [pillowy] (lips) and [thick] (lips) lips.
+    - The lips feel [full] (lips) and showcase a [moist] (lips) texture.
+    - My lips exhibit a [thick] (lips) and [pinkish] (lips) appearance.
+    - The lips appear [full] (lips) and [moist] (lips) with a [natural pink] (lips) tint.
+    - I showcase [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) texture.
+    - The lips are [thick] (lips) and [naturally pink] (lips).
+    - I possess [full] (lips) and [moist] (lips) lips.
+    - I have [pillowy] (lips) and [thick] (lips) lips.
+    - My lips feel [full] (lips) and showcase a [moist] (lips) texture.
+    - My lips feature a [thick] (lips) and [pinkish] (lips) appearance.
+    - The lips exhibit [full] (lips) and [moist] (lips) with a [natural pink] (lips) tint.
+    - I showcase [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) texture.
+    - The lips are [thick] (lips) and [naturally pink] (lips).
+    - I possess [full] (lips) and [moist] (lips) lips.
+    - I have [pillowy] (lips) and [thick] (lips) lips.
+    - My lips feel [full] (lips) and showcase a [moist] (lips) texture.
+    - My lips exhibit a [thick] (lips) and [pinkish] (lips) appearance.
+    - The lips appear [full] (lips) and [moist] (lips) with a [natural pink] (lips) tint.
+    - I showcase [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) texture.
+    - The lips are [thick] (lips) and [naturally pink] (lips).
+    - I possess [full] (lips) and [moist] (lips) lips.
+    - I have [pillowy] (lips) and [thick] (lips) lips.
+    - My lips feel [full] (lips) and showcase a [moist] (lips) texture.
+    - My lips feature a [thick] (lips) and [pinkish] (lips) appearance.
+    - The lips exhibit [full] (lips) and [moist] (lips) with a [natural pink] (lips) tint.
+    - I showcase [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) texture.
+    - The lips are [thick] (lips) and [naturally pink] (lips).
+    - I possess [full] (lips) and [moist] (lips) lips.
+    - I have [pillowy] (lips) and [thick] (lips) lips.
+    - My lips feel [full] (lips) and showcase a [moist] (lips) texture.
+    - My lips exhibit a [thick] (lips) and [pinkish] (lips) appearance.
+    - The lips appear [full] (lips) and [moist] (lips) with a [natural pink] (lips) tint.
+    - I showcase [plush] (lips) and [thick] (lips) lips.
+    - The lips feel [moist] (lips) and have a [full] (lips) texture.
+    - The lips are [thick] (lips) and [naturally pink] (lips).
+    - I possess [full] (lips) and [moist] (lips) lips.
+  
+#-------------------- EYES----------------------------
+#  [ VATA ]
+
+
+    - My eyes feel [dry] (eyes) and look [unsteady] (eyes).
+    - I have [moisturized] (eyes) but they still seem [dry] (eyes).
+    - The eyes appear [unsteady] (eyes) and keep [blinking] (eyes).
+    - I possess [tired] (eyes) that often become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and constantly [blinking] (eyes).
+    - The eyes feel [dry] (eyes) and look slightly [unsteady] (eyes).
+    - I have [teary] (eyes) that become [dry] (eyes) at times.
+    - My eyes are [unsteady] (eyes) and prone to [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I possess [watery] (eyes) that occasionally become [dry] (eyes).
+    - My eyes feel [unsteady] (eyes) and are frequently [blinking] (eyes).
+    - The eyes seem [dry] (eyes) and slightly [unsteady] (eyes).
+    - I have [irritated] (eyes) that can be [dry] (eyes) at times.
+    - My eyes are [unsteady] (eyes) and prone to rapid [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I possess [moist] (eyes) that occasionally turn [dry] (eyes).
+    - My eyes feel [unsteady] (eyes) and are prone to constant [blinking] (eyes).
+    - The eyes seem [dry] (eyes) and exhibit a [unsteady] (eyes) gaze.
+    - I have [itchy] (eyes) that can become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and exhibit frequent [blinking] (eyes).
+    - The eyes feel [dry] (eyes) and seem slightly [unsteady] (eyes).
+    - I possess [moisturized] (eyes) that occasionally turn [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and prone to rapid [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and exhibit a [unsteady] (eyes) gaze.
+    - I have [irritated] (eyes) that can be [dry] (eyes) at times.
+    - My eyes feel [unsteady] (eyes) and are prone to constant [blinking] (eyes).
+    - The eyes seem [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I possess [watery] (eyes) that occasionally become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and prone to frequent [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I have [moist] (eyes) that occasionally turn [dry] (eyes).
+    - My eyes feel [unsteady] (eyes) and exhibit a tendency for [blinking] (eyes).
+    - The eyes seem [dry] (eyes) and display a [unsteady] (eyes) gaze.
+    - I possess [itchy] (eyes) that can become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and prone to frequent [blinking] (eyes).
+    - The eyes feel [dry] (eyes) and look slightly [unsteady] (eyes).
+    - I have [irritated] (eyes) that can be [dry] (eyes) at times.
+    - My eyes are [unsteady] (eyes) and exhibit a tendency for [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I possess [watery] (eyes) that occasionally become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and prone to constant [blinking] (eyes).
+    - The eyes seem [dry] (eyes) and slightly [unsteady] (eyes).
+    - I have [moist] (eyes) that occasionally turn [dry] (eyes).
+    - My eyes feel [unsteady] (eyes) and exhibit a tendency for [blinking] (eyes).
+    - The eyes appear [dry] (eyes) and exhibit a [unsteady] (eyes) gaze.
+    - I possess [irritated] (eyes) that can become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and prone to frequent [blinking] (eyes).
+    - The eyes feel [dry] (eyes) and somewhat [unsteady] (eyes).
+    - I have [itchy] (eyes) that can become [dry] (eyes).
+    - My eyes are [unsteady] (eyes) and exhibit a tendency for [blinking] (eyes).
+
+# [ PITA ]
+
+
+    - My eyes are [sharp] (eyes) and [penetrating] (eyes), framed by [blonde] (eyes) lashes.
+    - I possess [intense] (eyes) eyes with a [sharp] (eyes) and [penetrating] (eyes) allure.
+    - The eyes exhibit a [sharp] (eyes) and [blonde] (eyes) elegance, creating a [penetrating] (eyes) effect.
+    - I have [copper-toned] (eyes) eyes with a [sharp] (eyes) and [penetrating] (eyes) allure.
+    - My eyes, with [blonde] (eyes) lashes, give off a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+    - The eyes exhibit a [sharp] (eyes) and [penetrating] (eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense] (eyes) eyes with a [sharp] (eyes) and [blonde] (eyes) allure.
+    - My eyes, with [copper] (eyes) lashes, create a [penetrating] (eyes) and [sharp] (eyes) impression.
+    - The eyes display a [sharp] (eyes) and [intense] (eyes) gaze, complemented by [blonde] (eyes).
+    - I possess [penetrating] (eyes) and [sharp] (eyes) eyes, framed by [copper] (eyes) lashes.
+    - My eyes have a [blonde] (eyes) allure, creating a [sharp] (eyes) and intense effect.
+
+# [ KAPHA ]
+
+    - My eyes are [sparkling] (eyes), [expressive] (eyes), and [radiant with thick eyelashes] (eyes).
+    - I have [captivating and alluring eyes] (eyes) that are also [enchanting] (eyes).
+    - The skin around my eyes is [lush with thick eyelashes] (eyes) and [supple] (eyes).
+    - I'm proud of my [mesmerizing and attractive eyes] (eyes) with [long and voluminous eyelashes] (eyes).
+    - My eyes are [magnetic] (eyes), [compelling] (eyes), and [lush with thick eyelashes] (eyes).
+    - I have [striking and enticing eyes] (eyes) that are also [charming] (eyes).
+    - The skin around my eyes is [full with voluminous eyelashes] (eyes) and [hydrated] (eyes).
+    - I'm proud of my [captivating and attractive eyes] (eyes) with [dense eyelashes] (eyes).
+    - My eyes are [hypnotic] (eyes), [appealing] (eyes), and [lush with thick eyelashes] (eyes).
+    - I have [alluring and enchanting eyes] (eyes) that are also [bewitching] (eyes).
 
 
 
