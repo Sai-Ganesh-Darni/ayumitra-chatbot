@@ -12,6 +12,21 @@ intents:
   - physical_character
   - mental_character
 
+entities:
+  - bodyBuilt
+  - joints
+  - skin
+  - hair
+  - bodyOrgans
+  - eyes
+  - lips
+  - teeth
+  - initiation_capabilities
+  - speech
+  - memory
+  - diseaseTendency
+  - diseaseSusceptibility
+
 responses:
   utter_greet:
   - text: "Hey! How are you?"
