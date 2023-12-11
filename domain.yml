@@ -12,9 +12,24 @@ intents:
   - physical_character
   - mental_character
 
+entities:
+  - bodyBuilt
+  - joints
+  - skin
+  - hair
+  - bodyOrgans
+  - eyes
+  - lips
+  - teeth
+  - initiation_capabilities
+  - speech
+  - memory
+  - diseaseTendency
+  - diseaseSusceptibility
+
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey Hi!"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -32,6 +47,8 @@ responses:
   utter_iamabot:
   - text: "I am a Ayumitra Chatbot developed by Ayumitra Team"
   
+  utter_askDetails:
+  - text: "Yes to find that first tell me about your physical and mental characteristics"
   utter_askbodyBuilt:
   - text: "Tell me about your body built"
 
