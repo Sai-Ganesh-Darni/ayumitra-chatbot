@@ -97,6 +97,7 @@ nlu:
     - what is my prakriti?
     - can I know to which prakriti I belong?
     - which prakriti I belong to?
+    - How can I know my prakriti?
 
 
 - intent: physical_character
@@ -418,92 +419,92 @@ nlu:
 
   
 
-    - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
-    - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
-    - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
-    - I have [insecure](Joints) and [tense](Joints) joints with crackling sounds.
-    - I have [wobbly](Joints) and [hard](Joints) joints with crackling sounds.
-    - I have [shaky](Joints) and [inflexible](Joints) joints with crackling sounds.
-    - I have [unbalanced](Joints) and [stiff](Joints) joints with crackling sounds.
-    - I have [volatile](Joints) and [firm](Joints) joints with crackling sounds.
-    - I have [unsettled](Joints) and [solid](Joints) joints with crackling sounds.
-    - I have [unanchored](Joints) and [taut](Joints) joints with crackling sounds.
+    - I have a [lean](joints) body and my [joints](joints) are prominent.
+    - I have [unstable](joints) and [stiff](joints) joints with crackling sounds.
+    - I have [unsteady](joints) and [rigid](joints) joints with crackling sounds.
+    - I have [insecure](joints) and [tense](joints) joints with crackling sounds.
+    - I have [wobbly](joints) and [hard](joints) joints with crackling sounds.
+    - I have [shaky](joints) and [inflexible](joints) joints with crackling sounds.
+    - I have [unbalanced](joints) and [stiff](joints) joints with crackling sounds.
+    - I have [volatile](joints) and [firm](joints) joints with crackling sounds.
+    - I have [unsettled](joints) and [solid](joints) joints with crackling sounds.
+    - I have [unanchored](joints) and [taut](joints) joints with crackling sounds.
   
   
-    - My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).
-    - I experience [softness](Joints) and [looseness](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [supple](Joints) and [flexible](Joints).
-    - I experience [flexibility](Joints) and [suppleness](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [pliable](Joints) and [limber](Joints).
-    - I experience [limberness](Joints) and [pliability](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [pliant](Joints) and [malleable](Joints).
-    - I experience [malleability](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [yielding](Joints) and [elastic](Joints).
-    - I experience [elasticity](Joints) and [yield](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [resilient](Joints) and [pliable](Joints).
-    - I experience [resilience](Joints) and [pliancy](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [limber](Joints) and [supple](Joints).
-    - I experience [suppleness](Joints) and [limberness](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [elastic](Joints) and [flexible](Joints).
-    - I experience [flexibility](Joints) and [elasticity](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [malleable](Joints) and [yielding](Joints).
-    - I experience [yield](Joints) and [malleability](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [resilient](Joints) and [pliant](Joints).
-    - I experience [pliancy](Joints) and [resilience](Joints) in my joints, muscles, and limbs.
-    - My joints, muscles, and limbs are [bendable](Joints) and [loosened](Joints).
-    - I experience [bendability](Joints) and [loosening](Joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [soft](joints) and [loose](joints).
+    - I experience [softness](joints) and [looseness](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [supple](joints) and [flexible](joints).
+    - I experience [flexibility](joints) and [suppleness](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliable](joints) and [limber](joints).
+    - I experience [limberness](joints) and [pliability](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [pliant](joints) and [malleable](joints).
+    - I experience [malleability](joints) and [pliancy](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [yielding](joints) and [elastic](joints).
+    - I experience [elasticity](joints) and [yield](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](joints) and [pliable](joints).
+    - I experience [resilience](joints) and [pliancy](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [limber](joints) and [supple](joints).
+    - I experience [suppleness](joints) and [limberness](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [elastic](joints) and [flexible](joints).
+    - I experience [flexibility](joints) and [elasticity](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [malleable](joints) and [yielding](joints).
+    - I experience [yield](joints) and [malleability](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [resilient](joints) and [pliant](joints).
+    - I experience [pliancy](joints) and [resilience](joints) in my joints, muscles, and limbs.
+    - My joints, muscles, and limbs are [bendable](joints) and [loosened](joints).
+    - I experience [bendability](joints) and [loosening](joints) in my joints, muscles, and limbs.
 
   
-    - I have [strong](Joints) and [well-hidden](Joints) joints.
-    - My joints are [well-protected](Joints) and [strong](Joints).
-    - I have [robust](Joints) and [concealed](Joints) joints.
-    - My joints are [secure](Joints) and [sturdy](Joints).
-    - I have [powerful](Joints) and [disguised](Joints) joints.
-    - My joints are [well-defended](Joints) and [resilient](Joints).
-    - I have [vigorous](Joints) and [camouflaged](Joints) joints.
-    - My joints are [guarded](Joints) and [mighty](Joints).
-    - I have [stalwart](Joints) and [veiled](Joints) joints.
-    - My joints are [well-shielded](Joints) and [forceful](Joints).
-    - I have [potent](Joints) and [covert](Joints) joints.
-    - My joints are [well-armored](Joints) and [tenacious](Joints).
-    - I have [stout](Joints) and [hidden](Joints) joints.
-    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
-    - I have [firm](Joints) and [concealed](Joints) joints.
-    - My joints are [well-secured](Joints) and [muscular](Joints).
-    - I have [resistant](Joints) and [disguised](Joints) joints.
-    - My joints are [well-fortified](Joints) and [forceful](Joints).
-    - I have [tenacious](Joints) and [camouflaged](Joints) joints.
-    - My joints are [well-guarded](Joints) and [sturdy](Joints).
-    - I have [enduring](Joints) and [veiled](Joints) joints.
-    - My joints are [well-protected](Joints) and [powerful](Joints).
-    - I have [solid](Joints) and [covert](Joints) joints.
-    - My joints are [well-defended](Joints) and [mighty](Joints).
-    - I have [hidden](Joints) and [resilient](Joints) joints.
-    - My joints are [well-shielded](Joints) and [sturdy](Joints).
-    - I have [powerful](Joints) and [veiled](Joints) joints.
-    - My joints are [well-safeguarded](Joints) and [hardy](Joints).
-    - I have [muscular](Joints) and [disguised](Joints) joints.
-    - My joints are [well-secured](Joints) and [firm](Joints).
-    - I have [forceful](Joints) and [hidden](Joints) joints.
-    - My joints are [well-fortified](Joints) and [resistant](Joints).
-    - I have [camouflaged](Joints) and [covert](Joints) joints.
-    - My joints are [well-guarded](Joints) and [solid](Joints).
-    - I have [veiled](Joints) and [mighty](Joints) joints.
-    - My joints are [well-protected](Joints) and [tenacious](Joints).
-    - I have [resilient](Joints) and [concealed](Joints) joints.
-    - My joints are [well-armored](Joints) and [powerful](Joints).
-    - I have [hardy](Joints) and [veiled](Joints) joints.
-    - My joints are [well-safeguarded](Joints) and [hidden](Joints).
-    - I have [disguised](Joints) and [firm](Joints) joints.
-    - My joints are [well-secured](Joints) and [sturdy](Joints).
-    - I have [forceful](Joints) and [camouflaged](Joints) joints.
-    - My joints are [well-fortified](Joints) and [resilient](Joints).
-    - I have [tenacious](Joints) and [hidden](Joints) joints.
-    - My joints are [well-guarded](Joints) and [powerful](Joints).
-    - I have [enduring](Joints) and [veiled](Joints) joints.
-    - My joints are [well-protected](Joints) and [mighty](Joints).
-    - I have [solid](Joints) and [covert](Joints) joints.
-    - My joints are [well-defended](Joints) and [hardy](Joints).
+    - I have [strong](joints) and [well-hidden](joints) joints.
+    - My joints are [well-protected](joints) and [strong](joints).
+    - I have [robust](joints) and [concealed](joints) joints.
+    - My joints are [secure](joints) and [sturdy](joints).
+    - I have [powerful](joints) and [disguised](joints) joints.
+    - My joints are [well-defended](joints) and [resilient](joints).
+    - I have [vigorous](joints) and [camouflaged](joints) joints.
+    - My joints are [guarded](joints) and [mighty](joints).
+    - I have [stalwart](joints) and [veiled](joints) joints.
+    - My joints are [well-shielded](joints) and [forceful](joints).
+    - I have [potent](joints) and [covert](joints) joints.
+    - My joints are [well-armored](joints) and [tenacious](joints).
+    - I have [stout](joints) and [hidden](joints) joints.
+    - My joints are [well-safeguarded](joints) and [hardy](joints).
+    - I have [firm](joints) and [concealed](joints) joints.
+    - My joints are [well-secured](joints) and [muscular](joints).
+    - I have [resistant](joints) and [disguised](joints) joints.
+    - My joints are [well-fortified](joints) and [forceful](joints).
+    - I have [tenacious](joints) and [camouflaged](joints) joints.
+    - My joints are [well-guarded](joints) and [sturdy](joints).
+    - I have [enduring](joints) and [veiled](joints) joints.
+    - My joints are [well-protected](joints) and [powerful](joints).
+    - I have [solid](joints) and [covert](joints) joints.
+    - My joints are [well-defended](joints) and [mighty](joints).
+    - I have [hidden](joints) and [resilient](joints) joints.
+    - My joints are [well-shielded](joints) and [sturdy](joints).
+    - I have [powerful](joints) and [veiled](joints) joints.
+    - My joints are [well-safeguarded](joints) and [hardy](joints).
+    - I have [muscular](joints) and [disguised](joints) joints.
+    - My joints are [well-secured](joints) and [firm](joints).
+    - I have [forceful](joints) and [hidden](joints) joints.
+    - My joints are [well-fortified](joints) and [resistant](joints).
+    - I have [camouflaged](joints) and [covert](joints) joints.
+    - My joints are [well-guarded](joints) and [solid](joints).
+    - I have [veiled](joints) and [mighty](joints) joints.
+    - My joints are [well-protected](joints) and [tenacious](joints).
+    - I have [resilient](joints) and [concealed](joints) joints.
+    - My joints are [well-armored](joints) and [powerful](joints).
+    - I have [hardy](joints) and [veiled](joints) joints.
+    - My joints are [well-safeguarded](joints) and [hidden](joints).
+    - I have [disguised](joints) and [firm](joints) joints.
+    - My joints are [well-secured](joints) and [sturdy](joints).
+    - I have [forceful](joints) and [camouflaged](joints) joints.
+    - My joints are [well-fortified](joints) and [resilient](joints).
+    - I have [tenacious](joints) and [hidden](joints) joints.
+    - My joints are [well-guarded](joints) and [powerful](joints).
+    - I have [enduring](joints) and [veiled](joints) joints.
+    - My joints are [well-protected](joints) and [mighty](joints).
+    - I have [solid](joints) and [covert](joints) joints.
+    - My joints are [well-defended](joints) and [hardy](joints).
     
 
 
