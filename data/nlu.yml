@@ -1,4 +1,4 @@
-  version: "3.1"
+version: "3.1"
 
 nlu:
 - intent: greet
@@ -109,10 +109,10 @@ nlu:
     - My [skin](skin) is dry and rough.
     - I have [thin](hair) hair.
 
-  #------------------------BODY BUILT--------------------    
-  
-    # [ VATA ]
-  
+
+
+
+
     - I'm [short](bodyBuilt)
     - I'm [thin](bodyBuilt)
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
@@ -137,8 +137,8 @@ nlu:
     - My body is [underdeveloped](bodyBuilt) with [prominent veins](bodyBuilt) and tendons.
     
 
-    #[ PITA ]
   
+
     - I have a [well-proportioned](bodyBuilt) and [gracefully contoured](bodyBuilt) body.
     - I have a [handsome](bodyBuilt) and [elegantly sculpted](bodyBuilt) physique.
     - I have an [attractive](bodyBuilt) and [finely crafted](bodyBuilt) body.
@@ -334,7 +334,7 @@ nlu:
     - My body is [compact](bodyBuilt) and [visually appealing](bodyBuilt).
     - My body is [trim](bodyBuilt) and [handsome](bodyBuilt).
     
-    #[ KAPHA ]
+  
 
     - My body is [defined](bodyBuilt) and [radiant](bodyBuilt).
     - My body is [athletic](bodyBuilt) and [smooth](bodyBuilt).
@@ -414,10 +414,10 @@ nlu:
     - My body is [proportionate](bodyBuilt) and [glossy](bodyBuilt) with [stable movement](bodyBuilt).
 
 
-  # ------------------------- JOINTS ------------------------
 
-    # [  VATA ]
+
   
+
     - I have a [lean](bodyBuilt) body and my [joints](joints) are prominent.
     - I have [unstable](Joints) and [stiff](Joints) joints with crackling sounds.
     - I have [unsteady](Joints) and [rigid](Joints) joints with crackling sounds.
@@ -429,7 +429,7 @@ nlu:
     - I have [unsettled](Joints) and [solid](Joints) joints with crackling sounds.
     - I have [unanchored](Joints) and [taut](Joints) joints with crackling sounds.
   
-    #[  PITA ]
+  
     - My joints, muscles, and limbs are [soft](Joints) and [loose](Joints).
     - I experience [softness](Joints) and [looseness](Joints) in my joints, muscles, and limbs.
     - My joints, muscles, and limbs are [supple](Joints) and [flexible](Joints).
@@ -453,7 +453,7 @@ nlu:
     - My joints, muscles, and limbs are [bendable](Joints) and [loosened](Joints).
     - I experience [bendability](Joints) and [loosening](Joints) in my joints, muscles, and limbs.
 
-    #[ KAPHA ]
+  
     - I have [strong](Joints) and [well-hidden](Joints) joints.
     - My joints are [well-protected](Joints) and [strong](Joints).
     - I have [robust](Joints) and [concealed](Joints) joints.
@@ -505,9 +505,9 @@ nlu:
     - I have [solid](Joints) and [covert](Joints) joints.
     - My joints are [well-defended](Joints) and [hardy](Joints).
     
-  # ---------------------- BODY ORGANS ----------------
 
-    #[ VATA ]
+
+  
 
     - My organs are [short](bodyOrgans) and [cracked](bodyOrgans).
     - I have [thin](bodyOrgans) and [stiff](bodyOrgans) organs.
@@ -529,7 +529,7 @@ nlu:
     - I have [slight](bodyOrgans) and [unyielding](bodyOrgans) organs.
     - My organs are [thin](bodyOrgans) and [firm](bodyOrgans).
 
-    #[ PITA ]
+  
 
     - My nails are [coppery](bodyOrgans) and my eyes are [coppery](bodyOrgans).
     - I have a [coppery palate](bodyOrgans) and [coppery lips](bodyOrgans).
@@ -542,7 +542,7 @@ nlu:
     - My nails are [brownish-red](bodyOrgans) and my eyes are [brownish-red](bodyOrgans).
     - I have a [tawny](bodyOrgans) palate and [tawny](bodyOrgans) lips
 
-    #[ KAPHA ]
+  
 
     - I have [compact](bodyOrgans) and [firm](bodyOrgans) organs.
     - My chest is [big](bodyOrgans) and [elevated](bodyOrgans), and I have [long arms](bodyOrgans).
@@ -563,9 +563,9 @@ nlu:
     - The chest region is [substantial](bodyOrgans) and [lifted](bodyOrgans), and I possess [lengthened arms](bodyOrgans).
     - I showcase a [sizeable](bodyOrgans) and [heightened](bodyOrgans) chest, along with [extended arms](bodyOrgans).
 
-  ## ----------- LIPS--------------
 
-    # [ VATA ]
+
+  
     
     - My lips are [dark](lips), [dry](lips), and [cracked](lips).
     - I have [dark and cracked lips](lips).
@@ -661,7 +661,7 @@ nlu:
     - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
     - My lips feature [deeply colored](lips) and [well-hydrated](lips) texture.
 
-    #[ PITA ]
+  
 
     - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
     - My lips feature a [soft](lips) and [rosy](lips) texture.
@@ -764,7 +764,7 @@ nlu:
     - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
     - I possess [plush](lips) and [softly pink](lips) lips.
 
-    #[ KAPHA ]
+  
   
     - My lips are [full](lips) and [naturally pink].
     - I possess [thick](lips) and [moist](lips) lips.
@@ -867,10 +867,10 @@ nlu:
     - I have [pillowy](lips) and [thick](lips) lips.
     - My lips feel [full](lips) and showcase a [moist](lips) texture
 
-  # --------------------- EYES ---------------------
 
-  # [ VATA ]
-  
+
+
+
     - My eyes feel [dry](eyes) and look [unsteady](eyes).
     - I have [moisturized](eyes) but they still seem [dry](eyes).
     - The eyes appear [unsteady](eyes) and keep [blinking](eyes).
@@ -972,701 +972,11 @@ nlu:
     - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
     -  I possess [watery](eyes) that occasionally become [dry](eyes).
 
-  #  PITA ]
-
-     - My eyes are [sharp](eyes) and [penetrating](eyes), framed by [blonde](eyes) lashes.
-     - I possess [intense](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
-     - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) - effect.
-     - I have [copper-toned](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
-     - My eyes, with [blonde](eyes) lashes, give off a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-     - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-     - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-     - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
-    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
-    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
-    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
-    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
-    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
-
-# [ KAPHA ]
-
-    - My eyes are [sparkling](eyes), [expressive](eyes), and [radiant with thick eyelashes](eyes).
-    - I have [captivating and alluring eyes](eyes) that are also [enchanting](eyes).
-    - The skin around my eyes is [lush with thick eyelashes](eyes) and [supple](eyes).
-    - I'm proud of my [mesmerizing and attractive eyes](eyes) with [long and voluminous eyelashes](eyes).
-    - My eyes are [magnetic](eyes), [compelling](eyes), and [lush with thick eyelashes](eyes).
-    - I have [striking and enticing eyes](eyes) that are also [charming](eyes).
-    - The skin around my eyes is [full with voluminous eyelashes](eyes) and [hydrated](eyes).
-    - I'm proud of my [captivating and attractive eyes](eyes) with [dense eyelashes](eyes).
-    - My eyes are [hypnotic](eyes), [appealing](eyes), and [lush with thick eyelashes](eyes).
-    - I have [alluring and enchanting eyes](eyes) that are also [bewitching](eyes).
-
- 
-# ---------------------------- TEETH----------------------
-
-# [ VATA ]
-
-    - My teeth are [small](teeth), [straight](teeth), and [resilient](teeth).
-    - I have [crooked](teeth) but [charming](teeth) nonetheless.
-    - The enamel on my teeth is [easily cracked](teeth), but I maintain good oral hygiene.
-    - I'm proud of my [small and neat](teeth) with [slightly crooked](teeth) alignment.
-    - My teeth are [tiny](teeth), [misaligned](teeth), and [susceptible to cracking](teeth).
-    - Despite their [small](teeth) size, my teeth are [straight](teeth) and [resistant to cracks](teeth).
-    - The alignment of my teeth is [crooked](teeth), but they are [sturdy](teeth) and not easily cracked.
-    - I'm proud of my [compact](teeth) that are [slightly crooked](teeth) and [resilient](teeth).
-    - My teeth are [small](teeth), [misshapen](teeth), and [prone to cracking](teeth).
-    - I have [crooked](teeth) that are [small](teeth) yet [strong](teeth) and not easily cracked.
-    - The size of my teeth is [small](teeth), their alignment is [crooked](teeth), and they are [susceptible to cracking](teeth).
-    - I have [dainty](teeth) that are [slightly crooked](teeth) and [prone to being easily cracked](teeth).
-    - Despite being [small](teeth) and [crooked](teeth), my teeth are surprisingly [resistant to cracking](teeth).
-    - The appearance of my teeth is [compact](teeth), [misaligned](teeth), and [easily cracked](teeth).
-    - I'm proud of my [tiny and unique](teeth) that are both [crooked](teeth) and [resilient](teeth).
-    - My teeth, though [small](teeth) and [crooked](teeth), are not [easily cracked](teeth) thanks to good dental care.
-    - The size and alignment of my teeth may be [small](teeth) and [crooked](teeth), but they are [hardy](teeth) and not easily cracked.
-    - I have [compact](teeth) that are [slightly crooked](teeth) and [susceptible to cracking](teeth).
-    - Despite being [small](teeth) and [crooked](teeth), my teeth remain [resistant to cracking](teeth).
-    - I'm proud of my [delicate](teeth) that are [crooked](teeth) and [prone to being easily cracked](teeth).
-
-  # [ PITA ]
-
-    - My teeth are of [moderate size](teeth), [pearly white](teeth), but slightly [yellowish](teeth).
-    - I have a set of [moderately sized](teeth), [healthy](teeth), and [subtly yellowish](teeth) enamel.
-    - The enamel on my [moderately sized](teeth) is [naturally yellowish](teeth) but in overall good health.
-    - I'm proud of my [teeth of moderate size](teeth) that are [lightly yellowish](teeth) yet robust.
-    - My teeth are [neither too small nor too large](teeth) and have a [subtle yellowish tint](teeth).
-    - Despite their [moderate size](teeth), my teeth have a [natural yellowish hue](teeth) that adds character.
-    - The alignment of my [moderately sized](teeth) is [straight], and they have a [soft yellowish glow](teeth).
-    - I have [naturally yellowish](teeth) of [moderate size](teeth) that are [well-maintained](teeth).
-    - My [moderate-sized](teeth) are [yellowish], giving my smile a [warm](teeth) and friendly appearance.
-    - I'm proud of my [moderately sized](teeth) with a [gentle yellowish tint](teeth) and a [healthy](teeth) disposition.
-    - The size of my teeth is [moderate](teeth), and their color is [pleasantly yellowish](teeth) with a touch of warmth.
-    - I have a set of [moderately sized](teeth) that are [naturally yellowish](teeth), reflecting my dental health.
-    - Despite their [moderate size](teeth), my teeth have a [subtle yellowish hue](teeth) that gives them character.
-    - I'm proud of my [teeth of moderate size](teeth) with a [gentle yellowish tint](teeth) and a [radiant](teeth) smile.
-    - My teeth are [moderate](teeth) in size, [slightly yellowish](teeth), and exude a [friendly](teeth) charm.
-    - The enamel on my [moderately sized](teeth) has a [natural yellowish shade](teeth) that complements my overall smile.
-    - I have [moderate-sized](teeth) that are [tinted with a soft yellowish glow](teeth), giving them a unique appeal.
-    - Despite the [moderate size](teeth), my dental enamel has a [gentle yellowish tone](teeth) that adds warmth.
-    - My [moderate-sized](teeth) have a [mild yellowish tint](teeth) that contributes to their distinctive appearance.
-    - I'm proud of my [teeth of moderate size](teeth) that are [naturally yellowish](teeth), showcasing a [healthy](teeth) radian 
-
-# [ KAPHA ]
-
-    - My teeth are [strong](teeth), [large](teeth), and [radiantly white](teeth).
-    - I have a set of [robust](teeth) that are both [large](teeth) and [stunningly white](teeth).
-    - The enamel on my [strong and large](teeth) is [impeccably white](teeth), reflecting optimal dental health.
-    - I'm proud of my [powerful](teeth) with a [substantial size](teeth) and [gleaming white](teeth) appearance.
-    - My teeth are [sturdy](teeth), [impressively large](teeth), and [brilliantly white](teeth).
-    - Despite their [strong](teeth) and [large](teeth) nature, my teeth maintain a [pearly white](teeth) luster.
-    - The alignment of my [robust and large](teeth) is [straight], and their color is [strikingly white](teeth).
-    - I have [naturally strong](teeth) that are [generously large](teeth) and [whiter than snow](teeth).
-    - My [strong and large](teeth) exhibit a [dazzling white](teeth) brilliance that enhances my smile.
-    - I'm proud of my [teeth with great strength and size](teeth) that are [purely white](teeth) and [healthy](teeth).
-    - The size of my teeth is [large](teeth), and their strength is [impressive], paired with a [gleaming white](teeth) appearance.
-    - I have [powerful](teeth) that are [generously large](teeth) and [radiantly white](teeth), showcasing excellent oral care.
-    - Despite their [strong](teeth) and [large](teeth) structure, my teeth maintain their [brilliantly white](teeth) color.
-    - I'm proud of my [sturdy and large](teeth) that are [blindingly white](teeth) and [well-maintained](teeth).
-    - My teeth are [resilient](teeth), [impressively large](teeth), and [sparkling white](teeth).
-    - The enamel on my [strong and large](teeth) is [flawlessly white](teeth), indicating optimal dental hygiene.
-    - I have [teeth of substantial size](teeth) that are both [strong](teeth) and [strikingly white](teeth).
-    - Despite their [large](teeth) structure, my teeth are [exceptionally strong](teeth) and [dazzlingly white](teeth).
-    - My [powerful and large](teeth) exhibit a [pure white](teeth) brilliance that enhances my overall smile.
-    - I'm proud of my [robust](teeth) with a [considerable size](teeth) that are [shining white](teeth) and [healthy](teet    - 
-
-#  ---- SKIN ---- 
-
-#VATA
-
-    - My skin is [dry](skin) and [rough](skin) with a [dark](skin) complexion.
-    - I have [cracked](skin) and [cold](skin) skin with a [black](skin) complexion.
-    - My skin is [dehydrated](skin) and [coarse](skin) with a [deep](skin) complexion.
-    - I have [chapped](skin) and [chilly](skin) skin with a [darker](skin) complexion.
-    - Her skin is [weathered](skin) and [rough](skin) with a [brown](skin) complexion.
-    - He has [blemished](skin) and [cool](skin) skin with a [ebony](skin) complexion.
-    - Their skin is [parched](skin) and [harsh](skin) with a [dim](skin) complexion.
-    - I have [split](skin) and [frigid](skin) skin with a [charcoal](skin) complexion.
-    - My skin is [coarse](skin) and [dry](skin) with a [sallow](skin) complexion.
-    - She has [flawed](skin) and [frosty](skin) skin with a [somber](skin) complexion.
-    - His skin is [rough](skin) and [chilled](skin) with a [swarthy](skin) complexion.
-    - We have [imperfections](skin) and [icy](skin) skin with a [dusky](skin) complexion.
-    - My skin is [pitted](skin) and [brisk](skin) with a [darkened](skin) complexion.
-    - I have [cracked](skin) and [gelid](skin) skin with a [black](skin) complexion.
-    - Her skin is [coarse](skin) and [bleak](skin) with a [tanned](skin) complexion.
-    - He has [imperfections](skin) and [frosty](skin) skin with a [ebony](skin) complexion.
-    - Their skin is [chapped](skin) and [frigid](skin) with a [ashen](skin) complexion.
-    - I have [cracked](skin) and [chilled](skin) skin with a [shadowy](skin) complexion.
-    - My skin is [rough](skin) and [frozen](skin) with a [bronzed](skin) complexion.
-    - She has [blemished](skin) and [cool](skin) skin with a [ebony](skin) complexion.
-    - His skin is [parched](skin) and [harsh](skin) with a [somber](skin) complexion.
-    - We have [split](skin) and [brisk](skin) skin with a [tawny](skin) complexion.
-
-#PITTA
-
-    - I have [warm](skin), [soft](skin) skin with [freckles](skin) and [moles](skin).
-    - My skin is [wrinkled](skin) with a [fair](skin) and [reddish](skin) complexion.
-    - My skin feels [heated](skin) and [gentle](skin) with [freckles](skin) and [beauty marks](skin).
-    - My skin is [creased](skin) with a [pale](skin) and [rosy](skin) complexion.
-    - I possess [mild](skin), [silken](skin) skin adorned with [speckles](skin) and [beauty spots](skin).
-    - My skin appears [wrinkled](skin) with a [fair](skin) and [pinkish](skin) complexion.
-    - Her skin is [temperate](skin), [velvety](skin) with [freckles](skin) and [beauty marks](skin).
-    - His skin shows signs of [aging](skin) with a [fair](skin) and [roseate](skin) complexion.
-    - He possesses [cosseted](skin), [tender](skin) skin adorned with [freckles](skin) and [blemishes](skin).
-    - Her skin is [creased](skin) with a [pale](skin) and [rosy](skin) complexion.
-    - Our skin is [gentle](skin) and [warm](skin) with [freckles](skin) and [moles](skin).
-    - Their skin is [lined](skin) with a [fair](skin) and [ruddy](skin) complexion.
-    - She has [mellow](skin), [supple](skin) skin with [freckles](skin) and [beauty spots](skin).
-    - His skin displays [aging signs](skin) with a [fair](skin) and [pinkish](skin) complexion.
-    - My skin feels [soothing](skin) and [gentle](skin) with [freckles](skin) and [blemishes](skin).
-    - My skin is [wrinkled](skin) with a [fair](skin) and [rose-colored](skin) complexion.
-    - Their skin is [temperate](skin), [velvety](skin) adorned with [freckles](skin) and [beauty marks](skin).
-    - Her skin exhibits [aging](skin) with a [fair](skin) and [rosy](skin) complexion.
-    - I have [mild](skin), [silken](skin) skin with [freckles](skin) and [moles](skin).
-    - My skin shows signs of [aging](skin) with a [fair](skin) and [blushing](skin) complexion.
-    - His skin is [cosseted](skin), [tender](skin) with [freckles](skin) and [beauty spots](skin).
-    - Her skin is [creased](skin) with a [fair](skin) and [roseate](skin) complexion.
-
-#KAPHA
-
-    - I have [smooth](skin) and [moist](skin) skin with a [light](skin) and [clear](skin) complexion.
-    - My skin is [oily](skin) and [non-wrinkled](skin) with a [whitish](skin) complexion.
-    - My skin is [smooth](skin) with a [pale](skin) complexion.
-    - His skin feels [moist](skin) and has a [whitish](skin) tone.
-    - Her skin is [oily](skin) with a [clear](skin) complexion.
-    - Their skin is [glossy](skin) and [light](skin).
-    - I have [soft](skin) and [moist](skin) skin with a [clear](skin) complexion.
-    - My skin appears [slick](skin) with a [whitish](skin) tone.
-    - His skin is [dewy](skin) with a [fair](skin) complexion.
-    - Our skin feels [non-wrinkled](skin) and [soft](skin).
-    - The skin is [moist](skin) and [clear](skin) in appearance.
-    - My skin is [smooth](skin) and [light](skin) skin.
-    - Their skin is [sleek](skin) with a [rosy](skin) complexion.
-    - I possess [velvet-like](skin) skin with a [fair](skin) complexion.
-    - Her skin feels [moist](skin) and [clear](skin).
-    - His skin appears [oily](skin) with a [whitish](skin) tone.
-    - My skin is [silky](skin) with a [radiant](skin) complexion.
-    - Their skin is [shiny](skin) and [light](skin).
-    - I have [supple](skin) skin with a [pale](skin) complexion.
-    - His skin feels [non-creased](skin) with a [rosy](skin) tone.
-    - Our skin is [glistening](skin) with a [clear](skin) complexion.
-    - Her skin is [smooth-textured](skin) with a [luminous](skin) complexion.
-    - My skin is [soft](skin) and [pale](skin).
-    - Their skin feels [moisturized](skin) with a [whitish](skin) tone.
-    - His skin is [slick](skin) with a [radiant](skin) complexion.
-    - I possess [dewy](skin) skin with a [fair](skin) tone.
-    - Her skin is [lustrous](skin) and [light](skin).
-    - My skin feels [supple](skin) with a [rosy](skin) complexion.
-    - Their skin appears [glistening](skin) with a [clear](skin) tone.
-    - His skin is [smooth-textured](skin) with a [luminous](skin) complexion.
-    - I have [satin-like](skin) skin with a [whitish](skin) tone.
-    - Her skin feels [non-creased](skin) with a [radiant](skin) complexion.
-    - My skin is [soft](skin) and [glossy](skin).
-    - Their skin is [dewy](skin) with a [clear](skin) complexion.
-    - I possess [slick](skin) skin with a [luminous](skin) complexion.
-    - His skin feels [moist](skin) with a [whitish](skin) tone.
-    - Her skin appears [sleek](skin) with a [rosy](skin) complexion.
-    - Our skin is [silky](skin) and [light](skin).
-    - I have [supple](skin) skin with a [pale](skin) tone.
-    - His skin is [shiny](skin) and [non-creased](skin).
-    - Their skin feels [moisturized](skin) with a [clear](skin) complexion.
-    - Her skin is [glistening](skin) with a [luminous](skin) tone.
-    - My skin appears [satin-like](skin) with a [whitish](skin) complexion.
-    - His skin feels [slick](skin) with a [radiant](skin) tone.
-    - I possess [soft](skin) and [glossy](skin) skin.
-    - Their skin is [dewy](skin) with a [clear](skin) complexion.
-    - Her skin is [smooth-textured](skin) with a [luminous](skin) tone.
-    - My skin feels [supple](skin) with a [whitish](skin) complexion.
-    - His skin is [sleek](skin) and [light](skin).
-    - Our skin appears [glistening](skin) with a [clear](skin) tone.
-    - I have [satin-like](skin) skin with a [luminous](skin) complexion.
-    - Her skin feels [slick](skin) with a [whitish](skin) tone.
-
-#  ---  HAIR ----
-
-#VATA
-
-    - My hair is [thin](hair) and [dry](hair) with [split ends](hair).
-    - I have [scanty](hair) and [rough](hair) hair.
-    - The texture of my hair is [less](hair) and [cracked](hair) with [split ends](hair).
-    - My hair is [delicate](hair) and [sparse](hair) with [impaired tips](hair).
-    - I possess [limited](hair) and [dehydrated](hair) hair.
-    - The consistency of my hair is [coarse](hair) and [weathered](hair) with [frayed tips](hair).
-    - His hair is [slim](hair) and [scarce](hair) with [frayed tips](hair).
-    - She has [meager](hair) and [rough](hair) hair.
-    - Their hair is [arid](hair) and [slim](hair) with [frizzed tips](hair).
-    - I own [restricted](hair) and [arid](hair) hair.
-    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
-    - Her hair is [meager](hair) and [dehydrated](hair) with [frayed tips](hair).
-    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
-    - My hair is [fine](hair) and [limited](hair) with [damaged tips](hair).
-    - I have [restrained](hair) and [parched](hair) hair.
-    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
-    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
-    - She has [limited](hair) and [coarse](hair) hair.
-    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
-    - I own [restricted](hair) and [dehydrated](hair) hair.
-    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
-    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
-    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
-    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
-    - I have [restrained](hair) and [dehydrated](hair) hair.
-    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
-    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
-    - She has [limited](hair) and [coarse](hair) hair.
-    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
-    - I own [restricted](hair) and [dehydrated](hair) hair.
-    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
-    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
-    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
-    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
-    - I have [restrained](hair) and [dehydrated](hair) hair.
-    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
-    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
-    - She has [limited](hair) and [coarse](hair) hair.
-    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
-    - I own [restricted](hair) and [dehydrated](hair) hair.
-    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
-    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
-    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
-    - My hair is [fine](hair) and [constrained](hair) with [damaged tips](hair).
-    - I have [restrained](hair) and [dehydrated](hair) hair.
-    - The texture of my hair is [rough](hair) and [worn](hair) with [frayed ends](hair).
-    - His hair is [slim](hair) and [constrained](hair) with [frizzed tips](hair).
-    - She has [limited](hair) and [coarse](hair) hair.
-    - Their hair is [arid](hair) and [fine](hair) with [frayed tips](hair).
-    - I own [restricted](hair) and [dehydrated](hair) hair.
-    - My hair is [coarse](hair) and [slim](hair) with [frayed tips](hair).
-    - Her hair is [limited](hair) and [parched](hair) with [frayed tips](hair).
-    - The texture of his hair is [restricted](hair) and [worn-out](hair) with [frayed ends](hair).
-
-#PITTA
-
-    - I have [thin](hair) and [fine](hair) [blonde](hair) hair.
-    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
-    - The texture of my hair is [fine](hair) and [blonde](hair).
-    - I have [thin](hair) and [fine](hair) [blonde](hair) hair.
-    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
-    - The texture of my hair is [fine](hair) and [blonde](hair).
-    - Her hair is [thin](hair) and [fine](hair) [red](hair).
-    - His hair is [oily](hair) and [blonde](hair) with [early greying](hair).
-    - I have [fine](hair) and [red](hair) hair.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair).
-    - My hair is [oily](hair) and [red](hair) with [early greying](hair).
-    - The texture of her hair is [fine](hair) and [blonde](hair).
-    - His hair is [thin](hair) and [fine](hair) [red](hair).
-    - I have [oily](hair) and [blonde](hair) hair with [early greying](hair).
-    - Her hair is [fine](hair) and [red](hair).
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) texture.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-    - His hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - I have [oily](hair) and [red](hair) hair with [fine](hair) strands.
-    - Her hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - The texture of my hair is [oily](hair) and [red](hair) with [fine](hair) strands.
-    - Their hair is [thin](hair) and [fine](hair) [blonde](hair) with [early greying](hair).
-    - My hair is [oily](hair) and [red](hair) with [fine](hair) texture.
-
-#KAPHA
-
-    - I'm blessed with [thick](hair) and [glossy](hair) [black](hair) hair.
-    - My hair is [firmly rooted](hair) and [wavy](hair).
-    - The texture of my hair is [beeblack](hair) and [glossy](hair).
-    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
-    - My hair is [firmly anchored](hair) and [undulating](hair).
-    - The consistency of my hair is [ebony](hair) and [lustrous](hair).
-    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
-    - His hair is [securely rooted](hair) and [ebony](hair).
-    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
-    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
-    - My hair is [securely anchored](hair) and [shiny](hair).
-    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
-    - His hair is [securely rooted](hair) and [undulating](hair).
-    - I'm lucky to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
-    - My hair is [firmly anchored](hair) and [undulating](hair).
-    - The texture of my hair is [ebony](hair) and [lustrous](hair).
-    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
-    - His hair is [securely rooted](hair) and [ebony](hair).
-    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
-    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
-    - My hair is [securely anchored](hair) and [shiny](hair).
-    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
-    - His hair is [securely rooted](hair) and [undulating](hair).
-    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
-    - My hair is [firmly anchored](hair) and [undulating](hair).
-    - The texture of my hair is [ebony](hair) and [lustrous](hair).
-    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
-    - His hair is [securely rooted](hair) and [ebony](hair).
-    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
-    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
-    - My hair is [securely anchored](hair) and [shiny](hair).
-    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
-    - His hair is [securely rooted](hair) and [undulating](hair).
-    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
-    - My hair is [firmly anchored](hair) and [undulating](hair).
-    - The texture of my hair is [ebony](hair) and [lustrous](hair).
-    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
-    - His hair is [securely rooted](hair) and [ebony](hair).
-    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
-    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
-    - My hair is [securely anchored](hair) and [shiny](hair).
-    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
-    - His hair is [securely rooted](hair) and [undulating](hair).
-    - I'm fortunate to have [dense](hair) and [shiny](hair) [ebony](hair) hair.
-    - My hair is [firmly anchored](hair) and [undulating](hair).
-    - The texture of my hair is [ebony](hair) and [lustrous](hair).
-    - Her hair is [dense](hair) and [shiny](hair) [undulating](hair).
-    - His hair is [securely rooted](hair) and [ebony](hair).
-    - I possess [shiny](hair) and [dense](hair) [inky](hair) hair.
-    - Their hair exhibits [inky](hair) and [undulating](hair) with [dense](hair) strands.
-    - My hair is [securely anchored](hair) and [shiny](hair).
-    - I own [ebony](hair) and [dense](hair) [lustrous](hair) hair.
-    - His hair is [securely rooted](hair) and [undulating](hair).
-
-#------------------LIPS---------------
-
-# Intent for Dark, dry, cracked about lips.  [VATA]
-
-    - My lips are [dark](lips), [dry](lips), and [cracked](lips).
-    - I have [dark and cracked lips](lips).
-    - My lips appear [dark](lips) and [dry](lips), with noticeable [cracks](lips).
-    - I've been experiencing issues with [darkness](lips) and [dryness](lips) around my lips.
-   - The skin around my lips is [dark](lips), [dry](lips), and [cracked](lips).
-   - I'm concerned about the [dark and cracked condition](lips) of my lips.
-   
-#My lips are [dark](lips), [dry](lips), and [cracked](lips).
-
-    - I possess [deep-colored](lips) and [moisturized](lips) lips.
-    - My lips are [intensely shaded](lips) and [hydrated](lips).
-    - The lips showcase [shadowed](lips) and [well-moisturized](lips) features.
-    - The lips appear [dark](lips) yet feel [smooth](lips) and [soft](lips).
-    - My lips exhibit [richly pigmented](lips) and [well-hydrated](lips) characteristics.
-    - The lips are [dark-hued](lips) and [nourished](lips) with [moisture](lips).
-    - I showcase [deep-toned](lips) and [properly moisturized](lips) lips.
-    - The lips have a [dark](lips) hue while being [supple](lip) and [well-hydrated](lips).
-    - The lips are [dark-shaded](lips) and [adequately moisturize](lips).
-    - I possess [richly colored](lips) and [well-maintained](lips) lips.
-    - My lips are [deeply tinted](lips) and [kept moisturized](lips).
-    - The lips have a [dark](lips) appearance yet feel [smooth](lips) and [well-hydrated](lips).
-    - I have [shadowy](lips) and [hydrated](lips) lips.
-    - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
-    - My lips feature [deeply colored](lips) and [well-hydrated](lips) texture.
-    - The lips are [dark-toned](lips) and [maintained](lips) with [moisture](lips).
-    - I possess [shadowed](lips) and [adequately moisturized](lips) features.
-    - The lips have a [dark](lips) hue and feel [soft](lips) and [well-hydrated](lips).
-    - The lips exhibit [deep-toned](lips) and [moisturized](lips) characteristics.
-    - I have [dark-shaded](lips) and [properly hydrated](lips) lips.
-    - My lips showcase [richly pigmented](lips) and [well-maintained](lips) texture.
-    - The lips are [dark-hued](lips) and [nourished](lips) with [moisture](lips).
-    - I possess [deeply tinted](lips) and [kept moisturized](lips).
-    - The lips have a [dark](lips) appearance yet feel [smooth](lips) and [well-hydrated](lips).
-    - I have [shadowy](lips) and [hydrated](lips) lips.
-    - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
-    - My lips feature [deeply colored](lips) and [well-hydrated](lips) texture.
-    - The lips are [dark-toned](lips) and [maintained](lips) with [moisture](lips).
-    - I possess [shadowed](lips) and [adequately moisturized](lips) features.
-    - The lips have a [dark](lips) hue and feel [soft](lips) and [well-hydrated](lips).
-    - The lips exhibit [deep-toned](lips) and [moisturized](lips) characteristics.
-    - I have [dark-shaded](lips) and [properly hydrated](lips) lips.
-    - My lips showcase [richly pigmented](lips) and [well-maintained](lips) texture.
-    - The lips are [dark-hued](lips) and [nourished](lips) with [moisture](lips).
-    - I possess [deeply tinted](lips) and [kept moisturized](lips).
-    - The lips have a [dark](lips) appearance yet feel [smooth](lips) and [well-hydrated](lips).
-    - I have [shadowy](lips) and [hydrated](lips) lips.
-    - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
-    - My lips feature [deeply colored](lips) and [well-hydrated](lips) texture.
-    - The lips are [dark-toned](lips) and [maintained](lips) with [moisture](lips).
-    - I possess [shadowed](lips) and [adequately moisturized](lips) features.
-    - The lips have a [dark](lips) hue and feel [soft](lips) and [well-hydrated](lips).
-    - The lips exhibit [deep-toned](lips) and [moisturized](lips) characteristics.
-    - I have [dark-shaded](lips) and [properly hydrated](lips) lips.
-    - My lips showcase [richly pigmented](lips) and [well-maintained](lips) texture.
-    - The lips are [dark-hued](lips) and [nourished](lips) with [moisture](lips).
-    - I possess [deeply tinted](lips) and [kept moisturized](lips).
-    - The lips have a [dark](lips) appearance yet feel [smooth](lips) and [well-hydrated](lips).
-    - I have [shadowy](lips) and [hydrated](lips) lips.
-    - The lips appear [dark](lips) but are [properly moisturized](lips) and [soft](lips).
-# soft, pink, copper coloured ( PITA )    
-
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-    - The lips are [tender](lips) and [naturally pink](lips).
-    - I possess [soft](lips) and [delicately colored](lips) lips.
-    - I have [pillowy](lips) and [softly pink](lips) lips.
-    - My lips feel [tender](lips) and showcase a [subtle pink](lips) hue.
-    - My lips feature a [soft](lips) and [rosy](lips) texture.
-    - The lips exhibit a [gentle](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [softly pink](lips) lips.
-    - The lips feel [velvety](lips) and have a [subtle pink](lips) hue.
-
-# Full, thick moist and oily  [ KAPHA ]
-
-    - My lips are [full](lips) and [naturally pink].
-    - I possess [thick](lips) and [moist](lips) lips.
-    - The lips feel [full](lips) and have a [subtle pink](lips) hue.
-    - I have [pillowy](lips) and [full](lips) lips.
-    - My lips feature a [thick](lips) and [moist](lips) texture.
-    - The lips exhibit a [full](lips) and [pinkish](lips) appearance.
-    - I possess [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) appearance.
-    - I have [thick](lips) and [naturally pink](lips).
-    - My lips are [full](lips) and [moist](lips).
-    - I possess [pillowy](lips) and [thick](lips) lips.
-    - The lips feel [full](lips) and showcase a [moist](lips) texture.
-    - My lips exhibit a [thick](lips) and [pinkish](lips) appearance.
-    - The lips appear [full](lips) and [moist](lips) with a [natural pink](lips) tint.
-    - I showcase [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) texture.
-    - The lips are [thick](lips) and [naturally pink](lips).
-    - I possess [full](lips) and [moist](lips) lips.
-    - I have [pillowy](lips) and [thick](lips) lips.
-    - My lips feel [full](lips) and showcase a [moist](lips) texture.
-    - My lips feature a [thick](lips) and [pinkish](lips) appearance.
-    - The lips exhibit [full](lips) and [moist](lips) with a [natural pink](lips) tint.
-    - I showcase [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) texture.
-    - The lips are [thick](lips) and [naturally pink](lips).
-    - I possess [full](lips) and [moist](lips) lips.
-    - I have [pillowy](lips) and [thick](lips) lips.
-    - My lips feel [full](lips) and showcase a [moist](lips) texture.
-    - My lips exhibit a [thick](lips) and [pinkish](lips) appearance.
-    - The lips appear [full](lips) and [moist](lips) with a [natural pink](lips) tint.
-    - I showcase [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) texture.
-    - The lips are [thick](lips) and [naturally pink](lips).
-    - I possess [full](lips) and [moist](lips) lips.
-    - I have [pillowy](lips) and [thick](lips) lips.
-    - My lips feel [full](lips) and showcase a [moist](lips) texture.
-    - My lips feature a [thick](lips) and [pinkish](lips) appearance.
-    - The lips exhibit [full](lips) and [moist](lips) with a [natural pink](lips) tint.
-    - I showcase [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) texture.
-    - The lips are [thick](lips) and [naturally pink](lips).
-    - I possess [full](lips) and [moist](lips) lips.
-    - I have [pillowy](lips) and [thick](lips) lips.
-    - My lips feel [full](lips) and showcase a [moist](lips) texture.
-    - My lips exhibit a [thick](lips) and [pinkish](lips) appearance.
-    - The lips appear [full](lips) and [moist](lips) with a [natural pink](lips) tint.
-    - I showcase [plush](lips) and [thick](lips) lips.
-    - The lips feel [moist](lips) and have a [full](lips) texture.
-    - The lips are [thick](lips) and [naturally pink](lips).
-    - I possess [full](lips) and [moist](lips) lips.
-  
-#-------------------- EYES----------------------------
-#  [ VATA ]
-
-
-    - My eyes feel [dry](eyes) and look [unsteady](eyes).
-    - I have [moisturized](eyes) but they still seem [dry](eyes).
-    - The eyes appear [unsteady](eyes) and keep [blinking](eyes).
-    - I possess [tired](eyes) that often become [dry](eyes).
-    - My eyes are [unsteady](eyes) and constantly [blinking](eyes).
-    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-    - I have [teary](eyes) that become [dry](eyes) at times.
-    - My eyes are [unsteady](eyes) and prone to [blinking](eyes).
-    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-    - I possess [watery](eyes) that occasionally become [dry](eyes).
-    - My eyes feel [unsteady](eyes) and are frequently [blinking](eyes).
-    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-    - I have [irritated](eyes) that can be [dry](eyes) at times.
-    - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
-    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-    - I possess [moist](eyes) that occasionally turn [dry](eyes).
-    - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
-    - The eyes seem [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-    - I have [itchy](eyes) that can become [dry](eyes).
-    - My eyes are [unsteady](eyes) and exhibit frequent [blinking](eyes).
-    - The eyes feel [dry](eyes) and seem slightly [unsteady](eyes).
-    - I possess [moisturized](eyes) that occasionally turn [dry](eyes).
-    - My eyes are [unsteady](eyes) and prone to rapid [blinking](eyes).
-    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-    - I have [irritated](eyes) that can be [dry](eyes) at times.
-    - My eyes feel [unsteady](eyes) and are prone to constant [blinking](eyes).
-    - The eyes seem [dry](eyes) and somewhat [unsteady](eyes).
-    - I possess [watery](eyes) that occasionally become [dry](eyes).
-    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-    - I have [moist](eyes) that occasionally turn [dry](eyes).
-    - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-    - The eyes seem [dry](eyes) and display a [unsteady](eyes) gaze.
-    - I possess [itchy](eyes) that can become [dry](eyes).
-    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-    - The eyes feel [dry](eyes) and look slightly [unsteady](eyes).
-    - I have [irritated](eyes) that can be [dry](eyes) at times.
-    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-    - The eyes appear [dry](eyes) and somewhat [unsteady](eyes).
-    - I possess [watery](eyes) that occasionally become [dry](eyes).
-    - My eyes are [unsteady](eyes) and prone to constant [blinking](eyes).
-    - The eyes seem [dry](eyes) and slightly [unsteady](eyes).
-    - I have [moist](eyes) that occasionally turn [dry](eyes).
-    - My eyes feel [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-    - The eyes appear [dry](eyes) and exhibit a [unsteady](eyes) gaze.
-    - I possess [irritated](eyes) that can become [dry](eyes).
-    - My eyes are [unsteady](eyes) and prone to frequent [blinking](eyes).
-    - The eyes feel [dry](eyes) and somewhat [unsteady](eyes).
-    - I have [itchy](eyes) that can become [dry](eyes).
-    - My eyes are [unsteady](eyes) and exhibit a tendency for [blinking](eyes).
-
-# [ PITA ]
 
 
     - My eyes are [sharp](eyes) and [penetrating](eyes), framed by [blonde](eyes) lashes.
     - I possess [intense](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
-    - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) effect.
+    - The eyes exhibit a [sharp](eyes) and [blonde](eyes) elegance, creating a [penetrating](eyes) - effect.
     - I have [copper-toned](eyes) eyes with a [sharp](eyes) and [penetrating](eyes) allure.
     - My eyes, with [blonde](eyes) lashes, give off a [penetrating](eyes) and [sharp](eyes) impression.
     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
@@ -1714,8 +1024,58 @@ nlu:
     - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
     - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
     - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
+    - My eyes, with [copper](eyes) lashes, create a [penetrating](eyes) and [sharp](eyes) impression.
+    - The eyes display a [sharp](eyes) and [intense](eyes) gaze, complemented by [blonde](eyes).
+    - I possess [penetrating](eyes) and [sharp](eyes) eyes, framed by [copper](eyes) lashes.
+    - My eyes have a [blonde](eyes) allure, creating a [sharp](eyes) and intense effect.
+    - The eyes exhibit a [sharp](eyes) and [penetrating](eyes) gaze, enhanced by [copper-colored]- (eyes) lashes.
+    - I have [intense](eyes) eyes with a [sharp](eyes) and [blonde](eyes) allure.
 
-# [ KAPHA ]
+
 
     - My eyes are [sparkling](eyes), [expressive](eyes), and [radiant with thick eyelashes](eyes).
     - I have [captivating and alluring eyes](eyes) that are also [enchanting](eyes).
@@ -1728,6 +1088,82 @@ nlu:
     - My eyes are [hypnotic](eyes), [appealing](eyes), and [lush with thick eyelashes](eyes).
     - I have [alluring and enchanting eyes](eyes) that are also [bewitching](eyes).
 
+ 
+
+
+
+
+    - My teeth are [small](teeth), [straight](teeth), and [resilient](teeth).
+    - I have [crooked](teeth) but [charming](teeth) nonetheless.
+    - The enamel on my teeth is [easily cracked](teeth), but I maintain good oral hygiene.
+    - I'm proud of my [small and neat](teeth) with [slightly crooked](teeth) alignment.
+    - My teeth are [tiny](teeth), [misaligned](teeth), and [susceptible to cracking](teeth).
+    - Despite their [small](teeth) size, my teeth are [straight](teeth) and [resistant to cracks](teeth).
+    - The alignment of my teeth is [crooked](teeth), but they are [sturdy](teeth) and not easily cracked.
+    - I'm proud of my [compact](teeth) that are [slightly crooked](teeth) and [resilient](teeth).
+    - My teeth are [small](teeth), [misshapen](teeth), and [prone to cracking](teeth).
+    - I have [crooked](teeth) that are [small](teeth) yet [strong](teeth) and not easily cracked.
+    - The size of my teeth is [small](teeth), their alignment is [crooked](teeth), and they are [susceptible to cracking](teeth).
+    - I have [dainty](teeth) that are [slightly crooked](teeth) and [prone to being easily cracked](teeth).
+    - Despite being [small](teeth) and [crooked](teeth), my teeth are surprisingly [resistant to cracking](teeth).
+    - The appearance of my teeth is [compact](teeth), [misaligned](teeth), and [easily cracked](teeth).
+    - I'm proud of my [tiny and unique](teeth) that are both [crooked](teeth) and [resilient](teeth).
+    - My teeth, though [small](teeth) and [crooked](teeth), are not [easily cracked](teeth) thanks to good dental care.
+    - The size and alignment of my teeth may be [small](teeth) and [crooked](teeth), but they are [hardy](teeth) and not easily cracked.
+    - I have [compact](teeth) that are [slightly crooked](teeth) and [susceptible to cracking](teeth).
+    - Despite being [small](teeth) and [crooked](teeth), my teeth remain [resistant to cracking](teeth).
+    - I'm proud of my [delicate](teeth) that are [crooked](teeth) and [prone to being easily cracked](teeth).
+
+  
+
+    - My teeth are of [moderate size](teeth), [pearly white](teeth), but slightly [yellowish](teeth).
+    - I have a set of [moderately sized](teeth), [healthy](teeth), and [subtly yellowish](teeth) enamel.
+    - The enamel on my [moderately sized](teeth) is [naturally yellowish](teeth) but in overall good health.
+    - I'm proud of my [teeth of moderate size](teeth) that are [lightly yellowish](teeth) yet robust.
+    - My teeth are [neither too small nor too large](teeth) and have a [subtle yellowish tint](teeth).
+    - Despite their [moderate size](teeth), my teeth have a [natural yellowish hue](teeth) that adds character.
+    - The alignment of my [moderately sized](teeth) is [straight], and they have a [soft yellowish glow](teeth).
+    - I have [naturally yellowish](teeth) of [moderate size](teeth) that are [well-maintained](teeth).
+    - My [moderate-sized](teeth) are [yellowish], giving my smile a [warm](teeth) and friendly appearance.
+    - I'm proud of my [moderately sized](teeth) with a [gentle yellowish tint](teeth) and a [healthy](teeth) disposition.
+    - The size of my teeth is [moderate](teeth), and their color is [pleasantly yellowish](teeth) with a touch of warmth.
+    - I have a set of [moderately sized](teeth) that are [naturally yellowish](teeth), reflecting my dental health.
+    - Despite their [moderate size](teeth), my teeth have a [subtle yellowish hue](teeth) that gives them character.
+    - I'm proud of my [teeth of moderate size](teeth) with a [gentle yellowish tint](teeth) and a [radiant](teeth) smile.
+    - My teeth are [moderate](teeth) in size, [slightly yellowish](teeth), and exude a [friendly](teeth) charm.
+    - The enamel on my [moderately sized](teeth) has a [natural yellowish shade](teeth) that complements my overall smile.
+    - I have [moderate-sized](teeth) that are [tinted with a soft yellowish glow](teeth), giving them a unique appeal.
+    - Despite the [moderate size](teeth), my dental enamel has a [gentle yellowish tone](teeth) that adds warmth.
+    - My [moderate-sized](teeth) have a [mild yellowish tint](teeth) that contributes to their distinctive appearance.
+    - I'm proud of my [teeth of moderate size](teeth) that are [naturally yellowish](teeth), showcasing a [healthy](teeth) radian 
+
+
+
+    - My teeth are [strong](teeth), [large](teeth), and [radiantly white](teeth).
+    - I have a set of [robust](teeth) that are both [large](teeth) and [stunningly white](teeth).
+    - The enamel on my [strong and large](teeth) is [impeccably white](teeth), reflecting optimal dental health.
+    - I'm proud of my [powerful](teeth) with a [substantial size](teeth) and [gleaming white](teeth) appearance.
+    - My teeth are [sturdy](teeth), [impressively large](teeth), and [brilliantly white](teeth).
+    - Despite their [strong](teeth) and [large](teeth) nature, my teeth maintain a [pearly white](teeth) luster.
+    - The alignment of my [robust and large](teeth) is [straight], and their color is [strikingly white](teeth).
+    - I have [naturally strong](teeth) that are [generously large](teeth) and [whiter than snow](teeth).
+    - My [strong and large](teeth) exhibit a [dazzling white](teeth) brilliance that enhances my smile.
+    - I'm proud of my [teeth with great strength and size](teeth) that are [purely white](teeth) and [healthy](teeth).
+    - The size of my teeth is [large](teeth), and their strength is [impressive], paired with a [gleaming white](teeth) appearance.
+    - I have [powerful](teeth) that are [generously large](teeth) and [radiantly white](teeth), showcasing excellent oral care.
+    - Despite their [strong](teeth) and [large](teeth) structure, my teeth maintain their [brilliantly white](teeth) color.
+    - I'm proud of my [sturdy and large](teeth) that are [blindingly white](teeth) and [well-maintained](teeth).
+    - My teeth are [resilient](teeth), [impressively large](teeth), and [sparkling white](teeth).
+    - The enamel on my [strong and large](teeth) is [flawlessly white](teeth), indicating optimal dental hygiene.
+    - I have [teeth of substantial size](teeth) that are both [strong](teeth) and [strikingly white](teeth).
+    - Despite their [large](teeth) structure, my teeth are [exceptionally strong](teeth) and [dazzlingly white](teeth).
+    - My [powerful and large](teeth) exhibit a [pure white](teeth) brilliance that enhances my overall smile.
+    - I'm proud of my [robust](teeth) with a [considerable size](teeth) that are [shining white](teeth) and [healthy](teet    - 
+
+
+
+
+
 
 
 - intent: mental_character
@@ -1737,731 +1173,4 @@ nlu:
     - I'm talkative
     - I'm Authoritative
     - I'm calm and quiet
-
-  #----------------------DISEASE SUSPECTABILITY------------------
-
-# [ VATA ]
-
-    -  I possess a [reduced](diseaseSuseptibility) susceptibility to diseases.
-    -  My immune system is [diminished](diseaseSuseptibility) for disease susceptibility.
-    -  I exhibit a [decreased](diseaseSuseptibility) vulnerability to illnesses.
-    -  My body shows a [lower](diseaseSuseptibility) susceptibility to diseases.
-    -  I maintain a [weakened](diseaseSuseptibility) immunity against disease susceptibility.
-    -  My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    -  I demonstrate a [lessened](diseaseSuseptibility) resilience to illnesses.
-    -  My body displays a [lowered](diseaseSuseptibility) immunity to diseases.
-    -  I have a [diminished](diseaseSuseptibility) protection against susceptibility to diseases.
-    - My immunity is [decreased](diseaseSuseptibility) for resilience against illnesses.
-    - I showcase a [lowered](diseaseSuseptibility) defenses against diseases.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) resistance to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lower](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I demonstrate a [lower](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I showcase a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lower](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-    - I possess a [decreased](diseaseSuseptibility) defenses against susceptibility to illnesses.
-    - My body exhibits a [lowered](diseaseSuseptibility) immunity to diseases.
-    - I have a [diminished](diseaseSuseptibility) resistance to disease susceptibility.
-    - My susceptibility to diseases is [subdued](diseaseSuseptibility).
-    - I showcase a [lowered](diseaseSuseptibility) immunity against disease.
-    - My immune system is [diminished](diseaseSuseptibility) for resilience against susceptibility to diseases.
-    - I demonstrate a [decreased](diseaseSuseptibility) defenses against illnesses.
-    - My body exhibits a [reduced](diseaseSuseptibility) immunity to diseases.
-    - I maintain a [weakened](diseaseSuseptibility) vulnerability to illnesses.
-    - My susceptibility to diseases is [limited](diseaseSuseptibility).
-    - I demonstrate a [lowered](diseaseSuseptibility) protection against disease.
-    - My immunity is [subdued](diseaseSuseptibility) for heightened resilience to diseases.
-
-
-# [ PITA ]
-
-    - I have a [medium](diseaseSuseptibility) susceptibility to diseases.
-    - My immune system has a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I exhibit a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body shows a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I possess a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [middling](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [intermediate](diseaseSuseptibility).
-    - I demonstrate a [reasonable](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [moderate](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits a [medium](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase a [balanced](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [moderate](diseaseSuseptibility) level of susceptibility to illnesses.
-
-# [ KAPHA ]
-
-    - I have a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My immune system is [intensely](diseaseSuseptibility) susceptible to illnesses.
-    - I exhibit a [heightened](diseaseSuseptibility) vulnerability to diseases.
-    - My body shows a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I possess a [substantial](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-    - I maintain a [significant](diseaseSuseptibility) susceptibility to diseases.
-    - My susceptibility to diseases is [elevated](diseaseSuseptibility).
-    - I demonstrate an [increased](diseaseSuseptibility) vulnerability to illnesses.
-    - My body displays a [high](diseaseSuseptibility) level of susceptibility to diseases.
-    - I have a [pronounced](diseaseSuseptibility) level of susceptibility to diseases.
-    - My immune system exhibits an [extreme](diseaseSuseptibility) susceptibility to illnesses.
-    - I showcase an [intense](diseaseSuseptibility) vulnerability to diseases.
-    - My body presents a [high](diseaseSuseptibility) level of susceptibility to illnesses.
-
-# --------------------- initiation_capabilities ---------------------------------------------
-
-
-#  [ VATA ]
-
-    - I'm [quick](initiation_capabilities) and [responsive](initiation_capabilities) when initiating projects.
-    - Initiating tasks is where I shine; I'm always [enthusiastic](initiation_capabilities).
-    - [Quick](initiation_capabilities) thinking and [responsiveness](initiation_capabilities) define my initiation style.
-    - When it comes to starting something new, I'm [enthusiastic](initiation_capabilities) and [quick](initiation_capabilities).
-    - My initiation capabilities are marked by [responsiveness](initiation_capabilities) and [enthusiasm](initiation_capabilities).
-    - I approach new challenges with [enthusiasm](initiation_capabilities) and a [quick](initiation_capabilities) mindset.
-    - [Quick](initiation_capabilities) decision-making and [enthusiastic](initiation_capabilities) initiation are my strengths.
-    - Initiating discussions is something I do with [responsiveness](initiation_capabilities) and [enthusiasm](initiation_capabilities).
-    - I'm known for my [quick](initiation_capabilities) and [enthusiastic](initiation_capabilities) approach to new tasks.
-    - [Responsiveness](initiation_capabilities) is the key to my effective initiation of projects.
-    - My initiation style is characterized by [enthusiasm](initiation_capabilities) and [quick](initiation_capabilities) action.
-    - When it comes to getting things started, I'm [quick](initiation_capabilities) and [enthusiastic](initiation_capabilities).
-    - I bring [enthusiasm](initiation_capabilities) and [responsiveness](initiation_capabilities) to the initiation of any project.
-    - [Quick](initiation_capabilities) decision-making and an [enthusiastic](initiation_capabilities) approach define me.
-    - Initiating tasks with [responsiveness](initiation_capabilities) and [enthusiasm](initiation_capabilities) is my forte.
-    - I pride myself on being [quick](initiation_capabilities) and [enthusiastic](initiation_capabilities) in initiating new endeavors.
-    - [Responsiveness](initiation_capabilities) and [enthusiasm](initiation_capabilities) are my strengths in initiation.
-    - I approach new challenges with a blend of [quick](initiation_capabilities) thinking and [enthusiasm](initiation_capabilities).
-    - My initiation style is [enthusiastic](initiation_capabilities), [quick](initiation_capabilities), and always [responsive](initiation_capabilities).
-    - [Quick](initiation_capabilities) action and a [responsive](initiation_capabilities) mindset characterize my initiation capabilities.
-
-# [ PITTA ]
-
-    - I'm [moderate](initiation_capabilities) when it comes to initiating new things.
-    - Initiating projects is something I do [upon conviction](initiation_capabilities).
-    - [Understanding](initiation_capabilities) the task at hand guides my initiation approach.
-    - I bring a [moderate](initiation_capabilities) and [understanding](initiation_capabilities) perspective to new challenges.
-    - My initiation style is [upon conviction](initiation_capabilities) and [moderate](initiation_capabilities).
-    - When initiating tasks, I approach them with [understanding](initiation_capabilities) and [moderation](initiation_capabilities).
-    - I'm [moderate](initiation_capabilities) yet [conviction-driven](initiation_capabilities) in my initiation of projects.
-    - [Understanding](initiation_capabilities) the context is key to my initiation strategy.
-    - Initiating new endeavors is where my [moderate](initiation_capabilities) and [understanding](initiation_capabilities) qualities shine.
-    - [Upon conviction](initiation_capabilities), I initiate tasks with a [moderate](initiation_capabilities) approach.
-    - I handle initiation with [moderation](initiation_capabilities) and a deep [understanding](initiation_capabilities) of the goals.
-    - My initiation style is characterized by a [moderate](initiation_capabilities) and [understanding](initiation_capabilities) approach.
-    - [Understanding](initiation_capabilities) the nuances of a project is crucial in my initiation process.
-    - I bring a [moderate](initiation_capabilities) and [conviction-driven](initiation_capabilities) attitude to initiation.
-    - Initiating tasks requires a balanced and [moderate](initiation_capabilities) approach.
-    - [Understanding](initiation_capabilities) the intricacies of a task guides my initiation decisions.
-    - I initiate projects [upon conviction](initiation_capabilities) with a [moderate](initiation_capabilities) mindset.
-    - [Moderation](initiation_capabilities) and a deep [understanding](initiation_capabilities) mark my initiation capabilities.
-    - I approach initiation with a [moderate](initiation_capabilities) mindset and [understanding](initiation_capabilities) of the context.
-    - [Upon conviction](initiation_capabilities), I take on new challenges with a [moderate](initiation_capabilities) approach.
-    - I approach initiation with a [moderate](initiation_capabilities) and [understanding](initiation_capabilities) mindset.
-    - Initiating tasks [upon conviction](initiation_capabilities) requires a touch of [moderation](initiation_capabilities).
-    - [Understanding](initiation_capabilities) the goals is crucial for my [moderate](initiation_capabilities) initiation style.
-    - I bring a balanced and [moderate](initiation_capabilities) perspective to initiating new projects.
-    - My initiation strategy is characterized by [upon conviction](initiation_capabilities) and [moderation](initiation_capabilities).
-    - [Moderation](initiation_capabilities) and [understanding](initiation_capabilities) guide my initiation decisions.
-    - I initiate projects with a [moderate](initiation_capabilities) mindset and a deep [understanding](initiation_capabilities).
-    - [Upon conviction](initiation_capabilities), I take on new challenges with a measured [moderation](initiation_capabilities).
-    - My initiation approach is [moderate](initiation_capabilities), grounded in [understanding](initiation_capabilities) the context.
-    - Initiating tasks is where my [moderate](initiation_capabilities) and [conviction-driven](initiation_capabilities) qualities shine.
-    - I handle initiation with a balanced and [moderate](initiation_capabilities) approach.
-    - [Understanding](initiation_capabilities) the nuances of a project is key in my initiation process.
-    - Initiating new endeavors requires a blend of [moderation](initiation_capabilities) and [understanding](initiation_capabilities).
-    - My initiation style is marked by a [moderate](initiation_capabilities) and [conviction-driven](initiation_capabilities) attitude.
-    - [Upon conviction](initiation_capabilities), I initiate tasks with a thoughtful [moderation](initiation_capabilities).
-    - I approach initiation with [moderation](initiation_capabilities) and a clear [understanding](initiation_capabilities) of the goals.
-    - [Understanding](initiation_capabilities) the intricacies of a task guides my initiation decisions.
-    - I initiate projects [upon conviction](initiation_capabilities) with a [moderate](initiation_capabilities) and [understanding](initiation_capabilities) mindset.
-    - [Moderation](initiation_capabilities) and a deep [understanding](initiation_capabilities) are the pillars of my initiation capabilities.
-    - I bring a measured [moderate](initiation_capabilities) approach to initiation, always [understanding](initiation_capabilities) the context.
-    - Initiating tasks [upon conviction](initiation_capabilities) is where my [moderate](initiation_capabilities) and [conviction-driven](initiation_capabilities) qualities come to play.
-
-# [ KAPHA ]
-
-    - I'm [slow](initiation_capabilities) when it comes to initiating new things.
-    - Initiating projects is something I do, but I tend to be [slow](initiation_capabilities).
-    - My initiation style is [slow](initiation_capabilities), taking time to carefully consider each step.
-    - When it comes to starting something new, I can be a bit [slow](initiation_capabilities).
-    - I approach new challenges with a [slow](initiation_capabilities) and deliberate initiation style.
-    - [Slow](initiation_capabilities) but steady is how I describe my initiation capabilities.
-    - I take my time and am [slow](initiation_capabilities) in the initiation of new endeavors.
-    - Initiating tasks is a process where I'm often considered [slow](initiation_capabilities).
-    - I'm [slow](initiation_capabilities) to initiate, but thorough in my approach.
-    - [Slow](initiation_capabilities) initiation allows me to assess and plan more thoroughly.
-    - My initiation style is characterized by being intentionally [slow](initiation_capabilities).
-    - [Slow](initiation_capabilities) and methodical, that's how I approach initiating projects.
-    - Initiating new tasks may seem [slow](initiation_capabilities), but it ensures careful consideration.
-    - I bring a deliberate and [slow](initiation_capabilities) approach to initiating projects.
-    - [Slow](initiation_capabilities) initiation doesn't mean lack of commitment; it's about being thorough.
-    - When it comes to getting things started, I tend to be [slow](initiation_capabilities) and deliberate.
-    - I'm known for my [slow](initiation_capabilities) yet thoughtful initiation of new endeavors.
-    - [Slow](initiation_capabilities) initiation allows for a more comprehensive understanding of the task.
-    - I approach initiation with a [slow](initiation_capabilities) mindset, focusing on quality over speed.
-    - Initiating tasks with a [slow](initiation_capabilities) pace ensures attention to detail.
-  
-# ------------------------- SPEECH ----------------------------------------
-
-# VATA
-
-    - I'm naturally [chatty](speech).
-    - When it comes to conversation, I tend to be quite [verbose](speech).
-    - [Loquacious](speech) is one word that describes my communication style.
-    - My friends often describe me as [garrulous](speech) and lively.
-    - Initiating discussions is where my [communicative](speech) nature shines.
-    - Whether it's about work or personal matters, I'm consistently [voluble](speech).
-    - I enjoy engaging in conversations and am inherently [effusive](speech).
-    - [Expressive](speech) and sociable, that's how I approach communication.
-    - I find myself being [articulate](speech) in group settings.
-    - Communication for me is all about being [outspoken](speech) and expressive.
-    - [Vocal](speech) by nature, I love sharing ideas and thoughts.
-    - I bring a [talky](speech) and energetic presence to conversations.
-    - Being [gabby](speech), I often find joy in connecting with others through words.
-    - [Garrulous](speech) doesn't just describe me; it's an integral part of my personality.
-    - I'm naturally [effervescent](speech), and I enjoy expressing myself through words.
-    - When it comes to public speaking, I excel due to my [glib](speech) nature.
-    - My [communicative](speech) demeanor makes me approachable and easy to talk to.
-    - [Chatterbox](speech) in a positive way, I love engaging with people.
-    - Being [vocal](speech), I find joy in sharing stories and experiences.
-    - Whether it's a casual chat or a formal discussion, I'm consistently [articulate](speech).
-
-# PITTA
-
-    - I'm naturally [authoritative](speech) in my communication style.
-    - When I speak, I do so with an [authoritative](speech) tone and presence.
-    - [Authoritative](speech) is one word that describes my approach to communication.
-    - In debates, I take on the role of a [contending debater](speech), presenting my arguments strongly.
-    - My friends often see me as [authoritative](speech), especially in group discussions.
-    - Initiating discussions with an [authoritative](speech) stance is one of my strengths.
-    - Whether it's a casual conversation or a formal debate, I come across as [contending debater](speech).
-    - [Authoritative](speech) and confident, that's how I communicate my ideas.
-    - I find myself being an [authoritative](speech) speaker, especially in professional settings.
-    - In debates, I am known for being a [contending debater](speech), challenging ideas with conviction.
-    - [Authoritative](speech) in my communication style, I make my points with clarity and confidence.
-    - I bring an [authoritative](speech) and compelling presence to discussions and debates.
-    - Being a [contending debater](speech), I enjoy engaging in intellectual conversations.
-    - [Authoritative](speech) doesn't just describe me; it reflects my commanding presence in discussions.
-    - I'm naturally [authoritative](speech), and I excel in presenting my ideas convincingly.
-    - As a [contending debater](speech), I thrive on the challenge of debating diverse perspectives.
-    - My [authoritative](speech) demeanor makes me a strong and influential communicator.
-    - Whether it's defending a viewpoint or challenging ideas, I'm a [contending debater](speech).
-    - Being [authoritative](speech), I command attention and respect in my communication.
-    - I approach conversations with the mindset of an [authoritative](speech) and [contending debater](speech).
-    - I naturally come across as [authoritative](speech) in discussions.
-    - When I express my opinions, I do so with an [authoritative](speech) demeanor.
-    - My leadership style is characterized by being [authoritative](speech) and decisive.
-    - In professional settings, my communication is often described as [authoritative](speech).
-    - I bring an [authoritative](speech) presence to team meetings and group discussions.
-    - [Authoritative](speech) communication is a key aspect of my managerial approach.
-    - I'm known for my [authoritative](speech) yet approachable communication style.
-    - People often turn to me for guidance due to my [authoritative](speech) tone.
-    - I find myself naturally adopting an [authoritative](speech) stance in leadership roles.
-    - Whether it's leading a project or making decisions, I am consistently [authoritative](speech).
-    - [Authoritative](speech) and assertive, I ensure clarity in my communication.
-    - I bring an [authoritative](speech) and confident voice to public speaking engagements.
-    - My [authoritative](speech) communication style is effective in conveying complex ideas.
-    - [Authoritative](speech) doesn't just describe my speaking style; it defines my leadership approach.
-    - As a team leader, I communicate with an [authoritative](speech) tone to drive results.
-    - I'm naturally inclined to take on an [authoritative](speech) role in group discussions.
-    - In negotiations, I project an [authoritative](speech) presence to assert my position.
-    - [Authoritative](speech) communication is a strength I leverage in professional collaborations.
-    - I excel in situations where an [authoritative](speech) voice is required to make decisions.
-    - People respect my [authoritative](speech) communication style, especially in challenging situations.
-    - I thrive in debates, always taking on the role of a [contending debater](speech).
-    - As a [contending debater](speech), I enjoy challenging ideas and engaging in intellectual discussions.
-    - My communication style is akin to that of a [contending debater](speech)—confident and assertive.
-    - In academic settings, I've earned a reputation as a skilled [contending debater](speech).
-    - I find joy in being a [contending debater](speech), exploring diverse perspectives in discussions.
-    - [Contending debater](speech) is not just a role for me; it's an integral part of my communication style.
-    - I approach debates with the mindset of a [contending debater](speech), presenting compelling arguments.
-    - Whether it's defending my viewpoint or challenging others, I'm always a [contending debater](speech).
-    - In group discussions, I naturally gravitate towards the role of a [contending debater](speech).
-    - As a [contending debater](speech), I enjoy the thrill of intellectual exchange and argumentation.
-    - [Contending debater](speech) reflects my passion for rigorously debating complex topics.
-    - When faced with opposing viewpoints, I step into the shoes of a [contending debater](speech).
-    - I bring a [contending debater](speech) mindset to collaborative projects, encouraging critical thinking.
-    - [Contending debater](speech) describes my approach to discussions, especially when advocating for change.
-    - I excel in environments that require a [contending debater](speech), challenging the status quo.
-    - Being a [contending debater](speech), I appreciate the value of constructive disagreement.
-    - In team collaborations, I contribute as a [contending debater](speech), fostering innovation.
-    - [Contending debater](speech) is not just a role; it's a mindset that guides my approach to communication.
-    - When participating in panel discussions, I naturally emerge as a [contending debater](speech).
-    - My ability to be a persuasive [contending debater](speech) sets me apart in professional conversations.
-
-# KAPHA
-
-    - I'm naturally [serene](speech) and [tranquil](speech) in my communication style.
-    - When I speak, I do so with a [composed](speech) and [placid](speech) demeanor.
-    - [Equanimous](speech) and [unflappable](speech) describe my approach to conversations.
-    - My friends often see me as someone with a [peaceful](speech) and [cool-headed](speech) presence.
-    - Initiating discussions with a [balanced](speech) and [soothing](speech) tone is one of my strengths.
-    - Whether it's a casual conversation or a formal setting, I am consistently [calm](speech) and [composed](speech).
-    - I enjoy engaging in conversations with a [tranquil](speech) and [reassuring](speech) disposition.
-    - [Balanced](speech) and [composed](speech), that's how I approach communication.
-    - I find myself being [placid](speech) and [level-headed](speech) in group settings.
-    - Communication for me is all about being [calm](speech) and [serene](speech).
-    - [Calm](speech) and [composed](speech) by nature, I love the tranquility of thoughtful conversations.
-    - I bring a [serene](speech) and [composed](speech) presence to discussions and debates.
-    - Being [calm](speech) and [composed](speech), I often find joy in connecting with others through subtle words.
-    - [Calm](speech) doesn't just describe me; it's an integral part of my [quiet](speech) personality.
-    - I'm naturally [calm](speech) and [composed](speech), and I excel in creating a serene atmosphere.
-    - When it comes to public speaking, I maintain a [placid](speech) and [restrained](speech) yet impactful presence.
-    - My [cool-headed](speech) demeanor makes me approachable and easy to talk to in a [gentle](speech) manner.
-    - Whether it's a one-on-one conversation or a group discussion, I remain [calm](speech) and [gentle](speech).
-    - [Calm](speech) and [composed](speech) doesn't mean lack of engagement; it's about creating a peaceful environment.
-    - I approach conversations with the mindset of being [tranquil](speech) and [unobtrusive](speech), valuing thoughtful exchanges.
-    - When faced with challenges, I maintain a [calm](speech) and collected demeanor.
-    - [Tranquil](speech) is my default mode, even in high-pressure situations.
-    - My leadership style is characterized by a [composed](speech) and collected presence.
-    - In professional settings, my communication is often described as [gentle](speech) and reassuring.
-    - I bring a sense of [equanimity](speech) to team meetings and group discussions.
-    - [Placid](speech) communication is a key aspect of my managerial approach.
-    - I'm known for my [unflappable](speech) yet effective communication style.
-    - People often turn to me for guidance due to my [gentle](speech) and steady tone.
-    - I find myself naturally maintaining a [level-headed](speech) and collected stance in leadership roles.
-    - Whether it's leading a project or handling crises, I am consistently [composed](speech).
-    - [Calm](speech) and [composed](speech), I ensure clarity in my communication.
-    - I bring a [peaceful](speech) and reassuring presence to public speaking engagements.
-    - My [cool-headed](speech) communication style is effective in diffusing tense situations.
-    - [Calm](speech) doesn't just describe my speaking style; it defines my leadership approach.
-    - As a team leader, I communicate with a [tranquil](speech) tone to inspire confidence.
-    - I'm naturally inclined to maintain a [gentle](speech) demeanor in group discussions.
-    - [Balanced](speech) communication is a strength I leverage in professional collaborations.
-    - I excel in situations where a [soothing](speech) voice is required to navigate challenges.
-    - People respect my [placid](speech) communication style, especially in crisis management.
-    - I bring a measured [unperturbed](speech) approach to communication, fostering a positive atmosphere.
-    - I'm naturally [reserved](speech) in my communication style, preferring thoughtful listening.
-    - In social settings, I tend to be [taciturn](speech), observing and absorbing information.
-    - [Retiring](speech) yet attentive, that's how I approach conversations.
-    - My friends often describe me as someone with a [restrained](speech) and introspective presence.
-    - Initiating discussions with a [muted](speech) tone is one of my strengths.
-    - Whether it's a casual conversation or a formal setting, I am consistently [low-key](speech).
-    - I enjoy engaging in conversations with a [pensive](speech) and contemplative disposition.
-    - [Soft-spoken](speech) by nature, I find strength in the power of thoughtful words.
-    - I find myself being [reserved](speech) in group settings, contributing through selective words.
-    - Communication for me is all about being [hushed](speech), allowing space for meaningful exchanges.
-    - [Quiet](speech) by nature, I cherish the depth that comes with introspective conversations.
-    - I bring a [demure](speech) presence to discussions, valuing the nuances of each spoken word.
-    - Being [unobtrusive](speech) doesn't mean disengagement; it's about creating space for thoughtful responses.
-    - I'm naturally [subdued](speech), and I excel in creating a calm and reflective atmosphere.
-    - When it comes to public speaking, I maintain a [gentle](speech) yet impactful presence.
-    - My [reserved](speech) demeanor makes me an attentive listener and a thoughtful contributor.
-    - Whether it's a one-on-one conversation or a group discussion, I remain [subtle](speech).
-    - [Quiet](speech) doesn't mean lack of engagement; it's about creating a space for contemplation.
-    - I approach conversations with the mindset of being [muted](speech), fostering meaningful dialogues.
-    - In collaborative projects, I contribute as a [low-profile](speech) yet influential team member.
-
-# --------------------------------------- MEMORY ----------------------------------
-
-# VATA
-
-    - I'm [swift](memory) at grasping new concepts.
-    - When learning, I have a [rapid](memory) understanding of things.
-    - [Prompt](memory) comprehension is one of my strengths.
-    - My mind is [nimble](memory), allowing me to quickly grasp information.
-    - I'm adept at [speedily](memory) understanding complex topics.
-    - [Efficient](memory) learning is a characteristic of my cognitive abilities.
-    - I have a talent for [quickly](memory) comprehending new information.
-    - [Agile](memory) thinking allows me to grasp concepts swiftly.
-    - Learning comes naturally to me; I'm [prompt](memory) in grasping new ideas.
-    - [Swift](memory) comprehension is a key aspect of my cognitive skills.
-    - My ability for [speedy](memory) understanding makes learning enjoyable.
-    - [Prompt](memory) cognitive processing enables me to grasp information rapidly.
-    - I excel in [swiftly](memory) comprehending diverse subjects.
-    - [Effortless](memory) understanding characterizes my learning style.
-    - I possess a [quick-witted](memory) nature when it comes to grasping information.
-    - [Speedy](memory) cognition is a strength that sets me apart.
-    - I'm naturally [quick](memory) in picking up new skills.
-    - [Rapid](memory) learning is a quality I bring to academic pursuits.
-    - [Efficient](memory) comprehension defines my approach to learning.
-    - My ability for [quick](memory) understanding extends across various domains.
-    - I struggle with [retaining](memory) information over time.
-    - [Limited](memory) memory retention is a challenge for me.
-    - When it comes to remembering, I have [poor](memory) retention.
-    - My memory has a tendency for [subpar](memory) retention.
-    - [Inadequate](memory) memory retention hinders my long-term recall.
-    - [Weak](memory) memory retention is a consistent aspect of my cognitive abilities.
-    - I face challenges with [sustaining](memory) information in my memory.
-    - [Deficient](memory) memory retention is an aspect I continually work on.
-    - I experience [insufficient](memory) memory retention in academic settings.
-    - [Impaired](memory) memory retention affects my ability to recall details.
-    - [Substandard](memory) memory retention is a weakness I acknowledge.
-    - [Below-average](memory) memory retention is a hurdle in my learning process.
-    - I find myself grappling with [low](memory) memory retention.
-    - [Faulty](memory) memory retention is a characteristic I actively address.
-    - [Limited](memory) capacity for memory retention is an area for improvement.
-    - [Inferior](memory) memory retention impacts my ability to recall information.
-    - [Poor](memory) memory retention is a factor I consider in my study strategies.
-    - I recognize my [suboptimal](memory) memory retention and strive for improvement.
-    - [Unsatisfactory](memory) memory retention is an aspect I'm working on enhancing.
-    - [Deficient](memory) memory retention is a challenge that influences my learning experience.
-    - I possess an innate ability for [speedy](memory) learning.
-    - [Rapid](memory) assimilation of information is a skill I've honed.
-    - My cognitive process involves [quick](memory) understanding of new material.
-    - Learning comes naturally to me; I'm [prompt](memory) in grasping new concepts.
-    - [Efficient](memory) cognitive processing allows me to grasp information swiftly.
-    - I excel in [speedily](memory) comprehending diverse subjects.
-    - [Agile](memory) thinking is a hallmark of my ability to understand quickly.
-    - My mind is [nimble](memory), allowing me to swiftly grasp complex topics.
-    - [Swift](memory) comprehension is a key aspect of my cognitive skills.
-    - [Effortless](memory) understanding characterizes my learning style.
-    - I'm naturally [quick](memory) in picking up new skills and knowledge.
-    - [Prompt](memory) cognitive processing enables me to grasp information rapidly.
-    - [Swift](memory) at grasping details, I thrive in environments that require quick learning.
-    - [Rapid](memory) learning is a quality I bring to academic pursuits.
-    - My ability for [quick](memory) understanding extends across various domains.
-    - [Swift](memory) comprehension is a strength that sets me apart.
-    - I find joy in [speedily](memory) acquiring new knowledge and skills.
-    - [Efficient](memory) learning is a characteristic of my cognitive abilities.
-    - [Prompt](memory) comprehension is one of my inherent strengths.
-    - [Agile](memory) thinking allows me to quickly grasp complex information.
-    - [Inadequate](memory) memory retention poses a challenge for me.
-    - [Substandard](memory) memory retention is a hurdle I work to overcome.
-    - I grapple with [low](memory) memory retention over extended periods.
-    - My memory has a tendency for [subpar](memory) retention.
-    - [Limited](memory) memory retention is an ongoing challenge in my learning journey.
-    - [Deficient](memory) memory retention affects my ability to recall information.
-    - I recognize my [suboptimal](memory) memory retention and strive for improvement.
-    - [Unsatisfactory](memory) memory retention is an aspect I'm actively addressing.
-    - I face challenges with [sustaining](memory) information in my memory.
-    - [Weak](memory) memory retention is a consistent aspect of my cognitive abilities.
-    - [Below-average](memory) memory retention is a hurdle in my learning process.
-    - I find myself grappling with [poor](memory) memory retention.
-    - [Faulty](memory) memory retention is a characteristic I actively address.
-    - [Insufficient](memory) memory retention hinders my long-term recall.
-    - [Impaired](memory) memory retention affects my ability to remember details.
-    - [Deficient](memory) memory retention is an area for improvement in my study strategies.
-    - [Poor](memory) memory retention is a factor I consider in my learning approach.
-    - [Limited](memory) capacity for memory retention is a challenge I aim to overcome.
-    - [Inferior](memory) memory retention impacts my ability to recall information.
-    - [Subpar](memory) memory retention is a weakness that influences my learning experience.
-  
-# PITTA
-
-    - I have a [balanced](memory) ability when it comes to grasping new concepts.
-    - My learning style is [middle-of-the-road](memory), not too quick but not too slow.
-    - I possess a [moderated](memory) approach to understanding new information.
-    - [Average](memory) cognitive processing characterizes my ability to grasp concepts.
-    - I'm [middling](memory) in my capacity to quickly comprehend diverse subjects.
-    - My learning curve is [intermediate](memory), neither fast nor slow.
-    - I have a [tempered](memory) ability for grasping information efficiently.
-    - [Standard](memory) comprehension is the hallmark of my learning style.
-    - My mind adapts with [moderate](memory) speed when it comes to grasping new ideas.
-    - I'm proficient at a [moderated](memory) pace in learning and assimilating knowledge.
-    - [Regular](memory) understanding defines my approach to new information.
-    - [Ordinary](memory) cognitive processing characterizes my learning style.
-    - I possess a [median](memory) ability for grasping new concepts.
-    - I'm [middling](memory) in my capacity to swiftly understand complex information.
-    - [Balanced](memory) learning is my strength; neither too quick nor too slow.
-    - My ability for [moderate](memory) understanding extends across various subjects.
-    - [Intermediate](memory) cognitive processing allows me to grasp new concepts effectively.
-    - I excel in [steady](memory) comprehension, adapting at a consistent pace.
-    - My learning style is characterized by [average](memory) cognitive processing.
-    - [Middle-ground](memory) understanding is a key aspect of my cognitive abilities.
-    - I exhibit a [tempered](memory) ability for retaining information.
-    - [Average](memory) memory retention is a consistent aspect of my cognitive abilities.
-    - My memory has a [balanced](memory) capacity for retaining details over time.
-    - I maintain a [moderated](memory) approach to sustaining information in my memory.
-    - [Ordinary](memory) memory retention is a defining feature of my cognitive abilities.
-    - [Middle-of-the-road](memory) memory retention characterizes my learning experience.
-    - I possess a [regular](memory) ability for remembering information over extended periods.
-    - [Standard](memory) memory retention is an area where I strive to maintain consistency.
-    - My ability for [moderate](memory) memory retention impacts my long-term recall.
-    - I'm adept at a [moderated](memory) pace in remembering and recalling details.
-    - [Intermediate](memory) memory retention is a key aspect of my cognitive skills.
-    - [Balanced](memory) memory retention is a strength I bring to academic pursuits.
-    - I have a [median](memory) ability for retaining information over time.
-    - [Middle-ground](memory) memory retention is an area for improvement in my study strategies.
-    - [Regular](memory) memory retention allows me to recall information effectively.
-    - I'm proficient at [steady](memory) memory retention, sustaining details over time.
-    - [Tempered](memory) memory retention is a characteristic I actively work on.
-    - [Moderated](memory) memory retention is an aspect I'm continually improving.
-    - I recognize the importance of [middle-of-the-road](memory) memory retention in my learning journey.
-    - My memory exhibits [average](memory) retention, allowing me to recall information when needed.
-
-# KAPHA
-
-    - I have a [deliberate](memory) approach when it comes to grasping new concepts.
-    - My learning style is [gradual](memory), allowing me to understand information thoroughly.
-    - I possess a [leisurely](memory) pace in comprehending new ideas.
-    - [Sluggish](memory) cognitive processing characterizes my approach to understanding.
-    - I'm [tardy](memory) in my capacity to quickly grasp diverse subjects.
-    - My learning curve is [prolonged](memory), not quick but thorough.
-    - I have a [relaxed](memory) ability for grasping new information.
-    - [Languid](memory) comprehension defines my approach to learning.
-    - My mind adapts with a [slow](memory) speed when it comes to absorbing new concepts.
-    - I'm proficient at a [moderate](memory) pace in understanding complex information.
-    - [Measured](memory) understanding is a key aspect of my learning style.
-    - [Steady](memory) cognitive processing characterizes my approach to new information.
-    - I possess a [sedate](memory) ability for grasping new concepts.
-    - I'm [unhurried](memory) in my capacity to understand complex information.
-    - [Laid-back](memory) learning is my strength, allowing me to grasp concepts thoroughly.
-    - My ability for [slow](memory) understanding extends across various subjects.
-    - [Methodical](memory) cognitive processing allows me to grasp new concepts thoroughly.
-    - I excel in [careful](memory) comprehension, adapting at a consistent and thorough pace.
-    - My learning style is characterized by [gradual](memory) cognitive processing.
-    - [Easygoing](memory) understanding is a key aspect of my cognitive abilities.
-    - I exhibit a [strong](memory) ability for retaining information.
-    - [Exceptional](memory) memory retention is a consistent aspect of my cognitive abilities.
-    - My memory has a [remarkable](memory) capacity for retaining details over time.
-    - I maintain an [impressive](memory) approach to sustaining information in my memory.
-    - [Outstanding](memory) memory retention is a defining feature of my cognitive abilities.
-    - [Top-notch](memory) memory retention characterizes my learning experience.
-    - I possess an [excellent](memory) ability for remembering information over extended periods.
-    - [Superior](memory) memory retention is an area where I excel consistently.
-    - My ability for [good](memory) memory retention impacts my long-term recall positively.
-    - I'm adept at a [high](memory) level of memory retention, remembering details effectively.
-    - [Effective](memory) memory retention is a key aspect of my cognitive skills.
-    - [Noteworthy](memory) memory retention is a strength I bring to academic pursuits.
-    - I have an [impressive](memory) ability for retaining information over time.
-    - [Exceptional](memory) memory retention is an area for recognition in my study strategies.
-    - [Superb](memory) memory retention allows me to recall information with precision.
-    - I'm proficient at [robust](memory) memory retention, sustaining details effectively.
-    - [Exemplary](memory) memory retention is a characteristic that sets me apart positively.
-    - [High-level](memory) memory retention is an aspect I'm continually maintaining.
-    - I recognize the significance of [good](memory) memory retention in my learning journey.
-    - My memory exhibits [notable](memory) retention, allowing me to recall information reliably.
 
