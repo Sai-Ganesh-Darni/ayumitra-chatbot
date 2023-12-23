@@ -9,8 +9,19 @@ intents:
   - mood_unhappy
   - bot_challenge
   - ask_prakriti
-  - physical_character
-  - mental_character
+  - body_built
+  - body_joints
+  - body_organs
+  - body_lips
+  - body_eyes
+  - body_teeth
+  - body_skin
+  - body_hair
+  - mind_intitiation
+  - mind_speech
+  - mind_memory
+  - mind_diseaseSusept
+  - mind_diseaseTend
 
 entities:
   - bodyBuilt
