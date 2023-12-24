@@ -3845,3 +3845,63 @@ intents:
 - mind_memory
 - mind_diseaseSusept
 - mind_diseaseTend
+
+- rule: Respond to body_built
+  steps:
+    - intent: body_built
+    - action: utter_body_built_response
+- rule: Respond to body_joints
+  steps:
+    - intent: body_joints
+    - action: utter_body_joints_response
+- rule: Respond to body_organs
+  steps:
+    - intent: body_organs
+    - action: utter_body_organs_response
+- rule: Respond to body_lips
+  steps:
+    - intent: body_lips
+    - action: utter_body_lips_response
+- rule: Respond to body_eyes
+  steps:
+    - intent: body_eyes
+    - action: utter_body_eyes_response
+- rule: Respond to body_teeth
+  steps:
+    - intent: body_teeth
+    - action: utter_body_teeth_response
+- rule: Respond to body_skin
+  steps:
+    - intent: body_skin
+    - action: utter_body_skin_response
+- rule: Respond to body_hair
+  steps:
+    - intent: body_hair
+    - action: utter_body_hair_response
+- rule: Respond to mind_intitiation
+  steps:
+    - intent: mind_intitiation
+    - action: utter_mind_intitiation_response
+- rule: Respond to mind_speech
+  steps:
+    - intent: mind_speech
+    - action: utter_mind_speech_response
+- rule: Respond to mind_memory
+  steps:
+    - intent: mind_memory
+    - action: utter_mind_memory_response
+- rule: Respond to mind_diseaseSusept
+  steps:
+    - intent: mind_diseaseSusept
+    - action: utter_mind_diseaseSusept_response
+- rule: Respond to mind_diseaseTend
+  steps:
+    - intent: mind_diseaseTend
+    - action: utter_mind_diseaseTend_respons
+
+    Hi
+    Prakriti
+    fit
+    lean joints
+    dry skin
+    silky hair

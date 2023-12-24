@@ -1,90 +1,189 @@
-version: "3.1"
-
+version: '3.1'
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - ask_prakriti
-  - body_built
-  - body_joints
-  - body_organs
-  - body_lips
-  - body_eyes
-  - body_teeth
-  - body_skin
-  - body_hair
-  - mind_intitiation
-  - mind_speech
-  - mind_memory
-  - mind_diseaseSusept
-  - mind_diseaseTend
+- affirm
+- ask_prakriti
+- body_built
+- body_eyes
+- body_hair
+- body_joints
+- body_lips
+- body_organs
+- body_skin
+- body_teeth
+- bot_challenge
+- deny
+- goodbye
+- greet
+- mind_diseaseSusept
+- mind_diseaseTend
+- mind_intitiation
+- mind_memory
+- mind_speech
+- mood_great
+- mood_unhappy
+- nlu_fallback
+
+
 
 entities:
-  - bodyBuilt
-  - joints
-  - skin
-  - hair
-  - bodyOrgans
-  - eyes
-  - lips
-  - teeth
-  - initiation_capabilities
-  - speech
-  - memory
-  - diseaseTendency
-  - diseaseSusceptibility
+- bodyBuilt
+- hair
+- initiation_capabilities
+- joints
+- skin
+- speech
+- memory
+- bodyOrgans
+- eyes
+- lips
+- teeth
+- diseaseTendency
+- diseaseSusceptibility
+
+
+slots:
+  bodyBuilt:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: bodyBuilt
+  joints:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: joints
+  skin:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: skin
+  hair:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: hair
+  bodyOrgans:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: bodyOrgans
+  eyes:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: eyes
+  lips:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: lips
+  teeth:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: teeth
+  initiation_capabilities:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: initiation_capabilities
+  speech:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: speech
+  memory:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: memory
+  diseaseTendency:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: diseaseTendency
+  diseaseSuseptibility:                 
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: diseaseSuseptibility
+
+
 
 responses:
   utter_greet:
-  - text: "Hey Hi!"
-
+  - text: Hey Hi!
   utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
   utter_did_that_help:
-  - text: "Did that help you?"
-
+  - text: Did that help you?
   utter_happy:
-  - text: "Great, carry on!"
-
+  - text: Great, carry on!
   utter_goodbye:
-  - text: "Bye"
-
+  - text: Bye
   utter_iamabot:
-  - text: "I am a Ayumitra Chatbot developed by Ayumitra Team"
-  
+  - text: I am a Ayumitra Chatbot developed by Ayumitra Team
   utter_askDetails:
-  - text: "Yes to find that first tell me about your physical and mental characteristics"
+  - text: Yes to find that first tell me about your physical and mental characteristics
   utter_askbodyBuilt:
-  - text: "Tell me about your body built"
-
+  - text: Tell me about your body built
+  utter_askTeeth:
+  - text: Tell me about your teeth
+  utter_askEyes:
+  - text: Tell me about your eyes
+  utter_askLips:
+  - text: Tell me about your lips
   utter_askJoints:
-  - text: "Tell me about your bone joints"
-
+  - text: Tell me about your bone joints
   utter_askSkin:
-  - text: "Tell me about your skin"
-
+  - text: Tell me about your skin
   utter_askHair:
-  - text: "Tell me about your hair"
-
+  - text: Tell me about your hair
   utter_askInitiation:
-  - text: "How about your initiation?"
-
+  - text: How about your initiation?
   utter_askSpeech:
-  - text: "How's your speaking abilities?"
-
+  - text: How's your speaking abilities?
   utter_askMemory:
-  - text: ""
+  - text: 'How''s your memory?'
+  utter_askDiseaseTendency:         
+  - text: 'How is your disease tendency?'
+  utter_askDiseaseSusceptibility:
+  - text: 'How is your disease susceptibility?'
 
 
 
 actions:
- - action_determinePrakriti
+- utter_askInitiation
+- utter_askSpeech
+- utter_goodbye
+- utter_greet
+- utter_askbodyBuilt
+- utter_askHair
+- utter_askMemory
+- utter_askDetails
+- utter_askJoints
+- action_determinePrakriti
+- utter_askSkin
+- utter_askTeeth
+- utter_askEyes
+- utter_askLips
+- utter_iamabot
+- utter_askDiseaseTendency
+- utter_askDiseaseSusceptibility
 
 session_config:
   session_expiration_time: 60
