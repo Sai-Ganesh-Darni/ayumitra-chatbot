@@ -25,12 +25,63 @@ stories:
   - intent: body_skin
   - action: utter_askHair
   - intent: body_hair
+  - action: utter_askTeeth
+  - intent: body_teeth
+  - action: utter_askEyes
+  - intent: body_eyes
+  - action: utter_askLips
+  - intent: body_lips
   - action: utter_askInitiation
   - intent: mind_intitiation
   - action: utter_askSpeech
   - intent: mind_speech
   - action: utter_askMemory
   - intent: mind_memory
+  - action: utter_askDiseaseTendency
+  - intent: mind_diseaseTend
+  - action: utter_askDiseaseSusceptibility
+  - intent: mind_diseaseSusept
   - action: action_determinePrakriti
   - intent: deny
+  - action: utter_goodbye
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_prakriti
+  - action: utter_askDetails
+  - action: utter_askbodyBuilt
+  - intent: body_built
+    entities:
+    - bodyBuilt: fat
+  - action: utter_askJoints
+  - intent: body_joints
+    entities:
+    - joints: lean
+    - joints: joint
+  - action: utter_askSkin
+  - intent: body_skin
+    entities:
+    - skin: dry
+    - skin: rough
+  - action: utter_askHair
+  - intent: body_hair
+    entities:
+    - hair: silky
+  - action: utter_askInitiation
+  - intent: mind_intitiation
+    entities:
+    - initiation_capabilities: slow
+  - action: utter_askSpeech
+  - intent: mind_speech
+    entities:
+    - speech: chatty
+  - action: utter_askMemory
+  - intent: mind_memory
+    entities:
+    - memory: swift
+  - action: action_determinePrakriti
+  - action: utter_goodbye
+  - intent: goodbye
   - action: utter_goodbye
